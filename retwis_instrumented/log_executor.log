@@ -1,0 +1,2730 @@
+2022-07-20 22:42:45,150 Total thread occupancy: 0.000000
+2022-07-20 22:42:45,150 	Event pin occupancy: 0.000000
+2022-07-20 22:42:45,150 	Event unpin occupancy: 0.000000
+2022-07-20 22:42:45,150 	Event func_exec occupancy: 0.000000
+2022-07-20 22:42:45,150 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:42:45,150 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:42:45,151 
+2022-07-20 22:42:50,156 Total thread occupancy: 0.000000
+2022-07-20 22:42:50,156 	Event pin occupancy: 0.000000
+2022-07-20 22:42:50,156 	Event unpin occupancy: 0.000000
+2022-07-20 22:42:50,156 	Event func_exec occupancy: 0.000000
+2022-07-20 22:42:50,156 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:42:50,156 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:42:50,156 
+2022-07-20 22:42:55,161 Total thread occupancy: 0.000000
+2022-07-20 22:42:55,162 	Event pin occupancy: 0.000000
+2022-07-20 22:42:55,162 	Event unpin occupancy: 0.000000
+2022-07-20 22:42:55,162 	Event func_exec occupancy: 0.000000
+2022-07-20 22:42:55,162 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:42:55,162 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:42:55,162 
+2022-07-20 22:43:00,167 Total thread occupancy: 0.000000
+2022-07-20 22:43:00,167 	Event pin occupancy: 0.000000
+2022-07-20 22:43:00,167 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:00,167 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:00,167 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:43:00,167 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:43:00,167 
+2022-07-20 22:43:03,178 Adding function retwis_function to my local pinned functions.
+2022-07-20 22:43:05,181 Total thread occupancy: 0.000322
+2022-07-20 22:43:05,181 	Event pin occupancy: 0.000322
+2022-07-20 22:43:05,181 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:05,181 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:05,181 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:43:05,181 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:43:05,181 
+2022-07-20 22:43:09,283 Received a schedule for DAG retwis_dag (09c3b822-eb41-4700-b0a7-c1558b74be53), function retwis_function.
+2022-07-20 22:43:09,283 Scheduler latency: 1.565456 ms.
+2022-07-20 22:43:09,284 Received a trigger for schedule 09c3b822-eb41-4700-b0a7-c1558b74be53, function retwis_function.
+2022-07-20 22:43:09,284 Before exec_dag_function time: 0.666380 ms.
+2022-07-20 22:43:09,318 DAG retwis_dag (ID 09c3b822-eb41-4700-b0a7-c1558b74be53) result returned to requester.
+2022-07-20 22:43:09,319 During exec_dag_function time: 34.361839 ms.
+2022-07-20 22:43:09,420 Received a schedule for DAG retwis_dag (4f68e5ef-c49c-4a35-b14f-1e1018a8a0f5), function retwis_function.
+2022-07-20 22:43:09,420 Scheduler latency: 0.805855 ms.
+2022-07-20 22:43:09,421 Received a trigger for schedule 4f68e5ef-c49c-4a35-b14f-1e1018a8a0f5, function retwis_function.
+2022-07-20 22:43:09,421 Before exec_dag_function time: 0.400543 ms.
+2022-07-20 22:43:09,453 DAG retwis_dag (ID 4f68e5ef-c49c-4a35-b14f-1e1018a8a0f5) result returned to requester.
+2022-07-20 22:43:09,453 During exec_dag_function time: 32.395363 ms.
+2022-07-20 22:43:09,555 Received a schedule for DAG retwis_dag (52bcfab9-c2b6-4833-94f9-359ec0097b95), function retwis_function.
+2022-07-20 22:43:09,555 Scheduler latency: 0.840664 ms.
+2022-07-20 22:43:09,555 Received a trigger for schedule 52bcfab9-c2b6-4833-94f9-359ec0097b95, function retwis_function.
+2022-07-20 22:43:09,555 Before exec_dag_function time: 0.375032 ms.
+2022-07-20 22:43:09,588 DAG retwis_dag (ID 52bcfab9-c2b6-4833-94f9-359ec0097b95) result returned to requester.
+2022-07-20 22:43:09,588 During exec_dag_function time: 32.432795 ms.
+2022-07-20 22:43:09,690 Received a schedule for DAG retwis_dag (264b7bda-3479-496e-b831-781df5cfb214), function retwis_function.
+2022-07-20 22:43:09,690 Scheduler latency: 0.855207 ms.
+2022-07-20 22:43:09,690 Received a trigger for schedule 264b7bda-3479-496e-b831-781df5cfb214, function retwis_function.
+2022-07-20 22:43:09,690 Before exec_dag_function time: 0.386000 ms.
+2022-07-20 22:43:09,693 DAG retwis_dag (ID 264b7bda-3479-496e-b831-781df5cfb214) result returned to requester.
+2022-07-20 22:43:09,693 During exec_dag_function time: 2.966642 ms.
+2022-07-20 22:43:09,795 Received a schedule for DAG retwis_dag (96dc3ce4-1626-464a-ac00-aa9c042012c2), function retwis_function.
+2022-07-20 22:43:09,795 Scheduler latency: 0.785351 ms.
+2022-07-20 22:43:09,795 Received a trigger for schedule 96dc3ce4-1626-464a-ac00-aa9c042012c2, function retwis_function.
+2022-07-20 22:43:09,795 Before exec_dag_function time: 0.373840 ms.
+2022-07-20 22:43:09,827 DAG retwis_dag (ID 96dc3ce4-1626-464a-ac00-aa9c042012c2) result returned to requester.
+2022-07-20 22:43:09,827 During exec_dag_function time: 31.731844 ms.
+2022-07-20 22:43:09,929 Received a schedule for DAG retwis_dag (f66f6a62-74ac-4ed7-98c1-024f9682c4e4), function retwis_function.
+2022-07-20 22:43:09,929 Scheduler latency: 0.803471 ms.
+2022-07-20 22:43:09,929 Received a trigger for schedule f66f6a62-74ac-4ed7-98c1-024f9682c4e4, function retwis_function.
+2022-07-20 22:43:09,929 Before exec_dag_function time: 0.417233 ms.
+2022-07-20 22:43:09,962 DAG retwis_dag (ID f66f6a62-74ac-4ed7-98c1-024f9682c4e4) result returned to requester.
+2022-07-20 22:43:09,962 During exec_dag_function time: 32.795668 ms.
+2022-07-20 22:43:10,064 Received a schedule for DAG retwis_dag (e8f78452-5006-416c-8587-c8b2e8f08a62), function retwis_function.
+2022-07-20 22:43:10,064 Scheduler latency: 0.801563 ms.
+2022-07-20 22:43:10,064 Received a trigger for schedule e8f78452-5006-416c-8587-c8b2e8f08a62, function retwis_function.
+2022-07-20 22:43:10,064 Before exec_dag_function time: 0.371456 ms.
+2022-07-20 22:43:10,097 DAG retwis_dag (ID e8f78452-5006-416c-8587-c8b2e8f08a62) result returned to requester.
+2022-07-20 22:43:10,098 During exec_dag_function time: 33.250332 ms.
+2022-07-20 22:43:10,199 Received a schedule for DAG retwis_dag (8e1c70c3-6619-4643-8d7d-c763f489dd04), function retwis_function.
+2022-07-20 22:43:10,199 Scheduler latency: 0.902414 ms.
+2022-07-20 22:43:10,200 Received a trigger for schedule 8e1c70c3-6619-4643-8d7d-c763f489dd04, function retwis_function.
+2022-07-20 22:43:10,200 Before exec_dag_function time: 0.383854 ms.
+2022-07-20 22:43:10,223 DAG retwis_dag (ID 8e1c70c3-6619-4643-8d7d-c763f489dd04) result returned to requester.
+2022-07-20 22:43:10,223 During exec_dag_function time: 23.200274 ms.
+2022-07-20 22:43:10,224 Total thread occupancy: 0.045933
+2022-07-20 22:43:10,224 	Event pin occupancy: 0.000000
+2022-07-20 22:43:10,224 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:10,224 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:10,224 	Event dag_queue occupancy: 0.000910
+2022-07-20 22:43:10,224 	Event dag_exec occupancy: 0.045023
+2022-07-20 22:43:10,224 functions {
+  name: "retwis_function"
+  call_count: 8
+  runtime: 0.035370588302612305
+  runtime: 0.033132314682006836
+  runtime: 0.033119916915893555
+  runtime: 0.0036406517028808594
+  runtime: 0.03238177299499512
+  runtime: 0.03351759910583496
+  runtime: 0.03392672538757324
+  runtime: 0.023895263671875
+}
+dags {
+  name: "retwis_dag"
+  runtimes: 0.036630868911743164
+  runtimes: 0.03366827964782715
+  runtimes: 0.03370952606201172
+  runtimes: 0.004293918609619141
+  runtimes: 0.03295302391052246
+  runtimes: 0.03408098220825195
+  runtimes: 0.03448629379272461
+  runtimes: 0.024554967880249023
+}
+
+2022-07-20 22:43:10,325 Received a schedule for DAG retwis_dag (d5e7672f-76af-469b-80c4-c841486e8b75), function retwis_function.
+2022-07-20 22:43:10,325 Scheduler latency: 0.745535 ms.
+2022-07-20 22:43:10,325 Received a trigger for schedule d5e7672f-76af-469b-80c4-c841486e8b75, function retwis_function.
+2022-07-20 22:43:10,325 Before exec_dag_function time: 0.405073 ms.
+2022-07-20 22:43:10,352 DAG retwis_dag (ID d5e7672f-76af-469b-80c4-c841486e8b75) result returned to requester.
+2022-07-20 22:43:10,353 During exec_dag_function time: 27.452230 ms.
+2022-07-20 22:43:10,454 Received a schedule for DAG retwis_dag (07689163-fac5-49b3-b9dd-fba42749a175), function retwis_function.
+2022-07-20 22:43:10,454 Scheduler latency: 0.818729 ms.
+2022-07-20 22:43:10,455 Received a trigger for schedule 07689163-fac5-49b3-b9dd-fba42749a175, function retwis_function.
+2022-07-20 22:43:10,455 Before exec_dag_function time: 0.394344 ms.
+2022-07-20 22:43:10,457 DAG retwis_dag (ID 07689163-fac5-49b3-b9dd-fba42749a175) result returned to requester.
+2022-07-20 22:43:10,458 During exec_dag_function time: 2.797604 ms.
+2022-07-20 22:43:10,559 Received a schedule for DAG retwis_dag (1a1616bc-8388-48b2-ba66-6986b41365ec), function retwis_function.
+2022-07-20 22:43:10,559 Scheduler latency: 0.818729 ms.
+2022-07-20 22:43:10,560 Received a trigger for schedule 1a1616bc-8388-48b2-ba66-6986b41365ec, function retwis_function.
+2022-07-20 22:43:10,560 Before exec_dag_function time: 0.378847 ms.
+2022-07-20 22:43:10,592 DAG retwis_dag (ID 1a1616bc-8388-48b2-ba66-6986b41365ec) result returned to requester.
+2022-07-20 22:43:10,592 During exec_dag_function time: 32.173872 ms.
+2022-07-20 22:43:10,694 Received a schedule for DAG retwis_dag (f1b0bca1-3d3e-4852-8bf0-c217812072d1), function retwis_function.
+2022-07-20 22:43:10,694 Scheduler latency: 0.858307 ms.
+2022-07-20 22:43:10,694 Received a trigger for schedule f1b0bca1-3d3e-4852-8bf0-c217812072d1, function retwis_function.
+2022-07-20 22:43:10,694 Before exec_dag_function time: 0.402451 ms.
+2022-07-20 22:43:10,729 DAG retwis_dag (ID f1b0bca1-3d3e-4852-8bf0-c217812072d1) result returned to requester.
+2022-07-20 22:43:10,729 During exec_dag_function time: 35.122156 ms.
+2022-07-20 22:43:10,831 Received a schedule for DAG retwis_dag (bde3d409-3703-4709-bc32-25062b88d3f7), function retwis_function.
+2022-07-20 22:43:10,831 Scheduler latency: 0.877857 ms.
+2022-07-20 22:43:10,832 Received a trigger for schedule bde3d409-3703-4709-bc32-25062b88d3f7, function retwis_function.
+2022-07-20 22:43:10,832 Before exec_dag_function time: 0.391245 ms.
+2022-07-20 22:43:10,859 DAG retwis_dag (ID bde3d409-3703-4709-bc32-25062b88d3f7) result returned to requester.
+2022-07-20 22:43:10,859 During exec_dag_function time: 27.503252 ms.
+2022-07-20 22:43:10,961 Received a schedule for DAG retwis_dag (39569fdb-f52d-422b-8f44-57f692b569a2), function retwis_function.
+2022-07-20 22:43:10,961 Scheduler latency: 0.803232 ms.
+2022-07-20 22:43:10,961 Received a trigger for schedule 39569fdb-f52d-422b-8f44-57f692b569a2, function retwis_function.
+2022-07-20 22:43:10,962 Before exec_dag_function time: 0.460863 ms.
+2022-07-20 22:43:10,995 DAG retwis_dag (ID 39569fdb-f52d-422b-8f44-57f692b569a2) result returned to requester.
+2022-07-20 22:43:10,995 During exec_dag_function time: 33.747196 ms.
+2022-07-20 22:43:11,097 Received a schedule for DAG retwis_dag (466d3f31-ac12-4d1a-b03a-ecba65d9efdb), function retwis_function.
+2022-07-20 22:43:11,097 Scheduler latency: 0.844002 ms.
+2022-07-20 22:43:11,098 Received a trigger for schedule 466d3f31-ac12-4d1a-b03a-ecba65d9efdb, function retwis_function.
+2022-07-20 22:43:11,098 Before exec_dag_function time: 0.450611 ms.
+2022-07-20 22:43:11,131 DAG retwis_dag (ID 466d3f31-ac12-4d1a-b03a-ecba65d9efdb) result returned to requester.
+2022-07-20 22:43:11,131 During exec_dag_function time: 33.138514 ms.
+2022-07-20 22:43:11,232 Received a schedule for DAG retwis_dag (ebae8b00-2641-4b82-a31e-45cf33df9f41), function retwis_function.
+2022-07-20 22:43:11,233 Scheduler latency: 0.794649 ms.
+2022-07-20 22:43:11,233 Received a trigger for schedule ebae8b00-2641-4b82-a31e-45cf33df9f41, function retwis_function.
+2022-07-20 22:43:11,233 Before exec_dag_function time: 0.392914 ms.
+2022-07-20 22:43:11,267 DAG retwis_dag (ID ebae8b00-2641-4b82-a31e-45cf33df9f41) result returned to requester.
+2022-07-20 22:43:11,267 During exec_dag_function time: 33.913851 ms.
+2022-07-20 22:43:11,369 Received a schedule for DAG retwis_dag (7d6e118a-a177-4a61-aa90-a7cbacbea5f2), function retwis_function.
+2022-07-20 22:43:11,369 Scheduler latency: 0.866175 ms.
+2022-07-20 22:43:11,369 Received a trigger for schedule 7d6e118a-a177-4a61-aa90-a7cbacbea5f2, function retwis_function.
+2022-07-20 22:43:11,369 Before exec_dag_function time: 0.429630 ms.
+2022-07-20 22:43:11,396 DAG retwis_dag (ID 7d6e118a-a177-4a61-aa90-a7cbacbea5f2) result returned to requester.
+2022-07-20 22:43:11,397 During exec_dag_function time: 27.220488 ms.
+2022-07-20 22:43:11,498 Received a schedule for DAG retwis_dag (edcb102c-1503-403d-b2c8-b1561502681b), function retwis_function.
+2022-07-20 22:43:11,499 Scheduler latency: 0.941753 ms.
+2022-07-20 22:43:11,499 Received a trigger for schedule edcb102c-1503-403d-b2c8-b1561502681b, function retwis_function.
+2022-07-20 22:43:11,499 Before exec_dag_function time: 0.425577 ms.
+2022-07-20 22:43:11,531 DAG retwis_dag (ID edcb102c-1503-403d-b2c8-b1561502681b) result returned to requester.
+2022-07-20 22:43:11,532 During exec_dag_function time: 32.613039 ms.
+2022-07-20 22:43:11,633 Received a schedule for DAG retwis_dag (1e9b3823-f692-49a4-ab1b-c6586abbf4ec), function retwis_function.
+2022-07-20 22:43:11,634 Scheduler latency: 0.866652 ms.
+2022-07-20 22:43:11,634 Received a trigger for schedule 1e9b3823-f692-49a4-ab1b-c6586abbf4ec, function retwis_function.
+2022-07-20 22:43:11,634 Before exec_dag_function time: 0.453472 ms.
+2022-07-20 22:43:11,659 DAG retwis_dag (ID 1e9b3823-f692-49a4-ab1b-c6586abbf4ec) result returned to requester.
+2022-07-20 22:43:11,660 During exec_dag_function time: 25.486708 ms.
+2022-07-20 22:43:11,761 Received a schedule for DAG retwis_dag (fc2265b8-0b4b-4708-aafd-276b14151040), function retwis_function.
+2022-07-20 22:43:11,761 Scheduler latency: 0.885963 ms.
+2022-07-20 22:43:11,762 Received a trigger for schedule fc2265b8-0b4b-4708-aafd-276b14151040, function retwis_function.
+2022-07-20 22:43:11,762 Before exec_dag_function time: 0.426292 ms.
+2022-07-20 22:43:11,785 DAG retwis_dag (ID fc2265b8-0b4b-4708-aafd-276b14151040) result returned to requester.
+2022-07-20 22:43:11,785 During exec_dag_function time: 23.345232 ms.
+2022-07-20 22:43:11,887 Received a schedule for DAG retwis_dag (c3c01ffe-98a5-4915-8963-6fc65cb0660d), function retwis_function.
+2022-07-20 22:43:11,887 Scheduler latency: 0.876188 ms.
+2022-07-20 22:43:11,888 Received a trigger for schedule c3c01ffe-98a5-4915-8963-6fc65cb0660d, function retwis_function.
+2022-07-20 22:43:11,888 Before exec_dag_function time: 0.395775 ms.
+2022-07-20 22:43:11,920 DAG retwis_dag (ID c3c01ffe-98a5-4915-8963-6fc65cb0660d) result returned to requester.
+2022-07-20 22:43:11,920 During exec_dag_function time: 32.359838 ms.
+2022-07-20 22:43:12,022 Received a schedule for DAG retwis_dag (1a3ec203-cc45-4610-81e0-70b1c9e10fb0), function retwis_function.
+2022-07-20 22:43:12,022 Scheduler latency: 0.880957 ms.
+2022-07-20 22:43:12,022 Received a trigger for schedule 1a3ec203-cc45-4610-81e0-70b1c9e10fb0, function retwis_function.
+2022-07-20 22:43:12,022 Before exec_dag_function time: 0.397205 ms.
+2022-07-20 22:43:12,044 DAG retwis_dag (ID 1a3ec203-cc45-4610-81e0-70b1c9e10fb0) result returned to requester.
+2022-07-20 22:43:12,045 During exec_dag_function time: 22.169352 ms.
+2022-07-20 22:43:12,146 Received a schedule for DAG retwis_dag (b30b6918-2b49-4e04-954b-f10b422c987a), function retwis_function.
+2022-07-20 22:43:12,146 Scheduler latency: 0.884295 ms.
+2022-07-20 22:43:12,147 Received a trigger for schedule b30b6918-2b49-4e04-954b-f10b422c987a, function retwis_function.
+2022-07-20 22:43:12,147 Before exec_dag_function time: 0.420809 ms.
+2022-07-20 22:43:12,178 DAG retwis_dag (ID b30b6918-2b49-4e04-954b-f10b422c987a) result returned to requester.
+2022-07-20 22:43:12,178 During exec_dag_function time: 30.890942 ms.
+2022-07-20 22:43:12,280 Received a schedule for DAG retwis_dag (7d3a698e-12b3-4dc5-91a2-80ba1ed12838), function retwis_function.
+2022-07-20 22:43:12,280 Scheduler latency: 0.975847 ms.
+2022-07-20 22:43:12,280 Received a trigger for schedule 7d3a698e-12b3-4dc5-91a2-80ba1ed12838, function retwis_function.
+2022-07-20 22:43:12,281 Before exec_dag_function time: 0.590324 ms.
+2022-07-20 22:43:12,304 DAG retwis_dag (ID 7d3a698e-12b3-4dc5-91a2-80ba1ed12838) result returned to requester.
+2022-07-20 22:43:12,304 During exec_dag_function time: 23.713350 ms.
+2022-07-20 22:43:12,406 Received a schedule for DAG retwis_dag (a2f20b83-96b4-4c75-b7a5-61eb3881cdb3), function retwis_function.
+2022-07-20 22:43:12,406 Scheduler latency: 0.871658 ms.
+2022-07-20 22:43:12,407 Received a trigger for schedule a2f20b83-96b4-4c75-b7a5-61eb3881cdb3, function retwis_function.
+2022-07-20 22:43:12,407 Before exec_dag_function time: 0.400543 ms.
+2022-07-20 22:43:12,429 DAG retwis_dag (ID a2f20b83-96b4-4c75-b7a5-61eb3881cdb3) result returned to requester.
+2022-07-20 22:43:12,429 During exec_dag_function time: 22.614002 ms.
+2022-07-20 22:43:12,531 Received a schedule for DAG retwis_dag (c1ea03fc-8795-49a5-a368-2e43987b0868), function retwis_function.
+2022-07-20 22:43:12,531 Scheduler latency: 0.702858 ms.
+2022-07-20 22:43:12,531 Received a trigger for schedule c1ea03fc-8795-49a5-a368-2e43987b0868, function retwis_function.
+2022-07-20 22:43:12,531 Before exec_dag_function time: 0.323534 ms.
+2022-07-20 22:43:12,572 DAG retwis_dag (ID c1ea03fc-8795-49a5-a368-2e43987b0868) result returned to requester.
+2022-07-20 22:43:12,572 During exec_dag_function time: 40.577412 ms.
+2022-07-20 22:43:12,674 Received a schedule for DAG retwis_dag (322ea9ce-a71d-499b-9cd5-6ff4d360d439), function retwis_function.
+2022-07-20 22:43:12,674 Scheduler latency: 0.890732 ms.
+2022-07-20 22:43:12,674 Received a trigger for schedule 322ea9ce-a71d-499b-9cd5-6ff4d360d439, function retwis_function.
+2022-07-20 22:43:12,674 Before exec_dag_function time: 0.419378 ms.
+2022-07-20 22:43:12,696 DAG retwis_dag (ID 322ea9ce-a71d-499b-9cd5-6ff4d360d439) result returned to requester.
+2022-07-20 22:43:12,696 During exec_dag_function time: 21.913767 ms.
+2022-07-20 22:43:12,798 Received a schedule for DAG retwis_dag (584f90d4-94db-44c0-b069-7920c9b3c906), function retwis_function.
+2022-07-20 22:43:12,798 Scheduler latency: 0.890255 ms.
+2022-07-20 22:43:12,799 Received a trigger for schedule 584f90d4-94db-44c0-b069-7920c9b3c906, function retwis_function.
+2022-07-20 22:43:12,799 Before exec_dag_function time: 0.431776 ms.
+2022-07-20 22:43:12,801 DAG retwis_dag (ID 584f90d4-94db-44c0-b069-7920c9b3c906) result returned to requester.
+2022-07-20 22:43:12,801 During exec_dag_function time: 2.588511 ms.
+2022-07-20 22:43:12,903 Received a schedule for DAG retwis_dag (658e8487-5b86-4133-a368-a009b36cc858), function retwis_function.
+2022-07-20 22:43:12,903 Scheduler latency: 0.855207 ms.
+2022-07-20 22:43:12,903 Received a trigger for schedule 658e8487-5b86-4133-a368-a009b36cc858, function retwis_function.
+2022-07-20 22:43:12,904 Before exec_dag_function time: 0.389576 ms.
+2022-07-20 22:43:12,926 DAG retwis_dag (ID 658e8487-5b86-4133-a368-a009b36cc858) result returned to requester.
+2022-07-20 22:43:12,926 During exec_dag_function time: 22.535324 ms.
+2022-07-20 22:43:13,028 Received a schedule for DAG retwis_dag (a232a128-0dc7-4e1d-94e6-91306ac0ef9c), function retwis_function.
+2022-07-20 22:43:13,028 Scheduler latency: 0.831127 ms.
+2022-07-20 22:43:13,028 Received a trigger for schedule a232a128-0dc7-4e1d-94e6-91306ac0ef9c, function retwis_function.
+2022-07-20 22:43:13,028 Before exec_dag_function time: 0.400305 ms.
+2022-07-20 22:43:13,057 DAG retwis_dag (ID a232a128-0dc7-4e1d-94e6-91306ac0ef9c) result returned to requester.
+2022-07-20 22:43:13,057 During exec_dag_function time: 28.932095 ms.
+2022-07-20 22:43:13,159 Received a schedule for DAG retwis_dag (78804509-2a62-422e-a861-d9aa6c62eac6), function retwis_function.
+2022-07-20 22:43:13,159 Scheduler latency: 0.822067 ms.
+2022-07-20 22:43:13,160 Received a trigger for schedule 78804509-2a62-422e-a861-d9aa6c62eac6, function retwis_function.
+2022-07-20 22:43:13,160 Before exec_dag_function time: 0.378132 ms.
+2022-07-20 22:43:13,185 DAG retwis_dag (ID 78804509-2a62-422e-a861-d9aa6c62eac6) result returned to requester.
+2022-07-20 22:43:13,185 During exec_dag_function time: 25.245667 ms.
+2022-07-20 22:43:13,287 Received a schedule for DAG retwis_dag (6b2299f4-7352-4272-9fca-b09a813e2236), function retwis_function.
+2022-07-20 22:43:13,287 Scheduler latency: 0.819206 ms.
+2022-07-20 22:43:13,287 Received a trigger for schedule 6b2299f4-7352-4272-9fca-b09a813e2236, function retwis_function.
+2022-07-20 22:43:13,287 Before exec_dag_function time: 0.404119 ms.
+2022-07-20 22:43:13,289 DAG retwis_dag (ID 6b2299f4-7352-4272-9fca-b09a813e2236) result returned to requester.
+2022-07-20 22:43:13,290 During exec_dag_function time: 2.540588 ms.
+2022-07-20 22:43:13,391 Received a schedule for DAG retwis_dag (ebea119f-0fc3-48d1-80d9-22c2756950fb), function retwis_function.
+2022-07-20 22:43:13,391 Scheduler latency: 0.767708 ms.
+2022-07-20 22:43:13,392 Received a trigger for schedule ebea119f-0fc3-48d1-80d9-22c2756950fb, function retwis_function.
+2022-07-20 22:43:13,392 Before exec_dag_function time: 0.350714 ms.
+2022-07-20 22:43:13,412 DAG retwis_dag (ID ebea119f-0fc3-48d1-80d9-22c2756950fb) result returned to requester.
+2022-07-20 22:43:13,412 During exec_dag_function time: 20.417690 ms.
+2022-07-20 22:43:13,514 Received a schedule for DAG retwis_dag (a2dfb45e-58b4-44b3-9b89-b2b313f96642), function retwis_function.
+2022-07-20 22:43:13,514 Scheduler latency: 0.798941 ms.
+2022-07-20 22:43:13,514 Received a trigger for schedule a2dfb45e-58b4-44b3-9b89-b2b313f96642, function retwis_function.
+2022-07-20 22:43:13,515 Before exec_dag_function time: 0.368118 ms.
+2022-07-20 22:43:13,537 DAG retwis_dag (ID a2dfb45e-58b4-44b3-9b89-b2b313f96642) result returned to requester.
+2022-07-20 22:43:13,537 During exec_dag_function time: 22.350788 ms.
+2022-07-20 22:43:13,638 Received a schedule for DAG retwis_dag (6ee94639-ae43-41f7-ab4c-f6f95dc6a235), function retwis_function.
+2022-07-20 22:43:13,639 Scheduler latency: 0.808239 ms.
+2022-07-20 22:43:13,639 Received a trigger for schedule 6ee94639-ae43-41f7-ab4c-f6f95dc6a235, function retwis_function.
+2022-07-20 22:43:13,639 Before exec_dag_function time: 0.392914 ms.
+2022-07-20 22:43:13,660 DAG retwis_dag (ID 6ee94639-ae43-41f7-ab4c-f6f95dc6a235) result returned to requester.
+2022-07-20 22:43:13,660 During exec_dag_function time: 21.295547 ms.
+2022-07-20 22:43:13,762 Received a schedule for DAG retwis_dag (4ce42b69-1ac2-422f-9d4c-a04d468c5383), function retwis_function.
+2022-07-20 22:43:13,762 Scheduler latency: 0.833511 ms.
+2022-07-20 22:43:13,763 Received a trigger for schedule 4ce42b69-1ac2-422f-9d4c-a04d468c5383, function retwis_function.
+2022-07-20 22:43:13,763 Before exec_dag_function time: 0.380039 ms.
+2022-07-20 22:43:13,785 DAG retwis_dag (ID 4ce42b69-1ac2-422f-9d4c-a04d468c5383) result returned to requester.
+2022-07-20 22:43:13,785 During exec_dag_function time: 22.371531 ms.
+2022-07-20 22:43:13,887 Received a schedule for DAG retwis_dag (ac5dc833-978b-4992-af61-77983fd6539a), function retwis_function.
+2022-07-20 22:43:13,887 Scheduler latency: 0.834227 ms.
+2022-07-20 22:43:13,887 Received a trigger for schedule ac5dc833-978b-4992-af61-77983fd6539a, function retwis_function.
+2022-07-20 22:43:13,887 Before exec_dag_function time: 0.396013 ms.
+2022-07-20 22:43:13,908 DAG retwis_dag (ID ac5dc833-978b-4992-af61-77983fd6539a) result returned to requester.
+2022-07-20 22:43:13,908 During exec_dag_function time: 21.115303 ms.
+2022-07-20 22:43:14,010 Received a schedule for DAG retwis_dag (bf70a1e9-b07a-48e1-8f63-f289a5b5c86e), function retwis_function.
+2022-07-20 22:43:14,010 Scheduler latency: 0.857830 ms.
+2022-07-20 22:43:14,011 Received a trigger for schedule bf70a1e9-b07a-48e1-8f63-f289a5b5c86e, function retwis_function.
+2022-07-20 22:43:14,011 Before exec_dag_function time: 0.404596 ms.
+2022-07-20 22:43:14,033 DAG retwis_dag (ID bf70a1e9-b07a-48e1-8f63-f289a5b5c86e) result returned to requester.
+2022-07-20 22:43:14,033 During exec_dag_function time: 22.205114 ms.
+2022-07-20 22:43:14,135 Received a schedule for DAG retwis_dag (8f7580d9-2122-4fd6-a9c4-56389dfd73d6), function retwis_function.
+2022-07-20 22:43:14,135 Scheduler latency: 0.835180 ms.
+2022-07-20 22:43:14,135 Received a trigger for schedule 8f7580d9-2122-4fd6-a9c4-56389dfd73d6, function retwis_function.
+2022-07-20 22:43:14,135 Before exec_dag_function time: 0.396729 ms.
+2022-07-20 22:43:14,157 DAG retwis_dag (ID 8f7580d9-2122-4fd6-a9c4-56389dfd73d6) result returned to requester.
+2022-07-20 22:43:14,157 During exec_dag_function time: 22.174597 ms.
+2022-07-20 22:43:14,259 Received a schedule for DAG retwis_dag (d4820fbd-1a31-4487-a295-2362e376ad86), function retwis_function.
+2022-07-20 22:43:14,259 Scheduler latency: 0.842333 ms.
+2022-07-20 22:43:14,260 Received a trigger for schedule d4820fbd-1a31-4487-a295-2362e376ad86, function retwis_function.
+2022-07-20 22:43:14,260 Before exec_dag_function time: 0.395775 ms.
+2022-07-20 22:43:14,284 DAG retwis_dag (ID d4820fbd-1a31-4487-a295-2362e376ad86) result returned to requester.
+2022-07-20 22:43:14,284 During exec_dag_function time: 24.093628 ms.
+2022-07-20 22:43:14,386 Received a schedule for DAG retwis_dag (57e2db34-bb74-4dbd-a7ab-c2eafe107a72), function retwis_function.
+2022-07-20 22:43:14,386 Scheduler latency: 0.864744 ms.
+2022-07-20 22:43:14,386 Received a trigger for schedule 57e2db34-bb74-4dbd-a7ab-c2eafe107a72, function retwis_function.
+2022-07-20 22:43:14,386 Before exec_dag_function time: 0.391006 ms.
+2022-07-20 22:43:14,407 DAG retwis_dag (ID 57e2db34-bb74-4dbd-a7ab-c2eafe107a72) result returned to requester.
+2022-07-20 22:43:14,407 During exec_dag_function time: 20.935297 ms.
+2022-07-20 22:43:14,509 Received a schedule for DAG retwis_dag (833b1283-534a-4d03-905a-7472c80ae4a0), function retwis_function.
+2022-07-20 22:43:14,509 Scheduler latency: 0.800610 ms.
+2022-07-20 22:43:14,509 Received a trigger for schedule 833b1283-534a-4d03-905a-7472c80ae4a0, function retwis_function.
+2022-07-20 22:43:14,509 Before exec_dag_function time: 0.420094 ms.
+2022-07-20 22:43:14,533 DAG retwis_dag (ID 833b1283-534a-4d03-905a-7472c80ae4a0) result returned to requester.
+2022-07-20 22:43:14,533 During exec_dag_function time: 24.030685 ms.
+2022-07-20 22:43:14,635 Received a schedule for DAG retwis_dag (7f01a1db-7d31-426f-b63d-8ef1e6f421b1), function retwis_function.
+2022-07-20 22:43:14,635 Scheduler latency: 0.877142 ms.
+2022-07-20 22:43:14,636 Received a trigger for schedule 7f01a1db-7d31-426f-b63d-8ef1e6f421b1, function retwis_function.
+2022-07-20 22:43:14,636 Before exec_dag_function time: 0.430346 ms.
+2022-07-20 22:43:14,657 DAG retwis_dag (ID 7f01a1db-7d31-426f-b63d-8ef1e6f421b1) result returned to requester.
+2022-07-20 22:43:14,657 During exec_dag_function time: 21.593332 ms.
+2022-07-20 22:43:14,759 Received a schedule for DAG retwis_dag (84e732b1-2d80-463e-afad-5a9f564ca05b), function retwis_function.
+2022-07-20 22:43:14,759 Scheduler latency: 0.872612 ms.
+2022-07-20 22:43:14,760 Received a trigger for schedule 84e732b1-2d80-463e-afad-5a9f564ca05b, function retwis_function.
+2022-07-20 22:43:14,760 Before exec_dag_function time: 0.422239 ms.
+2022-07-20 22:43:14,782 DAG retwis_dag (ID 84e732b1-2d80-463e-afad-5a9f564ca05b) result returned to requester.
+2022-07-20 22:43:14,782 During exec_dag_function time: 22.132635 ms.
+2022-07-20 22:43:14,884 Received a schedule for DAG retwis_dag (983cdf52-9535-4e6e-884b-ba74e522d672), function retwis_function.
+2022-07-20 22:43:14,884 Scheduler latency: 0.818729 ms.
+2022-07-20 22:43:14,884 Received a trigger for schedule 983cdf52-9535-4e6e-884b-ba74e522d672, function retwis_function.
+2022-07-20 22:43:14,884 Before exec_dag_function time: 0.387430 ms.
+2022-07-20 22:43:14,907 DAG retwis_dag (ID 983cdf52-9535-4e6e-884b-ba74e522d672) result returned to requester.
+2022-07-20 22:43:14,907 During exec_dag_function time: 22.631168 ms.
+2022-07-20 22:43:15,009 Received a schedule for DAG retwis_dag (e2b3ca7d-5c89-497b-aa42-d54436b81648), function retwis_function.
+2022-07-20 22:43:15,009 Scheduler latency: 0.820875 ms.
+2022-07-20 22:43:15,009 Received a trigger for schedule e2b3ca7d-5c89-497b-aa42-d54436b81648, function retwis_function.
+2022-07-20 22:43:15,009 Before exec_dag_function time: 0.386715 ms.
+2022-07-20 22:43:15,030 DAG retwis_dag (ID e2b3ca7d-5c89-497b-aa42-d54436b81648) result returned to requester.
+2022-07-20 22:43:15,030 During exec_dag_function time: 21.124125 ms.
+2022-07-20 22:43:15,132 Received a schedule for DAG retwis_dag (66d9828a-4219-4387-9781-420d0c71fbbb), function retwis_function.
+2022-07-20 22:43:15,132 Scheduler latency: 0.808001 ms.
+2022-07-20 22:43:15,132 Received a trigger for schedule 66d9828a-4219-4387-9781-420d0c71fbbb, function retwis_function.
+2022-07-20 22:43:15,133 Before exec_dag_function time: 0.400782 ms.
+2022-07-20 22:43:15,156 DAG retwis_dag (ID 66d9828a-4219-4387-9781-420d0c71fbbb) result returned to requester.
+2022-07-20 22:43:15,156 During exec_dag_function time: 23.374081 ms.
+2022-07-20 22:43:15,258 Received a schedule for DAG retwis_dag (f47327b1-18e0-4b9c-95d0-3c15e0f022c2), function retwis_function.
+2022-07-20 22:43:15,258 Scheduler latency: 0.951767 ms.
+2022-07-20 22:43:15,258 Received a trigger for schedule f47327b1-18e0-4b9c-95d0-3c15e0f022c2, function retwis_function.
+2022-07-20 22:43:15,258 Before exec_dag_function time: 0.406027 ms.
+2022-07-20 22:43:15,279 DAG retwis_dag (ID f47327b1-18e0-4b9c-95d0-3c15e0f022c2) result returned to requester.
+2022-07-20 22:43:15,279 During exec_dag_function time: 21.008730 ms.
+2022-07-20 22:43:15,280 Total thread occupancy: 0.199039
+2022-07-20 22:43:15,280 	Event pin occupancy: 0.000000
+2022-07-20 22:43:15,280 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:15,280 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:15,280 	Event dag_queue occupancy: 0.004615
+2022-07-20 22:43:15,280 	Event dag_exec occupancy: 0.194424
+2022-07-20 22:43:15,280 functions {
+  name: "retwis_function"
+  call_count: 40
+  runtime: 0.028171539306640625
+  runtime: 0.003489971160888672
+  runtime: 0.03284049034118652
+  runtime: 0.03585672378540039
+  runtime: 0.02819991111755371
+  runtime: 0.03453350067138672
+  runtime: 0.03389859199523926
+  runtime: 0.03463292121887207
+  runtime: 0.028091907501220703
+  runtime: 0.03341031074523926
+  runtime: 0.026256799697875977
+  runtime: 0.024189472198486328
+  runtime: 0.03305554389953613
+  runtime: 0.022981643676757812
+  runtime: 0.031626224517822266
+  runtime: 0.0245969295501709
+  runtime: 0.023321866989135742
+  runtime: 0.041213035583496094
+  runtime: 0.022635936737060547
+  runtime: 0.0033080577850341797
+  runtime: 0.023242473602294922
+  runtime: 0.029642820358276367
+  runtime: 0.02591681480407715
+  runtime: 0.0032165050506591797
+  runtime: 0.021024703979492188
+  runtime: 0.023000240325927734
+  runtime: 0.02196645736694336
+  runtime: 0.02310013771057129
+  runtime: 0.02180767059326172
+  runtime: 0.022933006286621094
+  runtime: 0.022903919219970703
+  runtime: 0.024793624877929688
+  runtime: 0.021609783172607422
+  runtime: 0.02479720115661621
+  runtime: 0.02237415313720703
+  runtime: 0.02286553382873535
+  runtime: 0.023328542709350586
+  runtime: 0.021806001663208008
+  runtime: 0.024060726165771484
+  runtime: 0.02170109748840332
+}
+dags {
+  name: "retwis_dag"
+  runtimes: 0.028661012649536133
+  runtimes: 0.004075765609741211
+  runtimes: 0.03343558311462402
+  runtimes: 0.03644847869873047
+  runtimes: 0.02883458137512207
+  runtimes: 0.035073041915893555
+  runtimes: 0.03449678421020508
+  runtimes: 0.03516578674316406
+  runtimes: 0.02858424186706543
+  runtimes: 0.03404402732849121
+  runtimes: 0.026876449584960938
+  runtimes: 0.024721860885620117
+  runtimes: 0.03369593620300293
+  runtimes: 0.023512840270996094
+  runtimes: 0.032262563705444336
+  runtimes: 0.025402545928955078
+  runtimes: 0.02397298812866211
+  runtimes: 0.04165935516357422
+  runtimes: 0.023290157318115234
+  runtimes: 0.0039825439453125
+  runtimes: 0.02384352684020996
+  runtimes: 0.030230045318603516
+  runtimes: 0.02651071548461914
+  runtimes: 0.003827810287475586
+  runtimes: 0.021597862243652344
+  runtimes: 0.023584604263305664
+  runtimes: 0.02256298065185547
+  runtimes: 0.02364969253540039
+  runtimes: 0.022409439086914062
+  runtimes: 0.023532867431640625
+  runtimes: 0.023471355438232422
+  runtimes: 0.025396108627319336
+  runtimes: 0.022258996963500977
+  runtimes: 0.02531290054321289
+  runtimes: 0.02296614646911621
+  runtimes: 0.023494958877563477
+  runtimes: 0.023898839950561523
+  runtimes: 0.022396087646484375
+  runtimes: 0.02464580535888672
+  runtimes: 0.022432327270507812
+}
+
+2022-07-20 22:43:15,381 Received a schedule for DAG retwis_dag (9f81d7c5-7b11-46f3-8f5d-8d9e8021c832), function retwis_function.
+2022-07-20 22:43:15,381 Scheduler latency: 0.850201 ms.
+2022-07-20 22:43:15,382 Received a trigger for schedule 9f81d7c5-7b11-46f3-8f5d-8d9e8021c832, function retwis_function.
+2022-07-20 22:43:15,382 Before exec_dag_function time: 0.458717 ms.
+2022-07-20 22:43:15,407 DAG retwis_dag (ID 9f81d7c5-7b11-46f3-8f5d-8d9e8021c832) result returned to requester.
+2022-07-20 22:43:15,408 During exec_dag_function time: 25.804758 ms.
+2022-07-20 22:43:15,509 Received a schedule for DAG retwis_dag (baea6215-fd70-409a-a59e-c6a18179ec7c), function retwis_function.
+2022-07-20 22:43:15,509 Scheduler latency: 0.845671 ms.
+2022-07-20 22:43:15,510 Received a trigger for schedule baea6215-fd70-409a-a59e-c6a18179ec7c, function retwis_function.
+2022-07-20 22:43:15,510 Before exec_dag_function time: 0.437498 ms.
+2022-07-20 22:43:15,531 DAG retwis_dag (ID baea6215-fd70-409a-a59e-c6a18179ec7c) result returned to requester.
+2022-07-20 22:43:15,531 During exec_dag_function time: 20.842552 ms.
+2022-07-20 22:43:15,632 Received a schedule for DAG retwis_dag (c325b73c-bef1-4134-b143-9b58a8499582), function retwis_function.
+2022-07-20 22:43:15,633 Scheduler latency: 0.897646 ms.
+2022-07-20 22:43:15,633 Received a trigger for schedule c325b73c-bef1-4134-b143-9b58a8499582, function retwis_function.
+2022-07-20 22:43:15,633 Before exec_dag_function time: 0.400066 ms.
+2022-07-20 22:43:15,662 DAG retwis_dag (ID c325b73c-bef1-4134-b143-9b58a8499582) result returned to requester.
+2022-07-20 22:43:15,662 During exec_dag_function time: 29.028654 ms.
+2022-07-20 22:43:15,764 Received a schedule for DAG retwis_dag (91ccb9f9-f248-460c-8b56-984756674372), function retwis_function.
+2022-07-20 22:43:15,764 Scheduler latency: 0.842333 ms.
+2022-07-20 22:43:15,764 Received a trigger for schedule 91ccb9f9-f248-460c-8b56-984756674372, function retwis_function.
+2022-07-20 22:43:15,764 Before exec_dag_function time: 0.411749 ms.
+2022-07-20 22:43:15,787 DAG retwis_dag (ID 91ccb9f9-f248-460c-8b56-984756674372) result returned to requester.
+2022-07-20 22:43:15,787 During exec_dag_function time: 22.609234 ms.
+2022-07-20 22:43:15,889 Received a schedule for DAG retwis_dag (103b7bfa-2b9f-4ff3-a498-0211f60cf3d4), function retwis_function.
+2022-07-20 22:43:15,889 Scheduler latency: 0.820160 ms.
+2022-07-20 22:43:15,889 Received a trigger for schedule 103b7bfa-2b9f-4ff3-a498-0211f60cf3d4, function retwis_function.
+2022-07-20 22:43:15,889 Before exec_dag_function time: 0.397921 ms.
+2022-07-20 22:43:15,921 DAG retwis_dag (ID 103b7bfa-2b9f-4ff3-a498-0211f60cf3d4) result returned to requester.
+2022-07-20 22:43:15,921 During exec_dag_function time: 31.980276 ms.
+2022-07-20 22:43:16,023 Received a schedule for DAG retwis_dag (efecb803-47ee-4d5f-8678-65f73293e6f2), function retwis_function.
+2022-07-20 22:43:16,023 Scheduler latency: 0.767469 ms.
+2022-07-20 22:43:16,023 Received a trigger for schedule efecb803-47ee-4d5f-8678-65f73293e6f2, function retwis_function.
+2022-07-20 22:43:16,023 Before exec_dag_function time: 0.333309 ms.
+2022-07-20 22:43:16,091 DAG retwis_dag (ID efecb803-47ee-4d5f-8678-65f73293e6f2) result returned to requester.
+2022-07-20 22:43:16,091 During exec_dag_function time: 67.667246 ms.
+2022-07-20 22:43:16,193 Received a schedule for DAG retwis_dag (9e34088f-4666-46e3-b4b8-0f427765aa15), function retwis_function.
+2022-07-20 22:43:16,193 Scheduler latency: 0.802994 ms.
+2022-07-20 22:43:16,193 Received a trigger for schedule 9e34088f-4666-46e3-b4b8-0f427765aa15, function retwis_function.
+2022-07-20 22:43:16,193 Before exec_dag_function time: 0.403643 ms.
+2022-07-20 22:43:16,216 DAG retwis_dag (ID 9e34088f-4666-46e3-b4b8-0f427765aa15) result returned to requester.
+2022-07-20 22:43:16,216 During exec_dag_function time: 22.709846 ms.
+2022-07-20 22:43:16,318 Received a schedule for DAG retwis_dag (9399a36c-fd59-484a-847c-59966a761774), function retwis_function.
+2022-07-20 22:43:16,318 Scheduler latency: 0.848770 ms.
+2022-07-20 22:43:16,318 Received a trigger for schedule 9399a36c-fd59-484a-847c-59966a761774, function retwis_function.
+2022-07-20 22:43:16,318 Before exec_dag_function time: 0.400305 ms.
+2022-07-20 22:43:16,340 DAG retwis_dag (ID 9399a36c-fd59-484a-847c-59966a761774) result returned to requester.
+2022-07-20 22:43:16,341 During exec_dag_function time: 22.496700 ms.
+2022-07-20 22:43:16,442 Received a schedule for DAG retwis_dag (651b9059-2798-494a-9aa5-74d71bc5dfa3), function retwis_function.
+2022-07-20 22:43:16,443 Scheduler latency: 0.860929 ms.
+2022-07-20 22:43:16,443 Received a trigger for schedule 651b9059-2798-494a-9aa5-74d71bc5dfa3, function retwis_function.
+2022-07-20 22:43:16,443 Before exec_dag_function time: 0.414371 ms.
+2022-07-20 22:43:16,464 DAG retwis_dag (ID 651b9059-2798-494a-9aa5-74d71bc5dfa3) result returned to requester.
+2022-07-20 22:43:16,464 During exec_dag_function time: 20.842075 ms.
+2022-07-20 22:43:16,566 Received a schedule for DAG retwis_dag (a53d5e37-e6af-49ff-b71a-9bef3dbba211), function retwis_function.
+2022-07-20 22:43:16,566 Scheduler latency: 0.910044 ms.
+2022-07-20 22:43:16,566 Received a trigger for schedule a53d5e37-e6af-49ff-b71a-9bef3dbba211, function retwis_function.
+2022-07-20 22:43:16,566 Before exec_dag_function time: 0.441551 ms.
+2022-07-20 22:43:16,591 DAG retwis_dag (ID a53d5e37-e6af-49ff-b71a-9bef3dbba211) result returned to requester.
+2022-07-20 22:43:16,591 During exec_dag_function time: 25.084496 ms.
+2022-07-20 22:43:16,693 Received a schedule for DAG retwis_dag (4183c076-c126-4b42-9bec-6e3a58aede71), function retwis_function.
+2022-07-20 22:43:16,693 Scheduler latency: 0.897408 ms.
+2022-07-20 22:43:16,694 Received a trigger for schedule 4183c076-c126-4b42-9bec-6e3a58aede71, function retwis_function.
+2022-07-20 22:43:16,694 Before exec_dag_function time: 0.468254 ms.
+2022-07-20 22:43:16,716 DAG retwis_dag (ID 4183c076-c126-4b42-9bec-6e3a58aede71) result returned to requester.
+2022-07-20 22:43:16,717 During exec_dag_function time: 22.791624 ms.
+2022-07-20 22:43:16,818 Received a schedule for DAG retwis_dag (20d5ac72-0580-4816-9399-c9208943e281), function retwis_function.
+2022-07-20 22:43:16,819 Scheduler latency: 0.900030 ms.
+2022-07-20 22:43:16,819 Received a trigger for schedule 20d5ac72-0580-4816-9399-c9208943e281, function retwis_function.
+2022-07-20 22:43:16,819 Before exec_dag_function time: 0.495195 ms.
+2022-07-20 22:43:16,840 DAG retwis_dag (ID 20d5ac72-0580-4816-9399-c9208943e281) result returned to requester.
+2022-07-20 22:43:16,840 During exec_dag_function time: 21.271944 ms.
+2022-07-20 22:43:16,942 Received a schedule for DAG retwis_dag (ca8f5acf-f0af-41f4-b77b-5c298ba1e341), function retwis_function.
+2022-07-20 22:43:16,942 Scheduler latency: 0.920057 ms.
+2022-07-20 22:43:16,943 Received a trigger for schedule ca8f5acf-f0af-41f4-b77b-5c298ba1e341, function retwis_function.
+2022-07-20 22:43:16,943 Before exec_dag_function time: 0.435114 ms.
+2022-07-20 22:43:16,964 DAG retwis_dag (ID ca8f5acf-f0af-41f4-b77b-5c298ba1e341) result returned to requester.
+2022-07-20 22:43:16,965 During exec_dag_function time: 21.757603 ms.
+2022-07-20 22:43:17,066 Received a schedule for DAG retwis_dag (c0c6f8af-671e-47f1-bc7f-d66b557a9bf3), function retwis_function.
+2022-07-20 22:43:17,067 Scheduler latency: 0.857592 ms.
+2022-07-20 22:43:17,067 Received a trigger for schedule c0c6f8af-671e-47f1-bc7f-d66b557a9bf3, function retwis_function.
+2022-07-20 22:43:17,067 Before exec_dag_function time: 0.430107 ms.
+2022-07-20 22:43:17,090 DAG retwis_dag (ID c0c6f8af-671e-47f1-bc7f-d66b557a9bf3) result returned to requester.
+2022-07-20 22:43:17,091 During exec_dag_function time: 23.572445 ms.
+2022-07-20 22:43:17,193 Received a schedule for DAG retwis_dag (f436aba8-84dc-4122-9f9e-33a85ed33865), function retwis_function.
+2022-07-20 22:43:17,193 Scheduler latency: 1.055241 ms.
+2022-07-20 22:43:17,193 Received a trigger for schedule f436aba8-84dc-4122-9f9e-33a85ed33865, function retwis_function.
+2022-07-20 22:43:17,193 Before exec_dag_function time: 0.491858 ms.
+2022-07-20 22:43:17,196 DAG retwis_dag (ID f436aba8-84dc-4122-9f9e-33a85ed33865) result returned to requester.
+2022-07-20 22:43:17,196 During exec_dag_function time: 2.820969 ms.
+2022-07-20 22:43:17,298 Received a schedule for DAG retwis_dag (397f23c8-ef9b-4899-8591-ae9d54c8728c), function retwis_function.
+2022-07-20 22:43:17,298 Scheduler latency: 0.943899 ms.
+2022-07-20 22:43:17,299 Received a trigger for schedule 397f23c8-ef9b-4899-8591-ae9d54c8728c, function retwis_function.
+2022-07-20 22:43:17,299 Before exec_dag_function time: 0.405788 ms.
+2022-07-20 22:43:17,301 DAG retwis_dag (ID 397f23c8-ef9b-4899-8591-ae9d54c8728c) result returned to requester.
+2022-07-20 22:43:17,301 During exec_dag_function time: 2.692461 ms.
+2022-07-20 22:43:17,403 Received a schedule for DAG retwis_dag (57cd4869-6f10-4a18-b510-29f7485bbd5e), function retwis_function.
+2022-07-20 22:43:17,403 Scheduler latency: 0.929832 ms.
+2022-07-20 22:43:17,404 Received a trigger for schedule 57cd4869-6f10-4a18-b510-29f7485bbd5e, function retwis_function.
+2022-07-20 22:43:17,404 Before exec_dag_function time: 0.429153 ms.
+2022-07-20 22:43:17,426 DAG retwis_dag (ID 57cd4869-6f10-4a18-b510-29f7485bbd5e) result returned to requester.
+2022-07-20 22:43:17,426 During exec_dag_function time: 22.301912 ms.
+2022-07-20 22:43:17,528 Received a schedule for DAG retwis_dag (dcabc45d-e9c0-4870-b7a2-518a32923219), function retwis_function.
+2022-07-20 22:43:17,528 Scheduler latency: 0.893593 ms.
+2022-07-20 22:43:17,528 Received a trigger for schedule dcabc45d-e9c0-4870-b7a2-518a32923219, function retwis_function.
+2022-07-20 22:43:17,528 Before exec_dag_function time: 0.393867 ms.
+2022-07-20 22:43:17,550 DAG retwis_dag (ID dcabc45d-e9c0-4870-b7a2-518a32923219) result returned to requester.
+2022-07-20 22:43:17,550 During exec_dag_function time: 21.645069 ms.
+2022-07-20 22:43:17,652 Received a schedule for DAG retwis_dag (90651483-091d-4101-9f8c-16f06f3fb132), function retwis_function.
+2022-07-20 22:43:17,652 Scheduler latency: 0.897884 ms.
+2022-07-20 22:43:17,652 Received a trigger for schedule 90651483-091d-4101-9f8c-16f06f3fb132, function retwis_function.
+2022-07-20 22:43:17,652 Before exec_dag_function time: 0.421524 ms.
+2022-07-20 22:43:17,674 DAG retwis_dag (ID 90651483-091d-4101-9f8c-16f06f3fb132) result returned to requester.
+2022-07-20 22:43:17,675 During exec_dag_function time: 22.332191 ms.
+2022-07-20 22:43:17,776 Received a schedule for DAG retwis_dag (a1733f2a-77e7-4c2b-9ba2-bf469ef4588e), function retwis_function.
+2022-07-20 22:43:17,777 Scheduler latency: 0.901937 ms.
+2022-07-20 22:43:17,777 Received a trigger for schedule a1733f2a-77e7-4c2b-9ba2-bf469ef4588e, function retwis_function.
+2022-07-20 22:43:17,777 Before exec_dag_function time: 0.414610 ms.
+2022-07-20 22:43:17,798 DAG retwis_dag (ID a1733f2a-77e7-4c2b-9ba2-bf469ef4588e) result returned to requester.
+2022-07-20 22:43:17,798 During exec_dag_function time: 21.205902 ms.
+2022-07-20 22:43:17,900 Received a schedule for DAG retwis_dag (36e3f619-fed6-4ad9-8bba-8a5ced8788b6), function retwis_function.
+2022-07-20 22:43:17,900 Scheduler latency: 0.902891 ms.
+2022-07-20 22:43:17,901 Received a trigger for schedule 36e3f619-fed6-4ad9-8bba-8a5ced8788b6, function retwis_function.
+2022-07-20 22:43:17,901 Before exec_dag_function time: 0.431776 ms.
+2022-07-20 22:43:17,923 DAG retwis_dag (ID 36e3f619-fed6-4ad9-8bba-8a5ced8788b6) result returned to requester.
+2022-07-20 22:43:17,924 During exec_dag_function time: 23.011208 ms.
+2022-07-20 22:43:18,025 Received a schedule for DAG retwis_dag (b6878006-5079-466c-ae8e-13ef8738e3a2), function retwis_function.
+2022-07-20 22:43:18,026 Scheduler latency: 0.835180 ms.
+2022-07-20 22:43:18,026 Received a trigger for schedule b6878006-5079-466c-ae8e-13ef8738e3a2, function retwis_function.
+2022-07-20 22:43:18,026 Before exec_dag_function time: 0.435352 ms.
+2022-07-20 22:43:18,029 DAG retwis_dag (ID b6878006-5079-466c-ae8e-13ef8738e3a2) result returned to requester.
+2022-07-20 22:43:18,029 During exec_dag_function time: 2.845287 ms.
+2022-07-20 22:43:18,131 Received a schedule for DAG retwis_dag (4cbaf7cb-53de-4813-b47e-867bf9a9bf84), function retwis_function.
+2022-07-20 22:43:18,131 Scheduler latency: 0.892639 ms.
+2022-07-20 22:43:18,131 Received a trigger for schedule 4cbaf7cb-53de-4813-b47e-867bf9a9bf84, function retwis_function.
+2022-07-20 22:43:18,131 Before exec_dag_function time: 0.426769 ms.
+2022-07-20 22:43:18,134 DAG retwis_dag (ID 4cbaf7cb-53de-4813-b47e-867bf9a9bf84) result returned to requester.
+2022-07-20 22:43:18,134 During exec_dag_function time: 2.690554 ms.
+2022-07-20 22:43:18,236 Received a schedule for DAG retwis_dag (f696fe91-030a-4cba-a02f-5f91e27eb277), function retwis_function.
+2022-07-20 22:43:18,236 Scheduler latency: 0.868082 ms.
+2022-07-20 22:43:18,236 Received a trigger for schedule f696fe91-030a-4cba-a02f-5f91e27eb277, function retwis_function.
+2022-07-20 22:43:18,236 Before exec_dag_function time: 0.417948 ms.
+2022-07-20 22:43:18,239 DAG retwis_dag (ID f696fe91-030a-4cba-a02f-5f91e27eb277) result returned to requester.
+2022-07-20 22:43:18,239 During exec_dag_function time: 3.009558 ms.
+2022-07-20 22:43:18,341 Received a schedule for DAG retwis_dag (1d515e91-9098-4d55-8fd5-f920a341810e), function retwis_function.
+2022-07-20 22:43:18,341 Scheduler latency: 0.913858 ms.
+2022-07-20 22:43:18,342 Received a trigger for schedule 1d515e91-9098-4d55-8fd5-f920a341810e, function retwis_function.
+2022-07-20 22:43:18,342 Before exec_dag_function time: 0.474930 ms.
+2022-07-20 22:43:18,363 DAG retwis_dag (ID 1d515e91-9098-4d55-8fd5-f920a341810e) result returned to requester.
+2022-07-20 22:43:18,363 During exec_dag_function time: 21.293163 ms.
+2022-07-20 22:43:18,465 Received a schedule for DAG retwis_dag (9502b8a5-70f9-41f1-a6c2-ecd46de5cfd4), function retwis_function.
+2022-07-20 22:43:18,465 Scheduler latency: 0.830412 ms.
+2022-07-20 22:43:18,465 Received a trigger for schedule 9502b8a5-70f9-41f1-a6c2-ecd46de5cfd4, function retwis_function.
+2022-07-20 22:43:18,465 Before exec_dag_function time: 0.435591 ms.
+2022-07-20 22:43:18,468 DAG retwis_dag (ID 9502b8a5-70f9-41f1-a6c2-ecd46de5cfd4) result returned to requester.
+2022-07-20 22:43:18,468 During exec_dag_function time: 2.645016 ms.
+2022-07-20 22:43:18,570 Received a schedule for DAG retwis_dag (00dd91ec-1a31-4e9f-bb1a-b0f8926fd49f), function retwis_function.
+2022-07-20 22:43:18,570 Scheduler latency: 0.873327 ms.
+2022-07-20 22:43:18,570 Received a trigger for schedule 00dd91ec-1a31-4e9f-bb1a-b0f8926fd49f, function retwis_function.
+2022-07-20 22:43:18,571 Before exec_dag_function time: 0.392675 ms.
+2022-07-20 22:43:18,591 DAG retwis_dag (ID 00dd91ec-1a31-4e9f-bb1a-b0f8926fd49f) result returned to requester.
+2022-07-20 22:43:18,591 During exec_dag_function time: 20.884991 ms.
+2022-07-20 22:43:18,693 Received a schedule for DAG retwis_dag (060d840e-7e1f-4fb5-a7ea-b698ccd76f0c), function retwis_function.
+2022-07-20 22:43:18,693 Scheduler latency: 0.819445 ms.
+2022-07-20 22:43:18,694 Received a trigger for schedule 060d840e-7e1f-4fb5-a7ea-b698ccd76f0c, function retwis_function.
+2022-07-20 22:43:18,694 Before exec_dag_function time: 0.415325 ms.
+2022-07-20 22:43:18,716 DAG retwis_dag (ID 060d840e-7e1f-4fb5-a7ea-b698ccd76f0c) result returned to requester.
+2022-07-20 22:43:18,716 During exec_dag_function time: 22.415161 ms.
+2022-07-20 22:43:18,818 Received a schedule for DAG retwis_dag (e8606dee-6440-49d9-9c7b-561fa86fe47b), function retwis_function.
+2022-07-20 22:43:18,818 Scheduler latency: 0.869036 ms.
+2022-07-20 22:43:18,818 Received a trigger for schedule e8606dee-6440-49d9-9c7b-561fa86fe47b, function retwis_function.
+2022-07-20 22:43:18,818 Before exec_dag_function time: 0.410318 ms.
+2022-07-20 22:43:18,840 DAG retwis_dag (ID e8606dee-6440-49d9-9c7b-561fa86fe47b) result returned to requester.
+2022-07-20 22:43:18,840 During exec_dag_function time: 21.551609 ms.
+2022-07-20 22:43:18,942 Received a schedule for DAG retwis_dag (97937c06-65b0-4d02-8613-694daf81ee2d), function retwis_function.
+2022-07-20 22:43:18,942 Scheduler latency: 0.869036 ms.
+2022-07-20 22:43:18,942 Received a trigger for schedule 97937c06-65b0-4d02-8613-694daf81ee2d, function retwis_function.
+2022-07-20 22:43:18,942 Before exec_dag_function time: 0.403643 ms.
+2022-07-20 22:43:18,964 DAG retwis_dag (ID 97937c06-65b0-4d02-8613-694daf81ee2d) result returned to requester.
+2022-07-20 22:43:18,964 During exec_dag_function time: 21.874428 ms.
+2022-07-20 22:43:19,066 Received a schedule for DAG retwis_dag (5a3d5be4-0434-4695-a051-43a1345b7b9e), function retwis_function.
+2022-07-20 22:43:19,066 Scheduler latency: 0.896454 ms.
+2022-07-20 22:43:19,066 Received a trigger for schedule 5a3d5be4-0434-4695-a051-43a1345b7b9e, function retwis_function.
+2022-07-20 22:43:19,067 Before exec_dag_function time: 0.396967 ms.
+2022-07-20 22:43:19,089 DAG retwis_dag (ID 5a3d5be4-0434-4695-a051-43a1345b7b9e) result returned to requester.
+2022-07-20 22:43:19,089 During exec_dag_function time: 22.524834 ms.
+2022-07-20 22:43:19,191 Received a schedule for DAG retwis_dag (b90e9b89-dd8a-4e89-9d34-33d28458ad9b), function retwis_function.
+2022-07-20 22:43:19,191 Scheduler latency: 0.884295 ms.
+2022-07-20 22:43:19,191 Received a trigger for schedule b90e9b89-dd8a-4e89-9d34-33d28458ad9b, function retwis_function.
+2022-07-20 22:43:19,192 Before exec_dag_function time: 0.420809 ms.
+2022-07-20 22:43:19,217 DAG retwis_dag (ID b90e9b89-dd8a-4e89-9d34-33d28458ad9b) result returned to requester.
+2022-07-20 22:43:19,218 During exec_dag_function time: 26.002407 ms.
+2022-07-20 22:43:19,319 Received a schedule for DAG retwis_dag (fbe0d1db-08f1-4004-a322-5ff387195505), function retwis_function.
+2022-07-20 22:43:19,319 Scheduler latency: 0.860929 ms.
+2022-07-20 22:43:19,320 Received a trigger for schedule fbe0d1db-08f1-4004-a322-5ff387195505, function retwis_function.
+2022-07-20 22:43:19,320 Before exec_dag_function time: 0.394583 ms.
+2022-07-20 22:43:19,343 DAG retwis_dag (ID fbe0d1db-08f1-4004-a322-5ff387195505) result returned to requester.
+2022-07-20 22:43:19,343 During exec_dag_function time: 23.002386 ms.
+2022-07-20 22:43:19,445 Received a schedule for DAG retwis_dag (a4d0ee9c-33b1-4b9c-b8e7-23c9f5efb41f), function retwis_function.
+2022-07-20 22:43:19,445 Scheduler latency: 0.885010 ms.
+2022-07-20 22:43:19,445 Received a trigger for schedule a4d0ee9c-33b1-4b9c-b8e7-23c9f5efb41f, function retwis_function.
+2022-07-20 22:43:19,445 Before exec_dag_function time: 0.453234 ms.
+2022-07-20 22:43:19,466 DAG retwis_dag (ID a4d0ee9c-33b1-4b9c-b8e7-23c9f5efb41f) result returned to requester.
+2022-07-20 22:43:19,466 During exec_dag_function time: 21.081686 ms.
+2022-07-20 22:43:19,568 Received a schedule for DAG retwis_dag (358cfb2a-a5a4-4f60-8e44-08c728f25368), function retwis_function.
+2022-07-20 22:43:19,568 Scheduler latency: 0.866890 ms.
+2022-07-20 22:43:19,569 Received a trigger for schedule 358cfb2a-a5a4-4f60-8e44-08c728f25368, function retwis_function.
+2022-07-20 22:43:19,569 Before exec_dag_function time: 0.409126 ms.
+2022-07-20 22:43:19,591 DAG retwis_dag (ID 358cfb2a-a5a4-4f60-8e44-08c728f25368) result returned to requester.
+2022-07-20 22:43:19,591 During exec_dag_function time: 22.407293 ms.
+2022-07-20 22:43:19,693 Received a schedule for DAG retwis_dag (e373920d-debe-4acf-bd89-359051a739ad), function retwis_function.
+2022-07-20 22:43:19,693 Scheduler latency: 0.836134 ms.
+2022-07-20 22:43:19,693 Received a trigger for schedule e373920d-debe-4acf-bd89-359051a739ad, function retwis_function.
+2022-07-20 22:43:19,693 Before exec_dag_function time: 0.432968 ms.
+2022-07-20 22:43:19,714 DAG retwis_dag (ID e373920d-debe-4acf-bd89-359051a739ad) result returned to requester.
+2022-07-20 22:43:19,714 During exec_dag_function time: 20.909309 ms.
+2022-07-20 22:43:19,816 Received a schedule for DAG retwis_dag (6e5ead7e-db92-4baa-980b-28e9176adc49), function retwis_function.
+2022-07-20 22:43:19,816 Scheduler latency: 0.855207 ms.
+2022-07-20 22:43:19,817 Received a trigger for schedule 6e5ead7e-db92-4baa-980b-28e9176adc49, function retwis_function.
+2022-07-20 22:43:19,817 Before exec_dag_function time: 0.410795 ms.
+2022-07-20 22:43:19,839 DAG retwis_dag (ID 6e5ead7e-db92-4baa-980b-28e9176adc49) result returned to requester.
+2022-07-20 22:43:19,840 During exec_dag_function time: 22.807598 ms.
+2022-07-20 22:43:19,941 Received a schedule for DAG retwis_dag (c8ed1baa-f567-4fc5-a9d8-e043cc258754), function retwis_function.
+2022-07-20 22:43:19,942 Scheduler latency: 0.902176 ms.
+2022-07-20 22:43:19,942 Received a trigger for schedule c8ed1baa-f567-4fc5-a9d8-e043cc258754, function retwis_function.
+2022-07-20 22:43:19,942 Before exec_dag_function time: 0.497341 ms.
+2022-07-20 22:43:19,944 DAG retwis_dag (ID c8ed1baa-f567-4fc5-a9d8-e043cc258754) result returned to requester.
+2022-07-20 22:43:19,945 During exec_dag_function time: 2.628326 ms.
+2022-07-20 22:43:20,046 Received a schedule for DAG retwis_dag (98c028d1-ccd5-490d-91b4-5180aabba14b), function retwis_function.
+2022-07-20 22:43:20,047 Scheduler latency: 0.885487 ms.
+2022-07-20 22:43:20,047 Received a trigger for schedule 98c028d1-ccd5-490d-91b4-5180aabba14b, function retwis_function.
+2022-07-20 22:43:20,047 Before exec_dag_function time: 0.447035 ms.
+2022-07-20 22:43:20,069 DAG retwis_dag (ID 98c028d1-ccd5-490d-91b4-5180aabba14b) result returned to requester.
+2022-07-20 22:43:20,069 During exec_dag_function time: 22.221088 ms.
+2022-07-20 22:43:20,171 Received a schedule for DAG retwis_dag (9fdea83e-09d2-4e24-8a91-b514272d373b), function retwis_function.
+2022-07-20 22:43:20,171 Scheduler latency: 0.840187 ms.
+2022-07-20 22:43:20,172 Received a trigger for schedule 9fdea83e-09d2-4e24-8a91-b514272d373b, function retwis_function.
+2022-07-20 22:43:20,172 Before exec_dag_function time: 0.400543 ms.
+2022-07-20 22:43:20,193 DAG retwis_dag (ID 9fdea83e-09d2-4e24-8a91-b514272d373b) result returned to requester.
+2022-07-20 22:43:20,193 During exec_dag_function time: 21.204948 ms.
+2022-07-20 22:43:20,295 Received a schedule for DAG retwis_dag (79445e1d-f3b5-433d-8a4e-202074502c4e), function retwis_function.
+2022-07-20 22:43:20,295 Scheduler latency: 0.892878 ms.
+2022-07-20 22:43:20,295 Received a trigger for schedule 79445e1d-f3b5-433d-8a4e-202074502c4e, function retwis_function.
+2022-07-20 22:43:20,295 Before exec_dag_function time: 0.389099 ms.
+2022-07-20 22:43:20,318 DAG retwis_dag (ID 79445e1d-f3b5-433d-8a4e-202074502c4e) result returned to requester.
+2022-07-20 22:43:20,318 During exec_dag_function time: 22.742748 ms.
+2022-07-20 22:43:20,318 Total thread occupancy: 0.176006
+2022-07-20 22:43:20,318 	Event pin occupancy: 0.000000
+2022-07-20 22:43:20,319 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:20,319 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:20,319 	Event dag_queue occupancy: 0.004995
+2022-07-20 22:43:20,319 	Event dag_exec occupancy: 0.171011
+2022-07-20 22:43:20,319 functions {
+  name: "retwis_function"
+  call_count: 41
+  runtime: 0.02657032012939453
+  runtime: 0.02158522605895996
+  runtime: 0.029788732528686523
+  runtime: 0.0233154296875
+  runtime: 0.032721519470214844
+  runtime: 0.06831884384155273
+  runtime: 0.023396968841552734
+  runtime: 0.023195266723632812
+  runtime: 0.0215761661529541
+  runtime: 0.02582573890686035
+  runtime: 0.023576736450195312
+  runtime: 0.02209615707397461
+  runtime: 0.02250504493713379
+  runtime: 0.024335861206054688
+  runtime: 0.0035719871520996094
+  runtime: 0.0033788681030273438
+  runtime: 0.023199081420898438
+  runtime: 0.02251887321472168
+  runtime: 0.023221731185913086
+  runtime: 0.022081613540649414
+  runtime: 0.023762941360473633
+  runtime: 0.0035555362701416016
+  runtime: 0.003407001495361328
+  runtime: 0.003688812255859375
+  runtime: 0.022096872329711914
+  runtime: 0.0033321380615234375
+  runtime: 0.021582841873168945
+  runtime: 0.0231173038482666
+  runtime: 0.022306442260742188
+  runtime: 0.022578954696655273
+  runtime: 0.023250341415405273
+  runtime: 0.026780128479003906
+  runtime: 0.02370762825012207
+  runtime: 0.021879911422729492
+  runtime: 0.0231015682220459
+  runtime: 0.02164292335510254
+  runtime: 0.023542404174804688
+  runtime: 0.0034089088439941406
+  runtime: 0.02299809455871582
+  runtime: 0.021954059600830078
+  runtime: 0.02344822883605957
+}
+dags {
+  name: "retwis_dag"
+  runtimes: 0.027205467224121094
+  runtimes: 0.02219414710998535
+  runtimes: 0.030390501022338867
+  runtimes: 0.0239260196685791
+  runtimes: 0.0332643985748291
+  runtimes: 0.06881475448608398
+  runtimes: 0.023978471755981445
+  runtimes: 0.02381610870361328
+  runtimes: 0.02218317985534668
+  runtimes: 0.0265047550201416
+  runtimes: 0.024230003356933594
+  runtimes: 0.022732973098754883
+  runtimes: 0.023182153701782227
+  runtimes: 0.02492833137512207
+  runtimes: 0.004435300827026367
+  runtimes: 0.004040956497192383
+  runtimes: 0.023726463317871094
+  runtimes: 0.022997140884399414
+  runtimes: 0.023715734481811523
+  runtimes: 0.02258896827697754
+  runtimes: 0.02441573143005371
+  runtimes: 0.0041790008544921875
+  runtimes: 0.0040740966796875
+  runtimes: 0.004363298416137695
+  runtimes: 0.02275824546813965
+  runtimes: 0.003976106643676758
+  runtimes: 0.02221536636352539
+  runtimes: 0.023714065551757812
+  runtimes: 0.02289557456970215
+  runtimes: 0.023212432861328125
+  runtimes: 0.023899078369140625
+  runtimes: 0.02737259864807129
+  runtimes: 0.024321794509887695
+  runtimes: 0.022485733032226562
+  runtimes: 0.023747682571411133
+  runtimes: 0.022241830825805664
+  runtimes: 0.024142026901245117
+  runtimes: 0.0040950775146484375
+  runtimes: 0.023622751235961914
+  runtimes: 0.022511959075927734
+  runtimes: 0.024088621139526367
+}
+
+2022-07-20 22:43:20,420 Received a schedule for DAG retwis_dag (90a2392f-37c2-469e-946f-9a9bef340f3a), function retwis_function.
+2022-07-20 22:43:20,420 Scheduler latency: 0.790596 ms.
+2022-07-20 22:43:20,420 Received a trigger for schedule 90a2392f-37c2-469e-946f-9a9bef340f3a, function retwis_function.
+2022-07-20 22:43:20,420 Before exec_dag_function time: 0.422001 ms.
+2022-07-20 22:43:20,441 DAG retwis_dag (ID 90a2392f-37c2-469e-946f-9a9bef340f3a) result returned to requester.
+2022-07-20 22:43:20,442 During exec_dag_function time: 21.388531 ms.
+2022-07-20 22:43:20,543 Received a schedule for DAG retwis_dag (5f56c616-8ab3-469b-affa-33c0198bf792), function retwis_function.
+2022-07-20 22:43:20,544 Scheduler latency: 0.838518 ms.
+2022-07-20 22:43:20,544 Received a trigger for schedule 5f56c616-8ab3-469b-affa-33c0198bf792, function retwis_function.
+2022-07-20 22:43:20,544 Before exec_dag_function time: 0.407219 ms.
+2022-07-20 22:43:20,547 DAG retwis_dag (ID 5f56c616-8ab3-469b-affa-33c0198bf792) result returned to requester.
+2022-07-20 22:43:20,547 During exec_dag_function time: 2.754450 ms.
+2022-07-20 22:43:20,649 Received a schedule for DAG retwis_dag (0eb001ce-f644-40ea-9952-f7efed58cba1), function retwis_function.
+2022-07-20 22:43:20,649 Scheduler latency: 0.816822 ms.
+2022-07-20 22:43:20,649 Received a trigger for schedule 0eb001ce-f644-40ea-9952-f7efed58cba1, function retwis_function.
+2022-07-20 22:43:20,649 Before exec_dag_function time: 0.434875 ms.
+2022-07-20 22:43:20,652 DAG retwis_dag (ID 0eb001ce-f644-40ea-9952-f7efed58cba1) result returned to requester.
+2022-07-20 22:43:20,652 During exec_dag_function time: 2.678871 ms.
+2022-07-20 22:43:20,754 Received a schedule for DAG retwis_dag (3a622faf-05cd-4e1e-9918-e9e3174c179a), function retwis_function.
+2022-07-20 22:43:20,754 Scheduler latency: 0.882864 ms.
+2022-07-20 22:43:20,754 Received a trigger for schedule 3a622faf-05cd-4e1e-9918-e9e3174c179a, function retwis_function.
+2022-07-20 22:43:20,754 Before exec_dag_function time: 0.361443 ms.
+2022-07-20 22:43:20,779 DAG retwis_dag (ID 3a622faf-05cd-4e1e-9918-e9e3174c179a) result returned to requester.
+2022-07-20 22:43:20,780 During exec_dag_function time: 25.463343 ms.
+2022-07-20 22:43:20,881 Received a schedule for DAG retwis_dag (50f47cbb-883b-465d-a4cc-a1d0bac2e2ed), function retwis_function.
+2022-07-20 22:43:20,881 Scheduler latency: 0.838518 ms.
+2022-07-20 22:43:20,882 Received a trigger for schedule 50f47cbb-883b-465d-a4cc-a1d0bac2e2ed, function retwis_function.
+2022-07-20 22:43:20,882 Before exec_dag_function time: 0.437260 ms.
+2022-07-20 22:43:20,903 DAG retwis_dag (ID 50f47cbb-883b-465d-a4cc-a1d0bac2e2ed) result returned to requester.
+2022-07-20 22:43:20,903 During exec_dag_function time: 21.100521 ms.
+2022-07-20 22:43:21,005 Received a schedule for DAG retwis_dag (5adef07c-2367-4e03-ae05-8d20d49e66ba), function retwis_function.
+2022-07-20 22:43:21,005 Scheduler latency: 0.830173 ms.
+2022-07-20 22:43:21,005 Received a trigger for schedule 5adef07c-2367-4e03-ae05-8d20d49e66ba, function retwis_function.
+2022-07-20 22:43:21,005 Before exec_dag_function time: 0.458241 ms.
+2022-07-20 22:43:21,028 DAG retwis_dag (ID 5adef07c-2367-4e03-ae05-8d20d49e66ba) result returned to requester.
+2022-07-20 22:43:21,028 During exec_dag_function time: 22.378683 ms.
+2022-07-20 22:43:21,129 Received a schedule for DAG retwis_dag (74df288c-4a0e-4c27-b85c-b4e4af8e6aaf), function retwis_function.
+2022-07-20 22:43:21,130 Scheduler latency: 0.832319 ms.
+2022-07-20 22:43:21,130 Received a trigger for schedule 74df288c-4a0e-4c27-b85c-b4e4af8e6aaf, function retwis_function.
+2022-07-20 22:43:21,130 Before exec_dag_function time: 0.411034 ms.
+2022-07-20 22:43:21,151 DAG retwis_dag (ID 74df288c-4a0e-4c27-b85c-b4e4af8e6aaf) result returned to requester.
+2022-07-20 22:43:21,151 During exec_dag_function time: 20.853758 ms.
+2022-07-20 22:43:21,253 Received a schedule for DAG retwis_dag (c7a2685e-38b8-4321-bc56-b09d0681f64f), function retwis_function.
+2022-07-20 22:43:21,253 Scheduler latency: 0.822783 ms.
+2022-07-20 22:43:21,253 Received a trigger for schedule c7a2685e-38b8-4321-bc56-b09d0681f64f, function retwis_function.
+2022-07-20 22:43:21,253 Before exec_dag_function time: 0.386000 ms.
+2022-07-20 22:43:21,276 DAG retwis_dag (ID c7a2685e-38b8-4321-bc56-b09d0681f64f) result returned to requester.
+2022-07-20 22:43:21,276 During exec_dag_function time: 22.662401 ms.
+2022-07-20 22:43:21,378 Received a schedule for DAG retwis_dag (a03525db-1406-47af-9e57-f25cfb646d68), function retwis_function.
+2022-07-20 22:43:21,378 Scheduler latency: 0.857353 ms.
+2022-07-20 22:43:21,378 Received a trigger for schedule a03525db-1406-47af-9e57-f25cfb646d68, function retwis_function.
+2022-07-20 22:43:21,378 Before exec_dag_function time: 0.398636 ms.
+2022-07-20 22:43:21,399 DAG retwis_dag (ID a03525db-1406-47af-9e57-f25cfb646d68) result returned to requester.
+2022-07-20 22:43:21,400 During exec_dag_function time: 21.348238 ms.
+2022-07-20 22:43:21,501 Received a schedule for DAG retwis_dag (926ca5c9-fef3-4389-92ff-36a57b9d23ac), function retwis_function.
+2022-07-20 22:43:21,502 Scheduler latency: 0.904799 ms.
+2022-07-20 22:43:21,502 Received a trigger for schedule 926ca5c9-fef3-4389-92ff-36a57b9d23ac, function retwis_function.
+2022-07-20 22:43:21,502 Before exec_dag_function time: 0.490904 ms.
+2022-07-20 22:43:21,525 DAG retwis_dag (ID 926ca5c9-fef3-4389-92ff-36a57b9d23ac) result returned to requester.
+2022-07-20 22:43:21,525 During exec_dag_function time: 22.701502 ms.
+2022-07-20 22:43:21,627 Received a schedule for DAG retwis_dag (58a7b885-4f42-47af-b8d9-b4c0adb37999), function retwis_function.
+2022-07-20 22:43:21,627 Scheduler latency: 0.909328 ms.
+2022-07-20 22:43:21,627 Received a trigger for schedule 58a7b885-4f42-47af-b8d9-b4c0adb37999, function retwis_function.
+2022-07-20 22:43:21,627 Before exec_dag_function time: 0.439167 ms.
+2022-07-20 22:43:21,648 DAG retwis_dag (ID 58a7b885-4f42-47af-b8d9-b4c0adb37999) result returned to requester.
+2022-07-20 22:43:21,649 During exec_dag_function time: 21.376133 ms.
+2022-07-20 22:43:21,750 Received a schedule for DAG retwis_dag (53602d59-56df-4088-b08f-5cc08d6a8603), function retwis_function.
+2022-07-20 22:43:21,751 Scheduler latency: 0.874996 ms.
+2022-07-20 22:43:21,751 Received a trigger for schedule 53602d59-56df-4088-b08f-5cc08d6a8603, function retwis_function.
+2022-07-20 22:43:21,751 Before exec_dag_function time: 0.439644 ms.
+2022-07-20 22:43:21,774 DAG retwis_dag (ID 53602d59-56df-4088-b08f-5cc08d6a8603) result returned to requester.
+2022-07-20 22:43:21,774 During exec_dag_function time: 23.144245 ms.
+2022-07-20 22:43:21,876 Received a schedule for DAG retwis_dag (6a6ee731-5e79-4fe5-8976-5897590178f3), function retwis_function.
+2022-07-20 22:43:21,876 Scheduler latency: 0.835419 ms.
+2022-07-20 22:43:21,876 Received a trigger for schedule 6a6ee731-5e79-4fe5-8976-5897590178f3, function retwis_function.
+2022-07-20 22:43:21,877 Before exec_dag_function time: 0.395536 ms.
+2022-07-20 22:43:21,899 DAG retwis_dag (ID 6a6ee731-5e79-4fe5-8976-5897590178f3) result returned to requester.
+2022-07-20 22:43:21,900 During exec_dag_function time: 23.073435 ms.
+2022-07-20 22:43:22,001 Received a schedule for DAG retwis_dag (d869853a-3866-4dfc-918d-2f736331d875), function retwis_function.
+2022-07-20 22:43:22,002 Scheduler latency: 0.864029 ms.
+2022-07-20 22:43:22,002 Received a trigger for schedule d869853a-3866-4dfc-918d-2f736331d875, function retwis_function.
+2022-07-20 22:43:22,002 Before exec_dag_function time: 0.448704 ms.
+2022-07-20 22:43:22,023 DAG retwis_dag (ID d869853a-3866-4dfc-918d-2f736331d875) result returned to requester.
+2022-07-20 22:43:22,024 During exec_dag_function time: 21.594048 ms.
+2022-07-20 22:43:22,125 Received a schedule for DAG retwis_dag (936093a9-9a75-4876-9008-452bcea3709d), function retwis_function.
+2022-07-20 22:43:22,125 Scheduler latency: 0.855446 ms.
+2022-07-20 22:43:22,126 Received a trigger for schedule 936093a9-9a75-4876-9008-452bcea3709d, function retwis_function.
+2022-07-20 22:43:22,126 Before exec_dag_function time: 0.454664 ms.
+2022-07-20 22:43:22,128 DAG retwis_dag (ID 936093a9-9a75-4876-9008-452bcea3709d) result returned to requester.
+2022-07-20 22:43:22,129 During exec_dag_function time: 2.674580 ms.
+2022-07-20 22:43:22,231 Received a schedule for DAG retwis_dag (99f7e23d-7859-4650-828e-1f5e9b0ade84), function retwis_function.
+2022-07-20 22:43:22,231 Scheduler latency: 0.831127 ms.
+2022-07-20 22:43:22,231 Received a trigger for schedule 99f7e23d-7859-4650-828e-1f5e9b0ade84, function retwis_function.
+2022-07-20 22:43:22,231 Before exec_dag_function time: 0.405312 ms.
+2022-07-20 22:43:22,256 DAG retwis_dag (ID 99f7e23d-7859-4650-828e-1f5e9b0ade84) result returned to requester.
+2022-07-20 22:43:22,256 During exec_dag_function time: 25.134802 ms.
+2022-07-20 22:43:22,358 Received a schedule for DAG retwis_dag (9109f2f1-2420-4d82-bac9-68d189969134), function retwis_function.
+2022-07-20 22:43:22,358 Scheduler latency: 0.840902 ms.
+2022-07-20 22:43:22,359 Received a trigger for schedule 9109f2f1-2420-4d82-bac9-68d189969134, function retwis_function.
+2022-07-20 22:43:22,359 Before exec_dag_function time: 0.395298 ms.
+2022-07-20 22:43:22,383 DAG retwis_dag (ID 9109f2f1-2420-4d82-bac9-68d189969134) result returned to requester.
+2022-07-20 22:43:22,383 During exec_dag_function time: 24.230480 ms.
+2022-07-20 22:43:22,485 Received a schedule for DAG retwis_dag (d48eaee7-54cc-4848-8e17-15a457bd8af7), function retwis_function.
+2022-07-20 22:43:22,485 Scheduler latency: 0.861883 ms.
+2022-07-20 22:43:22,485 Received a trigger for schedule d48eaee7-54cc-4848-8e17-15a457bd8af7, function retwis_function.
+2022-07-20 22:43:22,485 Before exec_dag_function time: 0.429392 ms.
+2022-07-20 22:43:22,506 DAG retwis_dag (ID d48eaee7-54cc-4848-8e17-15a457bd8af7) result returned to requester.
+2022-07-20 22:43:22,507 During exec_dag_function time: 21.385670 ms.
+2022-07-20 22:43:22,608 Received a schedule for DAG retwis_dag (c00bc08e-45d5-4250-90d4-1219c06e6a42), function retwis_function.
+2022-07-20 22:43:22,609 Scheduler latency: 0.879288 ms.
+2022-07-20 22:43:22,609 Received a trigger for schedule c00bc08e-45d5-4250-90d4-1219c06e6a42, function retwis_function.
+2022-07-20 22:43:22,609 Before exec_dag_function time: 0.431776 ms.
+2022-07-20 22:43:22,631 DAG retwis_dag (ID c00bc08e-45d5-4250-90d4-1219c06e6a42) result returned to requester.
+2022-07-20 22:43:22,632 During exec_dag_function time: 22.603512 ms.
+2022-07-20 22:43:22,733 Received a schedule for DAG retwis_dag (5bbf18db-250a-43c1-8d26-6adf2d4b2f71), function retwis_function.
+2022-07-20 22:43:22,734 Scheduler latency: 0.868797 ms.
+2022-07-20 22:43:22,734 Received a trigger for schedule 5bbf18db-250a-43c1-8d26-6adf2d4b2f71, function retwis_function.
+2022-07-20 22:43:22,734 Before exec_dag_function time: 0.445366 ms.
+2022-07-20 22:43:22,736 DAG retwis_dag (ID 5bbf18db-250a-43c1-8d26-6adf2d4b2f71) result returned to requester.
+2022-07-20 22:43:22,737 During exec_dag_function time: 2.614260 ms.
+2022-07-20 22:43:22,838 Received a schedule for DAG retwis_dag (308ba5ee-e9ac-448b-adef-f941d88a103f), function retwis_function.
+2022-07-20 22:43:22,839 Scheduler latency: 0.844717 ms.
+2022-07-20 22:43:22,839 Received a trigger for schedule 308ba5ee-e9ac-448b-adef-f941d88a103f, function retwis_function.
+2022-07-20 22:43:22,839 Before exec_dag_function time: 0.380039 ms.
+2022-07-20 22:43:22,861 DAG retwis_dag (ID 308ba5ee-e9ac-448b-adef-f941d88a103f) result returned to requester.
+2022-07-20 22:43:22,861 During exec_dag_function time: 22.312641 ms.
+2022-07-20 22:43:22,963 Received a schedule for DAG retwis_dag (be5bf44a-bd44-4978-9fdc-6ee04a65851b), function retwis_function.
+2022-07-20 22:43:22,963 Scheduler latency: 0.898600 ms.
+2022-07-20 22:43:22,964 Received a trigger for schedule be5bf44a-bd44-4978-9fdc-6ee04a65851b, function retwis_function.
+2022-07-20 22:43:22,964 Before exec_dag_function time: 0.409842 ms.
+2022-07-20 22:43:22,985 DAG retwis_dag (ID be5bf44a-bd44-4978-9fdc-6ee04a65851b) result returned to requester.
+2022-07-20 22:43:22,985 During exec_dag_function time: 21.246433 ms.
+2022-07-20 22:43:23,087 Received a schedule for DAG retwis_dag (91486be5-7733-456a-a62d-17f13a17f13b), function retwis_function.
+2022-07-20 22:43:23,087 Scheduler latency: 0.835896 ms.
+2022-07-20 22:43:23,087 Received a trigger for schedule 91486be5-7733-456a-a62d-17f13a17f13b, function retwis_function.
+2022-07-20 22:43:23,087 Before exec_dag_function time: 0.385284 ms.
+2022-07-20 22:43:23,110 DAG retwis_dag (ID 91486be5-7733-456a-a62d-17f13a17f13b) result returned to requester.
+2022-07-20 22:43:23,110 During exec_dag_function time: 22.562265 ms.
+2022-07-20 22:43:23,212 Received a schedule for DAG retwis_dag (c150667b-3114-4026-834c-1dc4ad860ae2), function retwis_function.
+2022-07-20 22:43:23,212 Scheduler latency: 0.811815 ms.
+2022-07-20 22:43:23,212 Received a trigger for schedule c150667b-3114-4026-834c-1dc4ad860ae2, function retwis_function.
+2022-07-20 22:43:23,212 Before exec_dag_function time: 0.400543 ms.
+2022-07-20 22:43:23,233 DAG retwis_dag (ID c150667b-3114-4026-834c-1dc4ad860ae2) result returned to requester.
+2022-07-20 22:43:23,233 During exec_dag_function time: 21.269798 ms.
+2022-07-20 22:43:23,335 Received a schedule for DAG retwis_dag (b9d4e20e-6bed-483f-8cb5-e92c827eb0e7), function retwis_function.
+2022-07-20 22:43:23,335 Scheduler latency: 0.822306 ms.
+2022-07-20 22:43:23,336 Received a trigger for schedule b9d4e20e-6bed-483f-8cb5-e92c827eb0e7, function retwis_function.
+2022-07-20 22:43:23,336 Before exec_dag_function time: 0.396490 ms.
+2022-07-20 22:43:23,358 DAG retwis_dag (ID b9d4e20e-6bed-483f-8cb5-e92c827eb0e7) result returned to requester.
+2022-07-20 22:43:23,358 During exec_dag_function time: 22.561312 ms.
+2022-07-20 22:43:23,460 Received a schedule for DAG retwis_dag (50222a09-e993-4df0-82c2-9a2f95db9bba), function retwis_function.
+2022-07-20 22:43:23,460 Scheduler latency: 0.779629 ms.
+2022-07-20 22:43:23,460 Received a trigger for schedule 50222a09-e993-4df0-82c2-9a2f95db9bba, function retwis_function.
+2022-07-20 22:43:23,461 Before exec_dag_function time: 0.377893 ms.
+2022-07-20 22:43:23,483 DAG retwis_dag (ID 50222a09-e993-4df0-82c2-9a2f95db9bba) result returned to requester.
+2022-07-20 22:43:23,483 During exec_dag_function time: 22.525072 ms.
+2022-07-20 22:43:23,585 Received a schedule for DAG retwis_dag (47b1b3d3-31eb-4a2a-a1b4-43c51ce1b069), function retwis_function.
+2022-07-20 22:43:23,585 Scheduler latency: 0.829935 ms.
+2022-07-20 22:43:23,585 Received a trigger for schedule 47b1b3d3-31eb-4a2a-a1b4-43c51ce1b069, function retwis_function.
+2022-07-20 22:43:23,585 Before exec_dag_function time: 0.434399 ms.
+2022-07-20 22:43:23,607 DAG retwis_dag (ID 47b1b3d3-31eb-4a2a-a1b4-43c51ce1b069) result returned to requester.
+2022-07-20 22:43:23,607 During exec_dag_function time: 21.899462 ms.
+2022-07-20 22:43:23,709 Received a schedule for DAG retwis_dag (dc1218bd-aceb-4675-85d2-306076e51988), function retwis_function.
+2022-07-20 22:43:23,709 Scheduler latency: 0.826597 ms.
+2022-07-20 22:43:23,709 Received a trigger for schedule dc1218bd-aceb-4675-85d2-306076e51988, function retwis_function.
+2022-07-20 22:43:23,710 Before exec_dag_function time: 0.437737 ms.
+2022-07-20 22:43:23,731 DAG retwis_dag (ID dc1218bd-aceb-4675-85d2-306076e51988) result returned to requester.
+2022-07-20 22:43:23,731 During exec_dag_function time: 21.373510 ms.
+2022-07-20 22:43:23,833 Received a schedule for DAG retwis_dag (6773c2ec-51bc-4d76-9a12-c18dc8607fc6), function retwis_function.
+2022-07-20 22:43:23,833 Scheduler latency: 0.857115 ms.
+2022-07-20 22:43:23,833 Received a trigger for schedule 6773c2ec-51bc-4d76-9a12-c18dc8607fc6, function retwis_function.
+2022-07-20 22:43:23,833 Before exec_dag_function time: 0.431776 ms.
+2022-07-20 22:43:23,836 DAG retwis_dag (ID 6773c2ec-51bc-4d76-9a12-c18dc8607fc6) result returned to requester.
+2022-07-20 22:43:23,836 During exec_dag_function time: 2.720356 ms.
+2022-07-20 22:43:23,938 Received a schedule for DAG retwis_dag (13e5883c-99ad-4ce2-88cc-fb5d05c62a45), function retwis_function.
+2022-07-20 22:43:23,938 Scheduler latency: 0.856161 ms.
+2022-07-20 22:43:23,938 Received a trigger for schedule 13e5883c-99ad-4ce2-88cc-fb5d05c62a45, function retwis_function.
+2022-07-20 22:43:23,938 Before exec_dag_function time: 0.388861 ms.
+2022-07-20 22:43:23,959 DAG retwis_dag (ID 13e5883c-99ad-4ce2-88cc-fb5d05c62a45) result returned to requester.
+2022-07-20 22:43:23,959 During exec_dag_function time: 20.621538 ms.
+2022-07-20 22:43:24,061 Received a schedule for DAG retwis_dag (cb92a826-0a82-46e6-80d1-3a1a7e6d3626), function retwis_function.
+2022-07-20 22:43:24,061 Scheduler latency: 0.798225 ms.
+2022-07-20 22:43:24,061 Received a trigger for schedule cb92a826-0a82-46e6-80d1-3a1a7e6d3626, function retwis_function.
+2022-07-20 22:43:24,061 Before exec_dag_function time: 0.374556 ms.
+2022-07-20 22:43:24,083 DAG retwis_dag (ID cb92a826-0a82-46e6-80d1-3a1a7e6d3626) result returned to requester.
+2022-07-20 22:43:24,084 During exec_dag_function time: 22.426605 ms.
+2022-07-20 22:43:24,185 Received a schedule for DAG retwis_dag (0c793f67-185d-4ceb-8020-dede8f258912), function retwis_function.
+2022-07-20 22:43:24,185 Scheduler latency: 0.818014 ms.
+2022-07-20 22:43:24,186 Received a trigger for schedule 0c793f67-185d-4ceb-8020-dede8f258912, function retwis_function.
+2022-07-20 22:43:24,186 Before exec_dag_function time: 0.426292 ms.
+2022-07-20 22:43:24,207 DAG retwis_dag (ID 0c793f67-185d-4ceb-8020-dede8f258912) result returned to requester.
+2022-07-20 22:43:24,207 During exec_dag_function time: 21.096706 ms.
+2022-07-20 22:43:24,309 Received a schedule for DAG retwis_dag (75249615-5ae3-442a-bb8a-dc1fe26abbd1), function retwis_function.
+2022-07-20 22:43:24,309 Scheduler latency: 0.824451 ms.
+2022-07-20 22:43:24,309 Received a trigger for schedule 75249615-5ae3-442a-bb8a-dc1fe26abbd1, function retwis_function.
+2022-07-20 22:43:24,309 Before exec_dag_function time: 0.393152 ms.
+2022-07-20 22:43:24,330 DAG retwis_dag (ID 75249615-5ae3-442a-bb8a-dc1fe26abbd1) result returned to requester.
+2022-07-20 22:43:24,330 During exec_dag_function time: 20.664215 ms.
+2022-07-20 22:43:24,432 Received a schedule for DAG retwis_dag (5df9737d-b935-44f2-ba97-c6efc9e07bc7), function retwis_function.
+2022-07-20 22:43:24,432 Scheduler latency: 0.814438 ms.
+2022-07-20 22:43:24,432 Received a trigger for schedule 5df9737d-b935-44f2-ba97-c6efc9e07bc7, function retwis_function.
+2022-07-20 22:43:24,432 Before exec_dag_function time: 0.383854 ms.
+2022-07-20 22:43:24,455 DAG retwis_dag (ID 5df9737d-b935-44f2-ba97-c6efc9e07bc7) result returned to requester.
+2022-07-20 22:43:24,455 During exec_dag_function time: 22.819281 ms.
+2022-07-20 22:43:24,557 Received a schedule for DAG retwis_dag (b7107de1-344c-4861-af1d-2a6cbfe797cc), function retwis_function.
+2022-07-20 22:43:24,557 Scheduler latency: 0.838995 ms.
+2022-07-20 22:43:24,557 Received a trigger for schedule b7107de1-344c-4861-af1d-2a6cbfe797cc, function retwis_function.
+2022-07-20 22:43:24,557 Before exec_dag_function time: 0.439167 ms.
+2022-07-20 22:43:24,578 DAG retwis_dag (ID b7107de1-344c-4861-af1d-2a6cbfe797cc) result returned to requester.
+2022-07-20 22:43:24,578 During exec_dag_function time: 21.136284 ms.
+2022-07-20 22:43:24,680 Received a schedule for DAG retwis_dag (cda552bf-8cd8-4797-94ac-b185bf3b978d), function retwis_function.
+2022-07-20 22:43:24,680 Scheduler latency: 0.867844 ms.
+2022-07-20 22:43:24,681 Received a trigger for schedule cda552bf-8cd8-4797-94ac-b185bf3b978d, function retwis_function.
+2022-07-20 22:43:24,681 Before exec_dag_function time: 0.445604 ms.
+2022-07-20 22:43:24,701 DAG retwis_dag (ID cda552bf-8cd8-4797-94ac-b185bf3b978d) result returned to requester.
+2022-07-20 22:43:24,702 During exec_dag_function time: 20.663977 ms.
+2022-07-20 22:43:24,803 Received a schedule for DAG retwis_dag (6b0256e3-80f4-4bf9-b829-88cea84e393f), function retwis_function.
+2022-07-20 22:43:24,803 Scheduler latency: 0.861406 ms.
+2022-07-20 22:43:24,804 Received a trigger for schedule 6b0256e3-80f4-4bf9-b829-88cea84e393f, function retwis_function.
+2022-07-20 22:43:24,804 Before exec_dag_function time: 0.389338 ms.
+2022-07-20 22:43:24,827 DAG retwis_dag (ID 6b0256e3-80f4-4bf9-b829-88cea84e393f) result returned to requester.
+2022-07-20 22:43:24,827 During exec_dag_function time: 23.159981 ms.
+2022-07-20 22:43:24,929 Received a schedule for DAG retwis_dag (f3dca9c6-4124-4e44-b83f-a6cefff043d0), function retwis_function.
+2022-07-20 22:43:24,929 Scheduler latency: 0.818968 ms.
+2022-07-20 22:43:24,929 Received a trigger for schedule f3dca9c6-4124-4e44-b83f-a6cefff043d0, function retwis_function.
+2022-07-20 22:43:24,930 Before exec_dag_function time: 0.460386 ms.
+2022-07-20 22:43:24,952 DAG retwis_dag (ID f3dca9c6-4124-4e44-b83f-a6cefff043d0) result returned to requester.
+2022-07-20 22:43:24,952 During exec_dag_function time: 22.637129 ms.
+2022-07-20 22:43:25,054 Received a schedule for DAG retwis_dag (20b565f9-1707-48d6-8ee4-f2c32d8889e3), function retwis_function.
+2022-07-20 22:43:25,054 Scheduler latency: 0.889778 ms.
+2022-07-20 22:43:25,054 Received a trigger for schedule 20b565f9-1707-48d6-8ee4-f2c32d8889e3, function retwis_function.
+2022-07-20 22:43:25,055 Before exec_dag_function time: 0.426769 ms.
+2022-07-20 22:43:25,075 DAG retwis_dag (ID 20b565f9-1707-48d6-8ee4-f2c32d8889e3) result returned to requester.
+2022-07-20 22:43:25,076 During exec_dag_function time: 21.123409 ms.
+2022-07-20 22:43:25,177 Received a schedule for DAG retwis_dag (4fffca6c-ca76-48ee-b930-d7c6e0f3dab0), function retwis_function.
+2022-07-20 22:43:25,178 Scheduler latency: 0.843763 ms.
+2022-07-20 22:43:25,178 Received a trigger for schedule 4fffca6c-ca76-48ee-b930-d7c6e0f3dab0, function retwis_function.
+2022-07-20 22:43:25,178 Before exec_dag_function time: 0.436068 ms.
+2022-07-20 22:43:25,200 DAG retwis_dag (ID 4fffca6c-ca76-48ee-b930-d7c6e0f3dab0) result returned to requester.
+2022-07-20 22:43:25,201 During exec_dag_function time: 22.635698 ms.
+2022-07-20 22:43:25,303 Received a schedule for DAG retwis_dag (ce0aa23d-7e28-4a3f-99d3-846c6ebd7165), function retwis_function.
+2022-07-20 22:43:25,303 Scheduler latency: 0.942230 ms.
+2022-07-20 22:43:25,303 Received a trigger for schedule ce0aa23d-7e28-4a3f-99d3-846c6ebd7165, function retwis_function.
+2022-07-20 22:43:25,303 Before exec_dag_function time: 0.405550 ms.
+2022-07-20 22:43:25,326 DAG retwis_dag (ID ce0aa23d-7e28-4a3f-99d3-846c6ebd7165) result returned to requester.
+2022-07-20 22:43:25,326 During exec_dag_function time: 22.925854 ms.
+2022-07-20 22:43:25,326 Total thread occupancy: 0.170921
+2022-07-20 22:43:25,327 	Event pin occupancy: 0.000000
+2022-07-20 22:43:25,327 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:25,327 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:25,327 	Event dag_queue occupancy: 0.004862
+2022-07-20 22:43:25,327 	Event dag_exec occupancy: 0.166059
+2022-07-20 22:43:25,327 functions {
+  name: "retwis_function"
+  call_count: 41
+  runtime: 0.022158384323120117
+  runtime: 0.0034322738647460938
+  runtime: 0.003376007080078125
+  runtime: 0.02611565589904785
+  runtime: 0.02185225486755371
+  runtime: 0.0231473445892334
+  runtime: 0.0215756893157959
+  runtime: 0.023365020751953125
+  runtime: 0.02206707000732422
+  runtime: 0.023518800735473633
+  runtime: 0.02215266227722168
+  runtime: 0.023908138275146484
+  runtime: 0.023781776428222656
+  runtime: 0.022356510162353516
+  runtime: 0.0033893585205078125
+  runtime: 0.02585625648498535
+  runtime: 0.024912357330322266
+  runtime: 0.02214789390563965
+  runtime: 0.023351669311523438
+  runtime: 0.0033347606658935547
+  runtime: 0.022993087768554688
+  runtime: 0.022006750106811523
+  runtime: 0.023260116577148438
+  runtime: 0.02202916145324707
+  runtime: 0.023264169692993164
+  runtime: 0.02322697639465332
+  runtime: 0.02268075942993164
+  runtime: 0.022144556045532227
+  runtime: 0.003430604934692383
+  runtime: 0.0213010311126709
+  runtime: 0.023092985153198242
+  runtime: 0.021804094314575195
+  runtime: 0.02137470245361328
+  runtime: 0.023524761199951172
+  runtime: 0.021895408630371094
+  runtime: 0.021442890167236328
+  runtime: 0.023871183395385742
+  runtime: 0.0234072208404541
+  runtime: 0.02188420295715332
+  runtime: 0.023400545120239258
+  runtime: 0.023645639419555664
+}
+dags {
+  name: "retwis_dag"
+  runtimes: 0.02266216278076172
+  runtimes: 0.004080772399902344
+  runtimes: 0.003993988037109375
+  runtimes: 0.026792049407958984
+  runtimes: 0.022438526153564453
+  runtimes: 0.02372908592224121
+  runtimes: 0.022188425064086914
+  runtimes: 0.02393484115600586
+  runtimes: 0.022670269012451172
+  runtimes: 0.02416086196899414
+  runtimes: 0.022792816162109375
+  runtimes: 0.024524211883544922
+  runtimes: 0.024367094039916992
+  runtimes: 0.02297186851501465
+  runtimes: 0.004044532775878906
+  runtimes: 0.026432275772094727
+  runtimes: 0.025536298751831055
+  runtimes: 0.022740602493286133
+  runtimes: 0.02397918701171875
+  runtimes: 0.004001617431640625
+  runtimes: 0.023614883422851562
+  runtimes: 0.022621870040893555
+  runtimes: 0.023845911026000977
+  runtimes: 0.02254509925842285
+  runtimes: 0.023845195770263672
+  runtimes: 0.023744821548461914
+  runtimes: 0.023229360580444336
+  runtimes: 0.022701501846313477
+  runtimes: 0.004072904586791992
+  runtimes: 0.02193140983581543
+  runtimes: 0.023660659790039062
+  runtimes: 0.022411108016967773
+  runtimes: 0.021945953369140625
+  runtimes: 0.02408146858215332
+  runtimes: 0.02247786521911621
+  runtimes: 0.02204132080078125
+  runtimes: 0.024483919143676758
+  runtimes: 0.023979902267456055
+  runtimes: 0.02250981330871582
+  runtimes: 0.02397918701171875
+  runtimes: 0.024338245391845703
+}
+
+2022-07-20 22:43:25,428 Received a schedule for DAG retwis_dag (f76dc519-ff84-44bf-be64-c37fc7ec1a14), function retwis_function.
+2022-07-20 22:43:25,428 Scheduler latency: 0.825167 ms.
+2022-07-20 22:43:25,428 Received a trigger for schedule f76dc519-ff84-44bf-be64-c37fc7ec1a14, function retwis_function.
+2022-07-20 22:43:25,428 Before exec_dag_function time: 0.429392 ms.
+2022-07-20 22:43:25,431 DAG retwis_dag (ID f76dc519-ff84-44bf-be64-c37fc7ec1a14) result returned to requester.
+2022-07-20 22:43:25,431 During exec_dag_function time: 2.707720 ms.
+2022-07-20 22:43:25,533 Received a schedule for DAG retwis_dag (e9ccb6a8-569c-41f8-ab18-80352a5ca608), function retwis_function.
+2022-07-20 22:43:25,533 Scheduler latency: 0.810623 ms.
+2022-07-20 22:43:25,533 Received a trigger for schedule e9ccb6a8-569c-41f8-ab18-80352a5ca608, function retwis_function.
+2022-07-20 22:43:25,533 Before exec_dag_function time: 0.432730 ms.
+2022-07-20 22:43:25,556 DAG retwis_dag (ID e9ccb6a8-569c-41f8-ab18-80352a5ca608) result returned to requester.
+2022-07-20 22:43:25,556 During exec_dag_function time: 22.601843 ms.
+2022-07-20 22:43:25,658 Received a schedule for DAG retwis_dag (08ebb742-caf7-4a82-a4e9-f8b8b62b385b), function retwis_function.
+2022-07-20 22:43:25,658 Scheduler latency: 0.859499 ms.
+2022-07-20 22:43:25,658 Received a trigger for schedule 08ebb742-caf7-4a82-a4e9-f8b8b62b385b, function retwis_function.
+2022-07-20 22:43:25,658 Before exec_dag_function time: 0.397682 ms.
+2022-07-20 22:43:25,681 DAG retwis_dag (ID 08ebb742-caf7-4a82-a4e9-f8b8b62b385b) result returned to requester.
+2022-07-20 22:43:25,681 During exec_dag_function time: 22.611141 ms.
+2022-07-20 22:43:25,783 Received a schedule for DAG retwis_dag (3f89cd22-3b26-432e-afc4-b6c1113a1eba), function retwis_function.
+2022-07-20 22:43:25,783 Scheduler latency: 0.849009 ms.
+2022-07-20 22:43:25,783 Received a trigger for schedule 3f89cd22-3b26-432e-afc4-b6c1113a1eba, function retwis_function.
+2022-07-20 22:43:25,783 Before exec_dag_function time: 0.405312 ms.
+2022-07-20 22:43:25,786 DAG retwis_dag (ID 3f89cd22-3b26-432e-afc4-b6c1113a1eba) result returned to requester.
+2022-07-20 22:43:25,786 During exec_dag_function time: 2.633810 ms.
+2022-07-20 22:43:25,888 Received a schedule for DAG retwis_dag (6766f322-b631-40f6-8cb5-d005c5169fc0), function retwis_function.
+2022-07-20 22:43:25,888 Scheduler latency: 0.819206 ms.
+2022-07-20 22:43:25,888 Received a trigger for schedule 6766f322-b631-40f6-8cb5-d005c5169fc0, function retwis_function.
+2022-07-20 22:43:25,888 Before exec_dag_function time: 0.370979 ms.
+2022-07-20 22:43:25,911 DAG retwis_dag (ID 6766f322-b631-40f6-8cb5-d005c5169fc0) result returned to requester.
+2022-07-20 22:43:25,911 During exec_dag_function time: 22.538662 ms.
+2022-07-20 22:43:26,012 Received a schedule for DAG retwis_dag (7d84cca1-b1e8-446c-bfb7-85f31c148351), function retwis_function.
+2022-07-20 22:43:26,013 Scheduler latency: 0.788689 ms.
+2022-07-20 22:43:26,013 Received a trigger for schedule 7d84cca1-b1e8-446c-bfb7-85f31c148351, function retwis_function.
+2022-07-20 22:43:26,013 Before exec_dag_function time: 0.381708 ms.
+2022-07-20 22:43:26,033 DAG retwis_dag (ID 7d84cca1-b1e8-446c-bfb7-85f31c148351) result returned to requester.
+2022-07-20 22:43:26,033 During exec_dag_function time: 20.381927 ms.
+2022-07-20 22:43:26,135 Received a schedule for DAG retwis_dag (df2c5b6a-0791-4180-859b-e00b016b5a51), function retwis_function.
+2022-07-20 22:43:26,135 Scheduler latency: 0.892162 ms.
+2022-07-20 22:43:26,136 Received a trigger for schedule df2c5b6a-0791-4180-859b-e00b016b5a51, function retwis_function.
+2022-07-20 22:43:26,136 Before exec_dag_function time: 0.454664 ms.
+2022-07-20 22:43:26,158 DAG retwis_dag (ID df2c5b6a-0791-4180-859b-e00b016b5a51) result returned to requester.
+2022-07-20 22:43:26,158 During exec_dag_function time: 22.220850 ms.
+2022-07-20 22:43:26,260 Received a schedule for DAG retwis_dag (0108eb45-827d-49dc-8848-4875c30e4a61), function retwis_function.
+2022-07-20 22:43:26,260 Scheduler latency: 0.864267 ms.
+2022-07-20 22:43:26,260 Received a trigger for schedule 0108eb45-827d-49dc-8848-4875c30e4a61, function retwis_function.
+2022-07-20 22:43:26,260 Before exec_dag_function time: 0.427485 ms.
+2022-07-20 22:43:26,282 DAG retwis_dag (ID 0108eb45-827d-49dc-8848-4875c30e4a61) result returned to requester.
+2022-07-20 22:43:26,282 During exec_dag_function time: 21.734953 ms.
+2022-07-20 22:43:26,384 Received a schedule for DAG retwis_dag (82eda4b6-6ca4-4084-addd-a93e97df0ff4), function retwis_function.
+2022-07-20 22:43:26,384 Scheduler latency: 0.844955 ms.
+2022-07-20 22:43:26,384 Received a trigger for schedule 82eda4b6-6ca4-4084-addd-a93e97df0ff4, function retwis_function.
+2022-07-20 22:43:26,385 Before exec_dag_function time: 0.409126 ms.
+2022-07-20 22:43:26,408 DAG retwis_dag (ID 82eda4b6-6ca4-4084-addd-a93e97df0ff4) result returned to requester.
+2022-07-20 22:43:26,408 During exec_dag_function time: 23.498297 ms.
+2022-07-20 22:43:26,510 Received a schedule for DAG retwis_dag (6ec68cc7-f5b1-499a-bda5-0480b8f8e6b1), function retwis_function.
+2022-07-20 22:43:26,510 Scheduler latency: 0.892639 ms.
+2022-07-20 22:43:26,510 Received a trigger for schedule 6ec68cc7-f5b1-499a-bda5-0480b8f8e6b1, function retwis_function.
+2022-07-20 22:43:26,510 Before exec_dag_function time: 0.416517 ms.
+2022-07-20 22:43:26,532 DAG retwis_dag (ID 6ec68cc7-f5b1-499a-bda5-0480b8f8e6b1) result returned to requester.
+2022-07-20 22:43:26,532 During exec_dag_function time: 21.605968 ms.
+2022-07-20 22:43:26,634 Received a schedule for DAG retwis_dag (ab0e0a7a-4348-461a-9a53-813eb7686439), function retwis_function.
+2022-07-20 22:43:26,634 Scheduler latency: 0.913382 ms.
+2022-07-20 22:43:26,634 Received a trigger for schedule ab0e0a7a-4348-461a-9a53-813eb7686439, function retwis_function.
+2022-07-20 22:43:26,634 Before exec_dag_function time: 0.423908 ms.
+2022-07-20 22:43:26,657 DAG retwis_dag (ID ab0e0a7a-4348-461a-9a53-813eb7686439) result returned to requester.
+2022-07-20 22:43:26,657 During exec_dag_function time: 22.826910 ms.
+2022-07-20 22:43:26,759 Received a schedule for DAG retwis_dag (22d83382-029c-4335-9493-2213c36d3d7b), function retwis_function.
+2022-07-20 22:43:26,759 Scheduler latency: 0.887156 ms.
+2022-07-20 22:43:26,760 Received a trigger for schedule 22d83382-029c-4335-9493-2213c36d3d7b, function retwis_function.
+2022-07-20 22:43:26,760 Before exec_dag_function time: 0.420809 ms.
+2022-07-20 22:43:26,762 DAG retwis_dag (ID 22d83382-029c-4335-9493-2213c36d3d7b) result returned to requester.
+2022-07-20 22:43:26,762 During exec_dag_function time: 2.686024 ms.
+2022-07-20 22:43:26,864 Received a schedule for DAG retwis_dag (36801288-4642-4a16-8863-b3efffc1081b), function retwis_function.
+2022-07-20 22:43:26,864 Scheduler latency: 0.774145 ms.
+2022-07-20 22:43:26,864 Received a trigger for schedule 36801288-4642-4a16-8863-b3efffc1081b, function retwis_function.
+2022-07-20 22:43:26,865 Before exec_dag_function time: 0.364780 ms.
+2022-07-20 22:43:26,885 DAG retwis_dag (ID 36801288-4642-4a16-8863-b3efffc1081b) result returned to requester.
+2022-07-20 22:43:26,885 During exec_dag_function time: 20.900488 ms.
+2022-07-20 22:43:26,987 Received a schedule for DAG retwis_dag (ee239a4c-3b5d-4580-b4d4-579fa8c38f74), function retwis_function.
+2022-07-20 22:43:26,987 Scheduler latency: 0.836372 ms.
+2022-07-20 22:43:26,988 Received a trigger for schedule ee239a4c-3b5d-4580-b4d4-579fa8c38f74, function retwis_function.
+2022-07-20 22:43:26,988 Before exec_dag_function time: 0.372648 ms.
+2022-07-20 22:43:27,009 DAG retwis_dag (ID ee239a4c-3b5d-4580-b4d4-579fa8c38f74) result returned to requester.
+2022-07-20 22:43:27,010 During exec_dag_function time: 21.889925 ms.
+2022-07-20 22:43:27,111 Received a schedule for DAG retwis_dag (d596c3e0-18cd-4ac2-aa9d-e61557b74ac3), function retwis_function.
+2022-07-20 22:43:27,111 Scheduler latency: 0.844002 ms.
+2022-07-20 22:43:27,112 Received a trigger for schedule d596c3e0-18cd-4ac2-aa9d-e61557b74ac3, function retwis_function.
+2022-07-20 22:43:27,112 Before exec_dag_function time: 0.399828 ms.
+2022-07-20 22:43:27,133 DAG retwis_dag (ID d596c3e0-18cd-4ac2-aa9d-e61557b74ac3) result returned to requester.
+2022-07-20 22:43:27,133 During exec_dag_function time: 21.138191 ms.
+2022-07-20 22:43:27,235 Received a schedule for DAG retwis_dag (4f1447bd-a7ae-44a6-97fb-21ab0854a824), function retwis_function.
+2022-07-20 22:43:27,235 Scheduler latency: 0.850916 ms.
+2022-07-20 22:43:27,235 Received a trigger for schedule 4f1447bd-a7ae-44a6-97fb-21ab0854a824, function retwis_function.
+2022-07-20 22:43:27,235 Before exec_dag_function time: 0.416994 ms.
+2022-07-20 22:43:27,258 DAG retwis_dag (ID 4f1447bd-a7ae-44a6-97fb-21ab0854a824) result returned to requester.
+2022-07-20 22:43:27,258 During exec_dag_function time: 22.984505 ms.
+2022-07-20 22:43:27,360 Received a schedule for DAG retwis_dag (07c5c7fb-16b5-4d32-bf1e-71d904ddc66e), function retwis_function.
+2022-07-20 22:43:27,360 Scheduler latency: 0.863314 ms.
+2022-07-20 22:43:27,361 Received a trigger for schedule 07c5c7fb-16b5-4d32-bf1e-71d904ddc66e, function retwis_function.
+2022-07-20 22:43:27,361 Before exec_dag_function time: 0.412226 ms.
+2022-07-20 22:43:27,381 DAG retwis_dag (ID 07c5c7fb-16b5-4d32-bf1e-71d904ddc66e) result returned to requester.
+2022-07-20 22:43:27,381 During exec_dag_function time: 20.678997 ms.
+2022-07-20 22:43:27,483 Received a schedule for DAG retwis_dag (87bf9d3a-d367-47d7-bf15-92d37ce5ea60), function retwis_function.
+2022-07-20 22:43:27,483 Scheduler latency: 0.875235 ms.
+2022-07-20 22:43:27,484 Received a trigger for schedule 87bf9d3a-d367-47d7-bf15-92d37ce5ea60, function retwis_function.
+2022-07-20 22:43:27,484 Before exec_dag_function time: 0.395060 ms.
+2022-07-20 22:43:27,506 DAG retwis_dag (ID 87bf9d3a-d367-47d7-bf15-92d37ce5ea60) result returned to requester.
+2022-07-20 22:43:27,507 During exec_dag_function time: 22.842646 ms.
+2022-07-20 22:43:27,608 Received a schedule for DAG retwis_dag (c16768d8-225e-4fe7-beac-ee6fb56e937e), function retwis_function.
+2022-07-20 22:43:27,608 Scheduler latency: 0.820160 ms.
+2022-07-20 22:43:27,609 Received a trigger for schedule c16768d8-225e-4fe7-beac-ee6fb56e937e, function retwis_function.
+2022-07-20 22:43:27,609 Before exec_dag_function time: 0.423431 ms.
+2022-07-20 22:43:27,629 DAG retwis_dag (ID c16768d8-225e-4fe7-beac-ee6fb56e937e) result returned to requester.
+2022-07-20 22:43:27,629 During exec_dag_function time: 20.245552 ms.
+2022-07-20 22:43:27,731 Received a schedule for DAG retwis_dag (c3c4cba8-241c-4331-b02e-85752bc697de), function retwis_function.
+2022-07-20 22:43:27,731 Scheduler latency: 0.845671 ms.
+2022-07-20 22:43:27,731 Received a trigger for schedule c3c4cba8-241c-4331-b02e-85752bc697de, function retwis_function.
+2022-07-20 22:43:27,732 Before exec_dag_function time: 0.405550 ms.
+2022-07-20 22:43:27,752 DAG retwis_dag (ID c3c4cba8-241c-4331-b02e-85752bc697de) result returned to requester.
+2022-07-20 22:43:27,753 During exec_dag_function time: 21.144629 ms.
+2022-07-20 22:43:27,854 Received a schedule for DAG retwis_dag (08513fbb-e762-4087-afc6-9dfa293d701d), function retwis_function.
+2022-07-20 22:43:27,855 Scheduler latency: 0.828028 ms.
+2022-07-20 22:43:27,855 Received a trigger for schedule 08513fbb-e762-4087-afc6-9dfa293d701d, function retwis_function.
+2022-07-20 22:43:27,855 Before exec_dag_function time: 0.394106 ms.
+2022-07-20 22:43:27,877 DAG retwis_dag (ID 08513fbb-e762-4087-afc6-9dfa293d701d) result returned to requester.
+2022-07-20 22:43:27,878 During exec_dag_function time: 22.698879 ms.
+2022-07-20 22:43:27,979 Received a schedule for DAG retwis_dag (d10c7a6b-facc-4f95-8976-e78e4f5ad490), function retwis_function.
+2022-07-20 22:43:27,980 Scheduler latency: 0.817299 ms.
+2022-07-20 22:43:27,980 Received a trigger for schedule d10c7a6b-facc-4f95-8976-e78e4f5ad490, function retwis_function.
+2022-07-20 22:43:27,980 Before exec_dag_function time: 0.402212 ms.
+2022-07-20 22:43:28,001 DAG retwis_dag (ID d10c7a6b-facc-4f95-8976-e78e4f5ad490) result returned to requester.
+2022-07-20 22:43:28,002 During exec_dag_function time: 21.474838 ms.
+2022-07-20 22:43:28,103 Received a schedule for DAG retwis_dag (9c36d5f5-fcf6-49e5-a947-9957a108f7d8), function retwis_function.
+2022-07-20 22:43:28,103 Scheduler latency: 0.823736 ms.
+2022-07-20 22:43:28,104 Received a trigger for schedule 9c36d5f5-fcf6-49e5-a947-9957a108f7d8, function retwis_function.
+2022-07-20 22:43:28,104 Before exec_dag_function time: 0.376940 ms.
+2022-07-20 22:43:28,126 DAG retwis_dag (ID 9c36d5f5-fcf6-49e5-a947-9957a108f7d8) result returned to requester.
+2022-07-20 22:43:28,126 During exec_dag_function time: 22.006750 ms.
+2022-07-20 22:43:28,227 Received a schedule for DAG retwis_dag (d12f2488-6333-44fb-b5c5-6b226e717c50), function retwis_function.
+2022-07-20 22:43:28,228 Scheduler latency: 0.822067 ms.
+2022-07-20 22:43:28,228 Received a trigger for schedule d12f2488-6333-44fb-b5c5-6b226e717c50, function retwis_function.
+2022-07-20 22:43:28,228 Before exec_dag_function time: 0.393867 ms.
+2022-07-20 22:43:28,248 DAG retwis_dag (ID d12f2488-6333-44fb-b5c5-6b226e717c50) result returned to requester.
+2022-07-20 22:43:28,248 During exec_dag_function time: 20.433903 ms.
+2022-07-20 22:43:28,350 Received a schedule for DAG retwis_dag (db287cc2-091c-430f-a916-02c1ce85697e), function retwis_function.
+2022-07-20 22:43:28,350 Scheduler latency: 0.839472 ms.
+2022-07-20 22:43:28,351 Received a trigger for schedule db287cc2-091c-430f-a916-02c1ce85697e, function retwis_function.
+2022-07-20 22:43:28,351 Before exec_dag_function time: 0.400066 ms.
+2022-07-20 22:43:28,372 DAG retwis_dag (ID db287cc2-091c-430f-a916-02c1ce85697e) result returned to requester.
+2022-07-20 22:43:28,373 During exec_dag_function time: 21.775484 ms.
+2022-07-20 22:43:28,474 Received a schedule for DAG retwis_dag (6843b82f-b726-4073-a2b9-5adab970f8d9), function retwis_function.
+2022-07-20 22:43:28,474 Scheduler latency: 0.850439 ms.
+2022-07-20 22:43:28,475 Received a trigger for schedule 6843b82f-b726-4073-a2b9-5adab970f8d9, function retwis_function.
+2022-07-20 22:43:28,475 Before exec_dag_function time: 0.411034 ms.
+2022-07-20 22:43:28,496 DAG retwis_dag (ID 6843b82f-b726-4073-a2b9-5adab970f8d9) result returned to requester.
+2022-07-20 22:43:28,496 During exec_dag_function time: 21.195650 ms.
+2022-07-20 22:43:28,598 Received a schedule for DAG retwis_dag (28f93164-2d81-4471-9572-8b03411b253e), function retwis_function.
+2022-07-20 22:43:28,598 Scheduler latency: 0.888348 ms.
+2022-07-20 22:43:28,598 Received a trigger for schedule 28f93164-2d81-4471-9572-8b03411b253e, function retwis_function.
+2022-07-20 22:43:28,598 Before exec_dag_function time: 0.411987 ms.
+2022-07-20 22:43:28,621 DAG retwis_dag (ID 28f93164-2d81-4471-9572-8b03411b253e) result returned to requester.
+2022-07-20 22:43:28,621 During exec_dag_function time: 22.455931 ms.
+2022-07-20 22:43:28,723 Received a schedule for DAG retwis_dag (c6b15e8c-51a6-41b9-a0c3-a6dacbd762ea), function retwis_function.
+2022-07-20 22:43:28,723 Scheduler latency: 0.819683 ms.
+2022-07-20 22:43:28,723 Received a trigger for schedule c6b15e8c-51a6-41b9-a0c3-a6dacbd762ea, function retwis_function.
+2022-07-20 22:43:28,723 Before exec_dag_function time: 0.406981 ms.
+2022-07-20 22:43:28,744 DAG retwis_dag (ID c6b15e8c-51a6-41b9-a0c3-a6dacbd762ea) result returned to requester.
+2022-07-20 22:43:28,744 During exec_dag_function time: 21.246433 ms.
+2022-07-20 22:43:28,846 Received a schedule for DAG retwis_dag (c80c5d0f-7f20-4743-b784-837eda8af21f), function retwis_function.
+2022-07-20 22:43:28,846 Scheduler latency: 0.874996 ms.
+2022-07-20 22:43:28,847 Received a trigger for schedule c80c5d0f-7f20-4743-b784-837eda8af21f, function retwis_function.
+2022-07-20 22:43:28,847 Before exec_dag_function time: 0.439405 ms.
+2022-07-20 22:43:28,869 DAG retwis_dag (ID c80c5d0f-7f20-4743-b784-837eda8af21f) result returned to requester.
+2022-07-20 22:43:28,869 During exec_dag_function time: 22.089720 ms.
+2022-07-20 22:43:28,971 Received a schedule for DAG retwis_dag (b716e91b-2902-438f-983f-916f5db636a5), function retwis_function.
+2022-07-20 22:43:28,971 Scheduler latency: 0.833988 ms.
+2022-07-20 22:43:28,971 Received a trigger for schedule b716e91b-2902-438f-983f-916f5db636a5, function retwis_function.
+2022-07-20 22:43:28,971 Before exec_dag_function time: 0.406265 ms.
+2022-07-20 22:43:28,974 DAG retwis_dag (ID b716e91b-2902-438f-983f-916f5db636a5) result returned to requester.
+2022-07-20 22:43:28,974 During exec_dag_function time: 2.677917 ms.
+2022-07-20 22:43:29,076 Received a schedule for DAG retwis_dag (ad7718d7-89fb-402a-92ce-7eed76bc9592), function retwis_function.
+2022-07-20 22:43:29,076 Scheduler latency: 0.822783 ms.
+2022-07-20 22:43:29,076 Received a trigger for schedule ad7718d7-89fb-402a-92ce-7eed76bc9592, function retwis_function.
+2022-07-20 22:43:29,076 Before exec_dag_function time: 0.370026 ms.
+2022-07-20 22:43:29,099 DAG retwis_dag (ID ad7718d7-89fb-402a-92ce-7eed76bc9592) result returned to requester.
+2022-07-20 22:43:29,099 During exec_dag_function time: 22.557735 ms.
+2022-07-20 22:43:29,200 Received a schedule for DAG retwis_dag (014b7abb-1ae7-482e-8a75-a8216257f9cd), function retwis_function.
+2022-07-20 22:43:29,201 Scheduler latency: 0.799417 ms.
+2022-07-20 22:43:29,201 Received a trigger for schedule 014b7abb-1ae7-482e-8a75-a8216257f9cd, function retwis_function.
+2022-07-20 22:43:29,201 Before exec_dag_function time: 0.400782 ms.
+2022-07-20 22:43:29,222 DAG retwis_dag (ID 014b7abb-1ae7-482e-8a75-a8216257f9cd) result returned to requester.
+2022-07-20 22:43:29,222 During exec_dag_function time: 20.952463 ms.
+2022-07-20 22:43:29,324 Received a schedule for DAG retwis_dag (0338d4f8-9c7f-49a6-bae0-f47a01409ba8), function retwis_function.
+2022-07-20 22:43:29,324 Scheduler latency: 0.835896 ms.
+2022-07-20 22:43:29,324 Received a trigger for schedule 0338d4f8-9c7f-49a6-bae0-f47a01409ba8, function retwis_function.
+2022-07-20 22:43:29,324 Before exec_dag_function time: 0.402451 ms.
+2022-07-20 22:43:29,346 DAG retwis_dag (ID 0338d4f8-9c7f-49a6-bae0-f47a01409ba8) result returned to requester.
+2022-07-20 22:43:29,346 During exec_dag_function time: 21.742344 ms.
+2022-07-20 22:43:29,448 Received a schedule for DAG retwis_dag (c95dcaf9-cb8c-4bb3-b6ce-c7e7bdbf5311), function retwis_function.
+2022-07-20 22:43:29,448 Scheduler latency: 0.850201 ms.
+2022-07-20 22:43:29,448 Received a trigger for schedule c95dcaf9-cb8c-4bb3-b6ce-c7e7bdbf5311, function retwis_function.
+2022-07-20 22:43:29,448 Before exec_dag_function time: 0.404358 ms.
+2022-07-20 22:43:29,470 DAG retwis_dag (ID c95dcaf9-cb8c-4bb3-b6ce-c7e7bdbf5311) result returned to requester.
+2022-07-20 22:43:29,471 During exec_dag_function time: 22.294521 ms.
+2022-07-20 22:43:29,572 Received a schedule for DAG retwis_dag (5bc5ca69-7c24-4f75-8986-99ff464c4a09), function retwis_function.
+2022-07-20 22:43:29,572 Scheduler latency: 0.830412 ms.
+2022-07-20 22:43:29,573 Received a trigger for schedule 5bc5ca69-7c24-4f75-8986-99ff464c4a09, function retwis_function.
+2022-07-20 22:43:29,573 Before exec_dag_function time: 0.397921 ms.
+2022-07-20 22:43:29,595 DAG retwis_dag (ID 5bc5ca69-7c24-4f75-8986-99ff464c4a09) result returned to requester.
+2022-07-20 22:43:29,596 During exec_dag_function time: 22.804022 ms.
+2022-07-20 22:43:29,697 Received a schedule for DAG retwis_dag (e9859d6a-09f9-414e-9b6f-15f97425e55a), function retwis_function.
+2022-07-20 22:43:29,698 Scheduler latency: 0.881910 ms.
+2022-07-20 22:43:29,698 Received a trigger for schedule e9859d6a-09f9-414e-9b6f-15f97425e55a, function retwis_function.
+2022-07-20 22:43:29,698 Before exec_dag_function time: 0.427961 ms.
+2022-07-20 22:43:29,720 DAG retwis_dag (ID e9859d6a-09f9-414e-9b6f-15f97425e55a) result returned to requester.
+2022-07-20 22:43:29,720 During exec_dag_function time: 21.957636 ms.
+2022-07-20 22:43:29,822 Received a schedule for DAG retwis_dag (48de2249-8bdc-4933-a723-7368283906d3), function retwis_function.
+2022-07-20 22:43:29,822 Scheduler latency: 0.868559 ms.
+2022-07-20 22:43:29,822 Received a trigger for schedule 48de2249-8bdc-4933-a723-7368283906d3, function retwis_function.
+2022-07-20 22:43:29,822 Before exec_dag_function time: 0.400782 ms.
+2022-07-20 22:43:29,845 DAG retwis_dag (ID 48de2249-8bdc-4933-a723-7368283906d3) result returned to requester.
+2022-07-20 22:43:29,845 During exec_dag_function time: 22.871256 ms.
+2022-07-20 22:43:29,947 Received a schedule for DAG retwis_dag (1cc42582-803d-4302-8c81-59d19338c32c), function retwis_function.
+2022-07-20 22:43:29,947 Scheduler latency: 0.831366 ms.
+2022-07-20 22:43:29,947 Received a trigger for schedule 1cc42582-803d-4302-8c81-59d19338c32c, function retwis_function.
+2022-07-20 22:43:29,948 Before exec_dag_function time: 0.396490 ms.
+2022-07-20 22:43:29,969 DAG retwis_dag (ID 1cc42582-803d-4302-8c81-59d19338c32c) result returned to requester.
+2022-07-20 22:43:29,969 During exec_dag_function time: 21.636009 ms.
+2022-07-20 22:43:30,071 Received a schedule for DAG retwis_dag (49c91f83-9fc7-4fea-8ba9-39a0338d4813), function retwis_function.
+2022-07-20 22:43:30,071 Scheduler latency: 0.836611 ms.
+2022-07-20 22:43:30,071 Received a trigger for schedule 49c91f83-9fc7-4fea-8ba9-39a0338d4813, function retwis_function.
+2022-07-20 22:43:30,072 Before exec_dag_function time: 0.388145 ms.
+2022-07-20 22:43:30,074 DAG retwis_dag (ID 49c91f83-9fc7-4fea-8ba9-39a0338d4813) result returned to requester.
+2022-07-20 22:43:30,074 During exec_dag_function time: 2.653599 ms.
+2022-07-20 22:43:30,176 Received a schedule for DAG retwis_dag (fb1e50e2-2699-45db-b79e-5c9fca34091e), function retwis_function.
+2022-07-20 22:43:30,176 Scheduler latency: 0.793219 ms.
+2022-07-20 22:43:30,177 Received a trigger for schedule fb1e50e2-2699-45db-b79e-5c9fca34091e, function retwis_function.
+2022-07-20 22:43:30,177 Before exec_dag_function time: 0.410080 ms.
+2022-07-20 22:43:30,198 DAG retwis_dag (ID fb1e50e2-2699-45db-b79e-5c9fca34091e) result returned to requester.
+2022-07-20 22:43:30,198 During exec_dag_function time: 20.542622 ms.
+2022-07-20 22:43:30,300 Received a schedule for DAG retwis_dag (99bae0af-1a04-4e9b-9c79-83cb1cd6f4fb), function retwis_function.
+2022-07-20 22:43:30,300 Scheduler latency: 0.857353 ms.
+2022-07-20 22:43:30,300 Received a trigger for schedule 99bae0af-1a04-4e9b-9c79-83cb1cd6f4fb, function retwis_function.
+2022-07-20 22:43:30,300 Before exec_dag_function time: 0.401497 ms.
+2022-07-20 22:43:30,324 DAG retwis_dag (ID 99bae0af-1a04-4e9b-9c79-83cb1cd6f4fb) result returned to requester.
+2022-07-20 22:43:30,324 During exec_dag_function time: 23.403168 ms.
+2022-07-20 22:43:30,425 Received a schedule for DAG retwis_dag (f5e89c82-0b99-470c-afeb-952c5b683611), function retwis_function.
+2022-07-20 22:43:30,426 Scheduler latency: 0.845909 ms.
+2022-07-20 22:43:30,426 Received a trigger for schedule f5e89c82-0b99-470c-afeb-952c5b683611, function retwis_function.
+2022-07-20 22:43:30,426 Before exec_dag_function time: 0.415802 ms.
+2022-07-20 22:43:30,446 DAG retwis_dag (ID f5e89c82-0b99-470c-afeb-952c5b683611) result returned to requester.
+2022-07-20 22:43:30,447 During exec_dag_function time: 20.463228 ms.
+2022-07-20 22:43:30,447 Total thread occupancy: 0.169528
+2022-07-20 22:43:30,447 	Event pin occupancy: 0.000000
+2022-07-20 22:43:30,447 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:30,447 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:30,447 	Event dag_queue occupancy: 0.004994
+2022-07-20 22:43:30,447 	Event dag_exec occupancy: 0.164534
+2022-07-20 22:43:30,447 functions {
+  name: "retwis_function"
+  call_count: 42
+  runtime: 0.003427267074584961
+  runtime: 0.02335381507873535
+  runtime: 0.02336740493774414
+  runtime: 0.0033223628997802734
+  runtime: 0.023214101791381836
+  runtime: 0.021071434020996094
+  runtime: 0.02299976348876953
+  runtime: 0.022503137588500977
+  runtime: 0.02422785758972168
+  runtime: 0.0223691463470459
+  runtime: 0.023632526397705078
+  runtime: 0.003393888473510742
+  runtime: 0.021544933319091797
+  runtime: 0.02259373664855957
+  runtime: 0.02187347412109375
+  runtime: 0.02375006675720215
+  runtime: 0.02141880989074707
+  runtime: 0.023574352264404297
+  runtime: 0.020988941192626953
+  runtime: 0.02187204360961914
+  runtime: 0.023401498794555664
+  runtime: 0.022218704223632812
+  runtime: 0.02268695831298828
+  runtime: 0.021151065826416016
+  runtime: 0.022470474243164062
+  runtime: 0.021937847137451172
+  runtime: 0.023185253143310547
+  runtime: 0.021984338760375977
+  runtime: 0.022869586944580078
+  runtime: 0.003348827362060547
+  runtime: 0.023246049880981445
+  runtime: 0.021697998046875
+  runtime: 0.02246379852294922
+  runtime: 0.023051023483276367
+  runtime: 0.023500919342041016
+  runtime: 0.022710800170898438
+  runtime: 0.023591279983520508
+  runtime: 0.022349834442138672
+  runtime: 0.0033028125762939453
+  runtime: 0.021346092224121094
+  runtime: 0.024085521697998047
+  runtime: 0.021195650100708008
+}
+dags {
+  name: "retwis_dag"
+  runtimes: 0.00402522087097168
+  runtimes: 0.02392268180847168
+  runtimes: 0.023948192596435547
+  runtimes: 0.003953218460083008
+  runtimes: 0.023790359497070312
+  runtimes: 0.021616458892822266
+  runtimes: 0.023632287979125977
+  runtimes: 0.023093461990356445
+  runtimes: 0.024817466735839844
+  runtimes: 0.022981643676757812
+  runtimes: 0.024230480194091797
+  runtimes: 0.004059553146362305
+  runtimes: 0.022101879119873047
+  runtimes: 0.023162364959716797
+  runtimes: 0.022446155548095703
+  runtimes: 0.024316072463989258
+  runtimes: 0.02201986312866211
+  runtimes: 0.024175405502319336
+  runtimes: 0.021553516387939453
+  runtimes: 0.022459745407104492
+  runtimes: 0.023986101150512695
+  runtimes: 0.022759437561035156
+  runtimes: 0.02327275276184082
+  runtimes: 0.02171158790588379
+  runtimes: 0.023080110549926758
+  runtimes: 0.02252340316772461
+  runtimes: 0.023824691772460938
+  runtimes: 0.022553443908691406
+  runtimes: 0.023470163345336914
+  runtimes: 0.0039861202239990234
+  runtimes: 0.02381443977355957
+  runtimes: 0.022216320037841797
+  runtimes: 0.023044347763061523
+  runtimes: 0.02361297607421875
+  runtimes: 0.024095535278320312
+  runtimes: 0.023363113403320312
+  runtimes: 0.024204730987548828
+  runtimes: 0.02290821075439453
+  runtimes: 0.00394439697265625
+  runtimes: 0.022866249084472656
+  runtimes: 0.02472972869873047
+  runtimes: 0.021819114685058594
+}
+
+2022-07-20 22:43:30,548 Received a schedule for DAG retwis_dag (d1bea659-1326-4c23-894f-3bd913173270), function retwis_function.
+2022-07-20 22:43:30,548 Scheduler latency: 0.806570 ms.
+2022-07-20 22:43:30,549 Received a trigger for schedule d1bea659-1326-4c23-894f-3bd913173270, function retwis_function.
+2022-07-20 22:43:30,549 Before exec_dag_function time: 0.424623 ms.
+2022-07-20 22:43:30,571 DAG retwis_dag (ID d1bea659-1326-4c23-894f-3bd913173270) result returned to requester.
+2022-07-20 22:43:30,571 During exec_dag_function time: 22.180080 ms.
+2022-07-20 22:43:30,673 Received a schedule for DAG retwis_dag (74eb5756-5a8c-405e-9084-a64e2e63a182), function retwis_function.
+2022-07-20 22:43:30,673 Scheduler latency: 0.858307 ms.
+2022-07-20 22:43:30,673 Received a trigger for schedule 74eb5756-5a8c-405e-9084-a64e2e63a182, function retwis_function.
+2022-07-20 22:43:30,674 Before exec_dag_function time: 0.483990 ms.
+2022-07-20 22:43:30,694 DAG retwis_dag (ID 74eb5756-5a8c-405e-9084-a64e2e63a182) result returned to requester.
+2022-07-20 22:43:30,694 During exec_dag_function time: 20.935297 ms.
+2022-07-20 22:43:30,796 Received a schedule for DAG retwis_dag (e073a9c8-54e6-466f-b3d0-3231bf58cf9a), function retwis_function.
+2022-07-20 22:43:30,796 Scheduler latency: 0.869751 ms.
+2022-07-20 22:43:30,797 Received a trigger for schedule e073a9c8-54e6-466f-b3d0-3231bf58cf9a, function retwis_function.
+2022-07-20 22:43:30,797 Before exec_dag_function time: 0.440121 ms.
+2022-07-20 22:43:30,818 DAG retwis_dag (ID e073a9c8-54e6-466f-b3d0-3231bf58cf9a) result returned to requester.
+2022-07-20 22:43:30,819 During exec_dag_function time: 21.660566 ms.
+2022-07-20 22:43:30,920 Received a schedule for DAG retwis_dag (6ccce250-ceb5-4a45-9326-e6d92ec84a48), function retwis_function.
+2022-07-20 22:43:30,920 Scheduler latency: 0.846386 ms.
+2022-07-20 22:43:30,921 Received a trigger for schedule 6ccce250-ceb5-4a45-9326-e6d92ec84a48, function retwis_function.
+2022-07-20 22:43:30,921 Before exec_dag_function time: 0.412226 ms.
+2022-07-20 22:43:30,941 DAG retwis_dag (ID 6ccce250-ceb5-4a45-9326-e6d92ec84a48) result returned to requester.
+2022-07-20 22:43:30,941 During exec_dag_function time: 20.524025 ms.
+2022-07-20 22:43:31,043 Received a schedule for DAG retwis_dag (15a88018-d277-498c-bc06-5644bb6a739b), function retwis_function.
+2022-07-20 22:43:31,043 Scheduler latency: 0.851154 ms.
+2022-07-20 22:43:31,044 Received a trigger for schedule 15a88018-d277-498c-bc06-5644bb6a739b, function retwis_function.
+2022-07-20 22:43:31,044 Before exec_dag_function time: 0.418901 ms.
+2022-07-20 22:43:31,158 DAG retwis_dag (ID 15a88018-d277-498c-bc06-5644bb6a739b) result returned to requester.
+2022-07-20 22:43:31,158 During exec_dag_function time: 114.080667 ms.
+2022-07-20 22:43:31,260 Received a schedule for DAG retwis_dag (91ac6d58-4d8e-4707-879c-9ebbe6578cb3), function retwis_function.
+2022-07-20 22:43:31,260 Scheduler latency: 0.844479 ms.
+2022-07-20 22:43:31,260 Received a trigger for schedule 91ac6d58-4d8e-4707-879c-9ebbe6578cb3, function retwis_function.
+2022-07-20 22:43:31,260 Before exec_dag_function time: 0.408173 ms.
+2022-07-20 22:43:31,281 DAG retwis_dag (ID 91ac6d58-4d8e-4707-879c-9ebbe6578cb3) result returned to requester.
+2022-07-20 22:43:31,282 During exec_dag_function time: 21.432161 ms.
+2022-07-20 22:43:31,383 Received a schedule for DAG retwis_dag (223c3809-51ec-480b-a603-54d0b3cd799b), function retwis_function.
+2022-07-20 22:43:31,384 Scheduler latency: 0.823259 ms.
+2022-07-20 22:43:31,384 Received a trigger for schedule 223c3809-51ec-480b-a603-54d0b3cd799b, function retwis_function.
+2022-07-20 22:43:31,384 Before exec_dag_function time: 0.401974 ms.
+2022-07-20 22:43:31,407 DAG retwis_dag (ID 223c3809-51ec-480b-a603-54d0b3cd799b) result returned to requester.
+2022-07-20 22:43:31,407 During exec_dag_function time: 22.866726 ms.
+2022-07-20 22:43:31,508 Received a schedule for DAG retwis_dag (568d5412-845c-47b5-a2f1-4a0a913dbef7), function retwis_function.
+2022-07-20 22:43:31,509 Scheduler latency: 0.817776 ms.
+2022-07-20 22:43:31,509 Received a trigger for schedule 568d5412-845c-47b5-a2f1-4a0a913dbef7, function retwis_function.
+2022-07-20 22:43:31,509 Before exec_dag_function time: 0.401020 ms.
+2022-07-20 22:43:31,530 DAG retwis_dag (ID 568d5412-845c-47b5-a2f1-4a0a913dbef7) result returned to requester.
+2022-07-20 22:43:31,530 During exec_dag_function time: 21.308899 ms.
+2022-07-20 22:43:31,632 Received a schedule for DAG retwis_dag (2fa8b3ae-b81d-499b-9775-40470d87138c), function retwis_function.
+2022-07-20 22:43:31,632 Scheduler latency: 0.815153 ms.
+2022-07-20 22:43:31,633 Received a trigger for schedule 2fa8b3ae-b81d-499b-9775-40470d87138c, function retwis_function.
+2022-07-20 22:43:31,633 Before exec_dag_function time: 0.401497 ms.
+2022-07-20 22:43:31,655 DAG retwis_dag (ID 2fa8b3ae-b81d-499b-9775-40470d87138c) result returned to requester.
+2022-07-20 22:43:31,655 During exec_dag_function time: 22.679806 ms.
+2022-07-20 22:43:31,757 Received a schedule for DAG retwis_dag (5aeb5d4a-6cae-418f-b959-e08a513a9e02), function retwis_function.
+2022-07-20 22:43:31,757 Scheduler latency: 0.862122 ms.
+2022-07-20 22:43:31,758 Received a trigger for schedule 5aeb5d4a-6cae-418f-b959-e08a513a9e02, function retwis_function.
+2022-07-20 22:43:31,758 Before exec_dag_function time: 0.462770 ms.
+2022-07-20 22:43:31,781 DAG retwis_dag (ID 5aeb5d4a-6cae-418f-b959-e08a513a9e02) result returned to requester.
+2022-07-20 22:43:31,781 During exec_dag_function time: 23.171186 ms.
+2022-07-20 22:43:31,883 Received a schedule for DAG retwis_dag (c57ee650-2045-4e69-9571-a82b70e72cbf), function retwis_function.
+2022-07-20 22:43:31,883 Scheduler latency: 0.867844 ms.
+2022-07-20 22:43:31,883 Received a trigger for schedule c57ee650-2045-4e69-9571-a82b70e72cbf, function retwis_function.
+2022-07-20 22:43:31,883 Before exec_dag_function time: 0.408411 ms.
+2022-07-20 22:43:31,907 DAG retwis_dag (ID c57ee650-2045-4e69-9571-a82b70e72cbf) result returned to requester.
+2022-07-20 22:43:31,907 During exec_dag_function time: 23.821592 ms.
+2022-07-20 22:43:32,009 Received a schedule for DAG retwis_dag (bcb21b4a-4ca2-4f82-b84c-dba2f3204602), function retwis_function.
+2022-07-20 22:43:32,009 Scheduler latency: 0.807285 ms.
+2022-07-20 22:43:32,009 Received a trigger for schedule bcb21b4a-4ca2-4f82-b84c-dba2f3204602, function retwis_function.
+2022-07-20 22:43:32,009 Before exec_dag_function time: 0.439644 ms.
+2022-07-20 22:43:32,030 DAG retwis_dag (ID bcb21b4a-4ca2-4f82-b84c-dba2f3204602) result returned to requester.
+2022-07-20 22:43:32,030 During exec_dag_function time: 20.722628 ms.
+2022-07-20 22:43:32,132 Received a schedule for DAG retwis_dag (4c09be4c-9eaa-442b-90df-cd40491d531e), function retwis_function.
+2022-07-20 22:43:32,132 Scheduler latency: 0.806093 ms.
+2022-07-20 22:43:32,132 Received a trigger for schedule 4c09be4c-9eaa-442b-90df-cd40491d531e, function retwis_function.
+2022-07-20 22:43:32,132 Before exec_dag_function time: 0.384092 ms.
+2022-07-20 22:43:32,155 DAG retwis_dag (ID 4c09be4c-9eaa-442b-90df-cd40491d531e) result returned to requester.
+2022-07-20 22:43:32,155 During exec_dag_function time: 22.618532 ms.
+2022-07-20 22:43:32,257 Received a schedule for DAG retwis_dag (156bf931-187e-494b-b4df-9113f0fb225e), function retwis_function.
+2022-07-20 22:43:32,257 Scheduler latency: 0.800610 ms.
+2022-07-20 22:43:32,257 Received a trigger for schedule 156bf931-187e-494b-b4df-9113f0fb225e, function retwis_function.
+2022-07-20 22:43:32,257 Before exec_dag_function time: 0.412941 ms.
+2022-07-20 22:43:32,279 DAG retwis_dag (ID 156bf931-187e-494b-b4df-9113f0fb225e) result returned to requester.
+2022-07-20 22:43:32,279 During exec_dag_function time: 21.470070 ms.
+2022-07-20 22:43:32,380 Received a schedule for DAG retwis_dag (a1f209de-ca37-414d-8f58-ba00d2afdc2c), function retwis_function.
+2022-07-20 22:43:32,381 Scheduler latency: 0.818491 ms.
+2022-07-20 22:43:32,381 Received a trigger for schedule a1f209de-ca37-414d-8f58-ba00d2afdc2c, function retwis_function.
+2022-07-20 22:43:32,381 Before exec_dag_function time: 0.398636 ms.
+2022-07-20 22:43:32,401 DAG retwis_dag (ID a1f209de-ca37-414d-8f58-ba00d2afdc2c) result returned to requester.
+2022-07-20 22:43:32,402 During exec_dag_function time: 20.487547 ms.
+2022-07-20 22:43:32,503 Received a schedule for DAG retwis_dag (b1ba7f46-954c-40ca-a4b2-fb24e2dc50af), function retwis_function.
+2022-07-20 22:43:32,503 Scheduler latency: 0.850916 ms.
+2022-07-20 22:43:32,504 Received a trigger for schedule b1ba7f46-954c-40ca-a4b2-fb24e2dc50af, function retwis_function.
+2022-07-20 22:43:32,504 Before exec_dag_function time: 0.393629 ms.
+2022-07-20 22:43:32,526 DAG retwis_dag (ID b1ba7f46-954c-40ca-a4b2-fb24e2dc50af) result returned to requester.
+2022-07-20 22:43:32,526 During exec_dag_function time: 22.542238 ms.
+2022-07-20 22:43:32,628 Received a schedule for DAG retwis_dag (a03e8918-713e-4a6b-a931-74fb5106490a), function retwis_function.
+2022-07-20 22:43:32,628 Scheduler latency: 0.838518 ms.
+2022-07-20 22:43:32,629 Received a trigger for schedule a03e8918-713e-4a6b-a931-74fb5106490a, function retwis_function.
+2022-07-20 22:43:32,629 Before exec_dag_function time: 0.413418 ms.
+2022-07-20 22:43:32,649 DAG retwis_dag (ID a03e8918-713e-4a6b-a931-74fb5106490a) result returned to requester.
+2022-07-20 22:43:32,649 During exec_dag_function time: 20.755053 ms.
+2022-07-20 22:43:32,751 Received a schedule for DAG retwis_dag (27d372c0-c426-4322-89fe-0ddb725e9775), function retwis_function.
+2022-07-20 22:43:32,751 Scheduler latency: 0.848532 ms.
+2022-07-20 22:43:32,752 Received a trigger for schedule 27d372c0-c426-4322-89fe-0ddb725e9775, function retwis_function.
+2022-07-20 22:43:32,752 Before exec_dag_function time: 0.397444 ms.
+2022-07-20 22:43:32,773 DAG retwis_dag (ID 27d372c0-c426-4322-89fe-0ddb725e9775) result returned to requester.
+2022-07-20 22:43:32,773 During exec_dag_function time: 21.094799 ms.
+2022-07-20 22:43:32,875 Received a schedule for DAG retwis_dag (5053c1b3-6de7-4a90-8693-c1b088418404), function retwis_function.
+2022-07-20 22:43:32,875 Scheduler latency: 0.821114 ms.
+2022-07-20 22:43:32,875 Received a trigger for schedule 5053c1b3-6de7-4a90-8693-c1b088418404, function retwis_function.
+2022-07-20 22:43:32,875 Before exec_dag_function time: 0.386477 ms.
+2022-07-20 22:43:32,898 DAG retwis_dag (ID 5053c1b3-6de7-4a90-8693-c1b088418404) result returned to requester.
+2022-07-20 22:43:32,898 During exec_dag_function time: 22.635937 ms.
+2022-07-20 22:43:32,999 Received a schedule for DAG retwis_dag (343157ee-97f0-4b0b-8d95-8b92dc0f94dc), function retwis_function.
+2022-07-20 22:43:33,000 Scheduler latency: 0.814915 ms.
+2022-07-20 22:43:33,000 Received a trigger for schedule 343157ee-97f0-4b0b-8d95-8b92dc0f94dc, function retwis_function.
+2022-07-20 22:43:33,000 Before exec_dag_function time: 0.370741 ms.
+2022-07-20 22:43:33,022 DAG retwis_dag (ID 343157ee-97f0-4b0b-8d95-8b92dc0f94dc) result returned to requester.
+2022-07-20 22:43:33,022 During exec_dag_function time: 22.089720 ms.
+2022-07-20 22:43:33,124 Received a schedule for DAG retwis_dag (9f67dd2e-5429-4213-b545-e97084e6f070), function retwis_function.
+2022-07-20 22:43:33,124 Scheduler latency: 0.805616 ms.
+2022-07-20 22:43:33,124 Received a trigger for schedule 9f67dd2e-5429-4213-b545-e97084e6f070, function retwis_function.
+2022-07-20 22:43:33,124 Before exec_dag_function time: 0.395298 ms.
+2022-07-20 22:43:33,146 DAG retwis_dag (ID 9f67dd2e-5429-4213-b545-e97084e6f070) result returned to requester.
+2022-07-20 22:43:33,146 During exec_dag_function time: 21.375179 ms.
+2022-07-20 22:43:33,247 Received a schedule for DAG retwis_dag (0826a073-5b0d-4564-bade-c3360ae9429d), function retwis_function.
+2022-07-20 22:43:33,248 Scheduler latency: 0.839472 ms.
+2022-07-20 22:43:33,248 Received a trigger for schedule 0826a073-5b0d-4564-bade-c3360ae9429d, function retwis_function.
+2022-07-20 22:43:33,248 Before exec_dag_function time: 0.401020 ms.
+2022-07-20 22:43:33,270 DAG retwis_dag (ID 0826a073-5b0d-4564-bade-c3360ae9429d) result returned to requester.
+2022-07-20 22:43:33,270 During exec_dag_function time: 22.013664 ms.
+2022-07-20 22:43:33,372 Received a schedule for DAG retwis_dag (5152b990-89cc-4d20-855f-1282f61016e7), function retwis_function.
+2022-07-20 22:43:33,372 Scheduler latency: 0.805616 ms.
+2022-07-20 22:43:33,372 Received a trigger for schedule 5152b990-89cc-4d20-855f-1282f61016e7, function retwis_function.
+2022-07-20 22:43:33,372 Before exec_dag_function time: 0.396252 ms.
+2022-07-20 22:43:33,393 DAG retwis_dag (ID 5152b990-89cc-4d20-855f-1282f61016e7) result returned to requester.
+2022-07-20 22:43:33,394 During exec_dag_function time: 21.203518 ms.
+2022-07-20 22:43:33,495 Received a schedule for DAG retwis_dag (b3b67e6c-0d39-4dfc-84fc-d5ad019e8b39), function retwis_function.
+2022-07-20 22:43:33,495 Scheduler latency: 0.815630 ms.
+2022-07-20 22:43:33,496 Received a trigger for schedule b3b67e6c-0d39-4dfc-84fc-d5ad019e8b39, function retwis_function.
+2022-07-20 22:43:33,496 Before exec_dag_function time: 0.381231 ms.
+2022-07-20 22:43:33,518 DAG retwis_dag (ID b3b67e6c-0d39-4dfc-84fc-d5ad019e8b39) result returned to requester.
+2022-07-20 22:43:33,519 During exec_dag_function time: 22.694588 ms.
+2022-07-20 22:43:33,620 Received a schedule for DAG retwis_dag (72541b39-f500-4b8c-a692-58076913cdd1), function retwis_function.
+2022-07-20 22:43:33,620 Scheduler latency: 0.864983 ms.
+2022-07-20 22:43:33,621 Received a trigger for schedule 72541b39-f500-4b8c-a692-58076913cdd1, function retwis_function.
+2022-07-20 22:43:33,621 Before exec_dag_function time: 0.431538 ms.
+2022-07-20 22:43:33,643 DAG retwis_dag (ID 72541b39-f500-4b8c-a692-58076913cdd1) result returned to requester.
+2022-07-20 22:43:33,643 During exec_dag_function time: 22.509098 ms.
+2022-07-20 22:43:33,745 Received a schedule for DAG retwis_dag (79e181f4-6a66-4de1-9648-0c1c87c2b480), function retwis_function.
+2022-07-20 22:43:33,745 Scheduler latency: 0.842810 ms.
+2022-07-20 22:43:33,746 Received a trigger for schedule 79e181f4-6a66-4de1-9648-0c1c87c2b480, function retwis_function.
+2022-07-20 22:43:33,746 Before exec_dag_function time: 0.447512 ms.
+2022-07-20 22:43:33,768 DAG retwis_dag (ID 79e181f4-6a66-4de1-9648-0c1c87c2b480) result returned to requester.
+2022-07-20 22:43:33,768 During exec_dag_function time: 22.012234 ms.
+2022-07-20 22:43:33,870 Received a schedule for DAG retwis_dag (d66d71e6-f374-4d1f-bbf1-f0465cccfa59), function retwis_function.
+2022-07-20 22:43:33,870 Scheduler latency: 0.829935 ms.
+2022-07-20 22:43:33,870 Received a trigger for schedule d66d71e6-f374-4d1f-bbf1-f0465cccfa59, function retwis_function.
+2022-07-20 22:43:33,870 Before exec_dag_function time: 0.404358 ms.
+2022-07-20 22:43:33,891 DAG retwis_dag (ID d66d71e6-f374-4d1f-bbf1-f0465cccfa59) result returned to requester.
+2022-07-20 22:43:33,891 During exec_dag_function time: 21.225691 ms.
+2022-07-20 22:43:33,993 Received a schedule for DAG retwis_dag (cff5c7a2-1ed5-466f-b97a-f69f85908454), function retwis_function.
+2022-07-20 22:43:33,993 Scheduler latency: 0.818491 ms.
+2022-07-20 22:43:33,994 Received a trigger for schedule cff5c7a2-1ed5-466f-b97a-f69f85908454, function retwis_function.
+2022-07-20 22:43:33,994 Before exec_dag_function time: 0.420570 ms.
+2022-07-20 22:43:34,016 DAG retwis_dag (ID cff5c7a2-1ed5-466f-b97a-f69f85908454) result returned to requester.
+2022-07-20 22:43:34,016 During exec_dag_function time: 22.773266 ms.
+2022-07-20 22:43:34,118 Received a schedule for DAG retwis_dag (a69df279-9de8-4adf-a01d-d021116c1862), function retwis_function.
+2022-07-20 22:43:34,118 Scheduler latency: 0.840902 ms.
+2022-07-20 22:43:34,119 Received a trigger for schedule a69df279-9de8-4adf-a01d-d021116c1862, function retwis_function.
+2022-07-20 22:43:34,119 Before exec_dag_function time: 0.405312 ms.
+2022-07-20 22:43:34,139 DAG retwis_dag (ID a69df279-9de8-4adf-a01d-d021116c1862) result returned to requester.
+2022-07-20 22:43:34,140 During exec_dag_function time: 20.983458 ms.
+2022-07-20 22:43:34,241 Received a schedule for DAG retwis_dag (8934bf4d-02a6-42e2-b99f-ac48e24f7595), function retwis_function.
+2022-07-20 22:43:34,242 Scheduler latency: 0.842094 ms.
+2022-07-20 22:43:34,242 Received a trigger for schedule 8934bf4d-02a6-42e2-b99f-ac48e24f7595, function retwis_function.
+2022-07-20 22:43:34,242 Before exec_dag_function time: 0.432253 ms.
+2022-07-20 22:43:34,264 DAG retwis_dag (ID 8934bf4d-02a6-42e2-b99f-ac48e24f7595) result returned to requester.
+2022-07-20 22:43:34,264 During exec_dag_function time: 22.033215 ms.
+2022-07-20 22:43:34,366 Received a schedule for DAG retwis_dag (0c656c3f-5257-4f53-b59f-81e9c8fe49bf), function retwis_function.
+2022-07-20 22:43:34,366 Scheduler latency: 0.863314 ms.
+2022-07-20 22:43:34,366 Received a trigger for schedule 0c656c3f-5257-4f53-b59f-81e9c8fe49bf, function retwis_function.
+2022-07-20 22:43:34,366 Before exec_dag_function time: 0.407219 ms.
+2022-07-20 22:43:34,387 DAG retwis_dag (ID 0c656c3f-5257-4f53-b59f-81e9c8fe49bf) result returned to requester.
+2022-07-20 22:43:34,387 During exec_dag_function time: 20.930290 ms.
+2022-07-20 22:43:34,489 Received a schedule for DAG retwis_dag (2bc9b489-8f93-4363-9ded-e49a5c54ed24), function retwis_function.
+2022-07-20 22:43:34,489 Scheduler latency: 0.799179 ms.
+2022-07-20 22:43:34,489 Received a trigger for schedule 2bc9b489-8f93-4363-9ded-e49a5c54ed24, function retwis_function.
+2022-07-20 22:43:34,490 Before exec_dag_function time: 0.400543 ms.
+2022-07-20 22:43:34,511 DAG retwis_dag (ID 2bc9b489-8f93-4363-9ded-e49a5c54ed24) result returned to requester.
+2022-07-20 22:43:34,511 During exec_dag_function time: 21.265268 ms.
+2022-07-20 22:43:34,613 Received a schedule for DAG retwis_dag (013b131a-3323-471f-91a0-b1ddcdda76c4), function retwis_function.
+2022-07-20 22:43:34,613 Scheduler latency: 0.819445 ms.
+2022-07-20 22:43:34,613 Received a trigger for schedule 013b131a-3323-471f-91a0-b1ddcdda76c4, function retwis_function.
+2022-07-20 22:43:34,613 Before exec_dag_function time: 0.390768 ms.
+2022-07-20 22:43:34,635 DAG retwis_dag (ID 013b131a-3323-471f-91a0-b1ddcdda76c4) result returned to requester.
+2022-07-20 22:43:34,636 During exec_dag_function time: 22.528410 ms.
+2022-07-20 22:43:34,737 Received a schedule for DAG retwis_dag (1a5c6d47-8c8c-41f6-ba0b-5501e2eb760e), function retwis_function.
+2022-07-20 22:43:34,737 Scheduler latency: 0.831127 ms.
+2022-07-20 22:43:34,738 Received a trigger for schedule 1a5c6d47-8c8c-41f6-ba0b-5501e2eb760e, function retwis_function.
+2022-07-20 22:43:34,738 Before exec_dag_function time: 0.426531 ms.
+2022-07-20 22:43:34,759 DAG retwis_dag (ID 1a5c6d47-8c8c-41f6-ba0b-5501e2eb760e) result returned to requester.
+2022-07-20 22:43:34,759 During exec_dag_function time: 20.843744 ms.
+2022-07-20 22:43:34,860 Received a schedule for DAG retwis_dag (a4badbbf-42ba-4125-a7c2-10daa5a18904), function retwis_function.
+2022-07-20 22:43:34,861 Scheduler latency: 0.801325 ms.
+2022-07-20 22:43:34,861 Received a trigger for schedule a4badbbf-42ba-4125-a7c2-10daa5a18904, function retwis_function.
+2022-07-20 22:43:34,861 Before exec_dag_function time: 0.383377 ms.
+2022-07-20 22:43:34,883 DAG retwis_dag (ID a4badbbf-42ba-4125-a7c2-10daa5a18904) result returned to requester.
+2022-07-20 22:43:34,883 During exec_dag_function time: 22.167206 ms.
+2022-07-20 22:43:34,985 Received a schedule for DAG retwis_dag (e9d0c7c7-f16b-4865-b7ac-c396caf8d359), function retwis_function.
+2022-07-20 22:43:34,985 Scheduler latency: 0.807285 ms.
+2022-07-20 22:43:34,985 Received a trigger for schedule e9d0c7c7-f16b-4865-b7ac-c396caf8d359, function retwis_function.
+2022-07-20 22:43:34,985 Before exec_dag_function time: 0.436306 ms.
+2022-07-20 22:43:35,006 DAG retwis_dag (ID e9d0c7c7-f16b-4865-b7ac-c396caf8d359) result returned to requester.
+2022-07-20 22:43:35,006 During exec_dag_function time: 21.007061 ms.
+2022-07-20 22:43:35,108 Received a schedule for DAG retwis_dag (c7c3db0b-538b-4da7-a90d-f17e44c2e92f), function retwis_function.
+2022-07-20 22:43:35,108 Scheduler latency: 0.796080 ms.
+2022-07-20 22:43:35,109 Received a trigger for schedule c7c3db0b-538b-4da7-a90d-f17e44c2e92f, function retwis_function.
+2022-07-20 22:43:35,109 Before exec_dag_function time: 0.364780 ms.
+2022-07-20 22:43:35,130 DAG retwis_dag (ID c7c3db0b-538b-4da7-a90d-f17e44c2e92f) result returned to requester.
+2022-07-20 22:43:35,131 During exec_dag_function time: 22.108316 ms.
+2022-07-20 22:43:35,232 Received a schedule for DAG retwis_dag (cae4c674-3589-4314-b418-e6661b371953), function retwis_function.
+2022-07-20 22:43:35,233 Scheduler latency: 0.804424 ms.
+2022-07-20 22:43:35,233 Received a trigger for schedule cae4c674-3589-4314-b418-e6661b371953, function retwis_function.
+2022-07-20 22:43:35,233 Before exec_dag_function time: 0.401974 ms.
+2022-07-20 22:43:35,254 DAG retwis_dag (ID cae4c674-3589-4314-b418-e6661b371953) result returned to requester.
+2022-07-20 22:43:35,255 During exec_dag_function time: 21.707773 ms.
+2022-07-20 22:43:35,356 Received a schedule for DAG retwis_dag (25aa965b-c273-415a-866d-8a01af3dd101), function retwis_function.
+2022-07-20 22:43:35,357 Scheduler latency: 0.814438 ms.
+2022-07-20 22:43:35,357 Received a trigger for schedule 25aa965b-c273-415a-866d-8a01af3dd101, function retwis_function.
+2022-07-20 22:43:35,357 Before exec_dag_function time: 0.369549 ms.
+2022-07-20 22:43:35,379 DAG retwis_dag (ID 25aa965b-c273-415a-866d-8a01af3dd101) result returned to requester.
+2022-07-20 22:43:35,380 During exec_dag_function time: 22.651672 ms.
+2022-07-20 22:43:35,481 Received a schedule for DAG retwis_dag (d44ccecf-ff5d-4bef-aa15-38f0eb3e7822), function retwis_function.
+2022-07-20 22:43:35,482 Scheduler latency: 0.911474 ms.
+2022-07-20 22:43:35,482 Received a trigger for schedule d44ccecf-ff5d-4bef-aa15-38f0eb3e7822, function retwis_function.
+2022-07-20 22:43:35,482 Before exec_dag_function time: 0.445127 ms.
+2022-07-20 22:43:35,503 DAG retwis_dag (ID d44ccecf-ff5d-4bef-aa15-38f0eb3e7822) result returned to requester.
+2022-07-20 22:43:35,503 During exec_dag_function time: 21.346331 ms.
+2022-07-20 22:43:35,504 Total thread occupancy: 0.199214
+2022-07-20 22:43:35,504 	Event pin occupancy: 0.000000
+2022-07-20 22:43:35,504 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:35,504 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:35,504 	Event dag_queue occupancy: 0.004603
+2022-07-20 22:43:35,504 	Event dag_exec occupancy: 0.194611
+2022-07-20 22:43:35,504 functions {
+  name: "retwis_function"
+  call_count: 40
+  runtime: 0.022910356521606445
+  runtime: 0.02172541618347168
+  runtime: 0.022407054901123047
+  runtime: 0.021266937255859375
+  runtime: 0.11487364768981934
+  runtime: 0.022197961807250977
+  runtime: 0.023594141006469727
+  runtime: 0.022038698196411133
+  runtime: 0.02339768409729004
+  runtime: 0.02397775650024414
+  runtime: 0.024550676345825195
+  runtime: 0.021456241607666016
+  runtime: 0.02330923080444336
+  runtime: 0.022193193435668945
+  runtime: 0.02121257781982422
+  runtime: 0.023258447647094727
+  runtime: 0.021496295928955078
+  runtime: 0.021791458129882812
+  runtime: 0.023337364196777344
+  runtime: 0.022759675979614258
+  runtime: 0.02208852767944336
+  runtime: 0.022709369659423828
+  runtime: 0.021921396255493164
+  runtime: 0.023399829864501953
+  runtime: 0.023265361785888672
+  runtime: 0.022748470306396484
+  runtime: 0.02195000648498535
+  runtime: 0.023511409759521484
+  runtime: 0.021717071533203125
+  runtime: 0.022782087326049805
+  runtime: 0.021661043167114258
+  runtime: 0.021960020065307617
+  runtime: 0.023226022720336914
+  runtime: 0.021561861038208008
+  runtime: 0.022850990295410156
+  runtime: 0.021706104278564453
+  runtime: 0.0227663516998291
+  runtime: 0.022411584854125977
+  runtime: 0.023366928100585938
+  runtime: 0.022079944610595703
+}
+dags {
+  name: "retwis_dag"
+  runtimes: 0.023490428924560547
+  runtimes: 0.022343158721923828
+  runtimes: 0.02303910255432129
+  runtimes: 0.0218503475189209
+  runtimes: 0.11541271209716797
+  runtimes: 0.022750377655029297
+  runtimes: 0.024163007736206055
+  runtimes: 0.02259039878845215
+  runtimes: 0.023959875106811523
+  runtimes: 0.024592161178588867
+  runtimes: 0.025161266326904297
+  runtimes: 0.022034168243408203
+  runtimes: 0.023871421813964844
+  runtimes: 0.022746801376342773
+  runtimes: 0.021770477294921875
+  runtimes: 0.023853063583374023
+  runtimes: 0.02207183837890625
+  runtimes: 0.02240729331970215
+  runtimes: 0.02391958236694336
+  runtimes: 0.02333807945251465
+  runtimes: 0.02264237403869629
+  runtimes: 0.023318767547607422
+  runtimes: 0.022470474243164062
+  runtimes: 0.02395486831665039
+  runtimes: 0.023870229721069336
+  runtimes: 0.023373126983642578
+  runtimes: 0.022557497024536133
+  runtimes: 0.02407526969909668
+  runtimes: 0.022296667098999023
+  runtimes: 0.02336907386779785
+  runtimes: 0.022265195846557617
+  runtimes: 0.022531509399414062
+  runtimes: 0.023801565170288086
+  runtimes: 0.02216482162475586
+  runtimes: 0.023415327072143555
+  runtimes: 0.022311925888061523
+  runtimes: 0.023332834243774414
+  runtimes: 0.022979736328125
+  runtimes: 0.023900747299194336
+  runtimes: 0.022770166397094727
+}
+
+2022-07-20 22:43:35,605 Received a schedule for DAG retwis_dag (883963e2-61ef-41d7-8b32-0a36a6c5ec59), function retwis_function.
+2022-07-20 22:43:35,605 Scheduler latency: 0.821114 ms.
+2022-07-20 22:43:35,606 Received a trigger for schedule 883963e2-61ef-41d7-8b32-0a36a6c5ec59, function retwis_function.
+2022-07-20 22:43:35,606 Before exec_dag_function time: 0.451565 ms.
+2022-07-20 22:43:35,628 DAG retwis_dag (ID 883963e2-61ef-41d7-8b32-0a36a6c5ec59) result returned to requester.
+2022-07-20 22:43:35,628 During exec_dag_function time: 22.022963 ms.
+2022-07-20 22:43:35,729 Received a schedule for DAG retwis_dag (82e9dd63-0f16-40b4-967b-67b0d78f86de), function retwis_function.
+2022-07-20 22:43:35,730 Scheduler latency: 0.846148 ms.
+2022-07-20 22:43:35,730 Received a trigger for schedule 82e9dd63-0f16-40b4-967b-67b0d78f86de, function retwis_function.
+2022-07-20 22:43:35,730 Before exec_dag_function time: 0.434875 ms.
+2022-07-20 22:43:35,751 DAG retwis_dag (ID 82e9dd63-0f16-40b4-967b-67b0d78f86de) result returned to requester.
+2022-07-20 22:43:35,751 During exec_dag_function time: 21.161556 ms.
+2022-07-20 22:43:35,853 Received a schedule for DAG retwis_dag (6c866fad-b06a-489b-9e6e-7f0deff0e279), function retwis_function.
+2022-07-20 22:43:35,853 Scheduler latency: 0.811100 ms.
+2022-07-20 22:43:35,853 Received a trigger for schedule 6c866fad-b06a-489b-9e6e-7f0deff0e279, function retwis_function.
+2022-07-20 22:43:35,854 Before exec_dag_function time: 0.449896 ms.
+2022-07-20 22:43:35,876 DAG retwis_dag (ID 6c866fad-b06a-489b-9e6e-7f0deff0e279) result returned to requester.
+2022-07-20 22:43:35,877 During exec_dag_function time: 22.941113 ms.
+2022-07-20 22:43:35,978 Received a schedule for DAG retwis_dag (8184c858-7015-4f89-824f-21022467a04c), function retwis_function.
+2022-07-20 22:43:35,978 Scheduler latency: 0.868082 ms.
+2022-07-20 22:43:35,979 Received a trigger for schedule 8184c858-7015-4f89-824f-21022467a04c, function retwis_function.
+2022-07-20 22:43:35,979 Before exec_dag_function time: 0.423431 ms.
+2022-07-20 22:43:35,999 DAG retwis_dag (ID 8184c858-7015-4f89-824f-21022467a04c) result returned to requester.
+2022-07-20 22:43:36,000 During exec_dag_function time: 20.776749 ms.
+2022-07-20 22:43:36,101 Received a schedule for DAG retwis_dag (043926c5-3035-4de0-b2ef-816c29410727), function retwis_function.
+2022-07-20 22:43:36,102 Scheduler latency: 0.843048 ms.
+2022-07-20 22:43:36,102 Received a trigger for schedule 043926c5-3035-4de0-b2ef-816c29410727, function retwis_function.
+2022-07-20 22:43:36,102 Before exec_dag_function time: 0.439167 ms.
+2022-07-20 22:43:36,124 DAG retwis_dag (ID 043926c5-3035-4de0-b2ef-816c29410727) result returned to requester.
+2022-07-20 22:43:36,124 During exec_dag_function time: 22.427082 ms.
+2022-07-20 22:43:36,226 Received a schedule for DAG retwis_dag (90a670b1-bc97-41c2-9f3f-815d036654b1), function retwis_function.
+2022-07-20 22:43:36,226 Scheduler latency: 0.866175 ms.
+2022-07-20 22:43:36,227 Received a trigger for schedule 90a670b1-bc97-41c2-9f3f-815d036654b1, function retwis_function.
+2022-07-20 22:43:36,227 Before exec_dag_function time: 0.422478 ms.
+2022-07-20 22:43:36,247 DAG retwis_dag (ID 90a670b1-bc97-41c2-9f3f-815d036654b1) result returned to requester.
+2022-07-20 22:43:36,247 During exec_dag_function time: 20.655155 ms.
+2022-07-20 22:43:36,349 Received a schedule for DAG retwis_dag (e0a03f05-8a81-414d-a09d-61a013a53c28), function retwis_function.
+2022-07-20 22:43:36,349 Scheduler latency: 0.824213 ms.
+2022-07-20 22:43:36,350 Received a trigger for schedule e0a03f05-8a81-414d-a09d-61a013a53c28, function retwis_function.
+2022-07-20 22:43:36,350 Before exec_dag_function time: 0.437021 ms.
+2022-07-20 22:43:36,373 DAG retwis_dag (ID e0a03f05-8a81-414d-a09d-61a013a53c28) result returned to requester.
+2022-07-20 22:43:36,373 During exec_dag_function time: 23.041248 ms.
+2022-07-20 22:43:36,475 Received a schedule for DAG retwis_dag (527eb20d-0c95-444a-af80-7728530111ee), function retwis_function.
+2022-07-20 22:43:36,475 Scheduler latency: 0.819445 ms.
+2022-07-20 22:43:36,475 Received a trigger for schedule 527eb20d-0c95-444a-af80-7728530111ee, function retwis_function.
+2022-07-20 22:43:36,475 Before exec_dag_function time: 0.404119 ms.
+2022-07-20 22:43:36,496 DAG retwis_dag (ID 527eb20d-0c95-444a-af80-7728530111ee) result returned to requester.
+2022-07-20 22:43:36,497 During exec_dag_function time: 21.354914 ms.
+2022-07-20 22:43:36,598 Received a schedule for DAG retwis_dag (98aa6ebd-63c6-4860-9134-f90482b06fe7), function retwis_function.
+2022-07-20 22:43:36,598 Scheduler latency: 0.860929 ms.
+2022-07-20 22:43:36,599 Received a trigger for schedule 98aa6ebd-63c6-4860-9134-f90482b06fe7, function retwis_function.
+2022-07-20 22:43:36,599 Before exec_dag_function time: 0.418663 ms.
+2022-07-20 22:43:36,601 DAG retwis_dag (ID 98aa6ebd-63c6-4860-9134-f90482b06fe7) result returned to requester.
+2022-07-20 22:43:36,602 During exec_dag_function time: 2.653122 ms.
+2022-07-20 22:43:36,703 Received a schedule for DAG retwis_dag (b84fe02b-1d34-4895-bde8-4587039a201f), function retwis_function.
+2022-07-20 22:43:36,703 Scheduler latency: 0.860453 ms.
+2022-07-20 22:43:36,704 Received a trigger for schedule b84fe02b-1d34-4895-bde8-4587039a201f, function retwis_function.
+2022-07-20 22:43:36,704 Before exec_dag_function time: 0.386715 ms.
+2022-07-20 22:43:36,724 DAG retwis_dag (ID b84fe02b-1d34-4895-bde8-4587039a201f) result returned to requester.
+2022-07-20 22:43:36,724 During exec_dag_function time: 20.431519 ms.
+2022-07-20 22:43:36,826 Received a schedule for DAG retwis_dag (bf87d059-2282-405b-aaf8-a974e38810fe), function retwis_function.
+2022-07-20 22:43:36,826 Scheduler latency: 0.837088 ms.
+2022-07-20 22:43:36,826 Received a trigger for schedule bf87d059-2282-405b-aaf8-a974e38810fe, function retwis_function.
+2022-07-20 22:43:36,827 Before exec_dag_function time: 0.389099 ms.
+2022-07-20 22:43:36,849 DAG retwis_dag (ID bf87d059-2282-405b-aaf8-a974e38810fe) result returned to requester.
+2022-07-20 22:43:36,849 During exec_dag_function time: 22.653580 ms.
+2022-07-20 22:43:36,951 Received a schedule for DAG retwis_dag (c61d50a2-1c36-469e-a387-e8e2ea90c368), function retwis_function.
+2022-07-20 22:43:36,951 Scheduler latency: 0.825167 ms.
+2022-07-20 22:43:36,951 Received a trigger for schedule c61d50a2-1c36-469e-a387-e8e2ea90c368, function retwis_function.
+2022-07-20 22:43:36,951 Before exec_dag_function time: 0.375032 ms.
+2022-07-20 22:43:36,972 DAG retwis_dag (ID c61d50a2-1c36-469e-a387-e8e2ea90c368) result returned to requester.
+2022-07-20 22:43:36,972 During exec_dag_function time: 20.900965 ms.
+2022-07-20 22:43:37,074 Received a schedule for DAG retwis_dag (55d6c9cc-713d-4357-9d9d-8383ad101e51), function retwis_function.
+2022-07-20 22:43:37,074 Scheduler latency: 0.849962 ms.
+2022-07-20 22:43:37,075 Received a trigger for schedule 55d6c9cc-713d-4357-9d9d-8383ad101e51, function retwis_function.
+2022-07-20 22:43:37,075 Before exec_dag_function time: 0.380278 ms.
+2022-07-20 22:43:37,097 DAG retwis_dag (ID 55d6c9cc-713d-4357-9d9d-8383ad101e51) result returned to requester.
+2022-07-20 22:43:37,098 During exec_dag_function time: 22.880316 ms.
+2022-07-20 22:43:37,199 Received a schedule for DAG retwis_dag (cd94a22d-7f3c-4e08-a1c7-f82135b5b958), function retwis_function.
+2022-07-20 22:43:37,199 Scheduler latency: 0.843287 ms.
+2022-07-20 22:43:37,200 Received a trigger for schedule cd94a22d-7f3c-4e08-a1c7-f82135b5b958, function retwis_function.
+2022-07-20 22:43:37,200 Before exec_dag_function time: 0.399590 ms.
+2022-07-20 22:43:37,221 DAG retwis_dag (ID cd94a22d-7f3c-4e08-a1c7-f82135b5b958) result returned to requester.
+2022-07-20 22:43:37,221 During exec_dag_function time: 21.058559 ms.
+2022-07-20 22:43:37,323 Received a schedule for DAG retwis_dag (b0262015-7f67-43fe-a284-917e8b557ecf), function retwis_function.
+2022-07-20 22:43:37,323 Scheduler latency: 0.833035 ms.
+2022-07-20 22:43:37,323 Received a trigger for schedule b0262015-7f67-43fe-a284-917e8b557ecf, function retwis_function.
+2022-07-20 22:43:37,323 Before exec_dag_function time: 0.407934 ms.
+2022-07-20 22:43:37,345 DAG retwis_dag (ID b0262015-7f67-43fe-a284-917e8b557ecf) result returned to requester.
+2022-07-20 22:43:37,345 During exec_dag_function time: 22.207022 ms.
+2022-07-20 22:43:37,447 Received a schedule for DAG retwis_dag (31f1d3d1-f14f-4b61-8536-615202102d1b), function retwis_function.
+2022-07-20 22:43:37,447 Scheduler latency: 0.830650 ms.
+2022-07-20 22:43:37,448 Received a trigger for schedule 31f1d3d1-f14f-4b61-8536-615202102d1b, function retwis_function.
+2022-07-20 22:43:37,448 Before exec_dag_function time: 0.403881 ms.
+2022-07-20 22:43:37,469 DAG retwis_dag (ID 31f1d3d1-f14f-4b61-8536-615202102d1b) result returned to requester.
+2022-07-20 22:43:37,469 During exec_dag_function time: 21.139383 ms.
+2022-07-20 22:43:37,571 Received a schedule for DAG retwis_dag (254349d2-89cd-4cf4-82a4-3eb5daffd51e), function retwis_function.
+2022-07-20 22:43:37,571 Scheduler latency: 0.836611 ms.
+2022-07-20 22:43:37,571 Received a trigger for schedule 254349d2-89cd-4cf4-82a4-3eb5daffd51e, function retwis_function.
+2022-07-20 22:43:37,571 Before exec_dag_function time: 0.408888 ms.
+2022-07-20 22:43:37,594 DAG retwis_dag (ID 254349d2-89cd-4cf4-82a4-3eb5daffd51e) result returned to requester.
+2022-07-20 22:43:37,595 During exec_dag_function time: 23.299694 ms.
+2022-07-20 22:43:37,696 Received a schedule for DAG retwis_dag (46051b77-91e2-4952-a5a0-bf46b8f4d51a), function retwis_function.
+2022-07-20 22:43:37,696 Scheduler latency: 0.832081 ms.
+2022-07-20 22:43:37,697 Received a trigger for schedule 46051b77-91e2-4952-a5a0-bf46b8f4d51a, function retwis_function.
+2022-07-20 22:43:37,697 Before exec_dag_function time: 0.398636 ms.
+2022-07-20 22:43:37,718 DAG retwis_dag (ID 46051b77-91e2-4952-a5a0-bf46b8f4d51a) result returned to requester.
+2022-07-20 22:43:37,718 During exec_dag_function time: 21.530867 ms.
+2022-07-20 22:43:37,820 Received a schedule for DAG retwis_dag (537dbff8-24c5-4cea-842b-6383b0e6af32), function retwis_function.
+2022-07-20 22:43:37,820 Scheduler latency: 0.821829 ms.
+2022-07-20 22:43:37,821 Received a trigger for schedule 537dbff8-24c5-4cea-842b-6383b0e6af32, function retwis_function.
+2022-07-20 22:43:37,821 Before exec_dag_function time: 0.389099 ms.
+2022-07-20 22:43:37,843 DAG retwis_dag (ID 537dbff8-24c5-4cea-842b-6383b0e6af32) result returned to requester.
+2022-07-20 22:43:37,843 During exec_dag_function time: 22.309780 ms.
+2022-07-20 22:43:37,945 Received a schedule for DAG retwis_dag (b2da8f83-72b4-4fa7-885e-62ba5834a8ab), function retwis_function.
+2022-07-20 22:43:37,945 Scheduler latency: 0.837564 ms.
+2022-07-20 22:43:37,945 Received a trigger for schedule b2da8f83-72b4-4fa7-885e-62ba5834a8ab, function retwis_function.
+2022-07-20 22:43:37,945 Before exec_dag_function time: 0.397205 ms.
+2022-07-20 22:43:37,966 DAG retwis_dag (ID b2da8f83-72b4-4fa7-885e-62ba5834a8ab) result returned to requester.
+2022-07-20 22:43:37,966 During exec_dag_function time: 21.047354 ms.
+2022-07-20 22:43:38,068 Received a schedule for DAG retwis_dag (ce2a9de7-bcbb-4e47-8430-b860543f6588), function retwis_function.
+2022-07-20 22:43:38,068 Scheduler latency: 0.831366 ms.
+2022-07-20 22:43:38,068 Received a trigger for schedule ce2a9de7-bcbb-4e47-8430-b860543f6588, function retwis_function.
+2022-07-20 22:43:38,069 Before exec_dag_function time: 0.418901 ms.
+2022-07-20 22:43:38,091 DAG retwis_dag (ID ce2a9de7-bcbb-4e47-8430-b860543f6588) result returned to requester.
+2022-07-20 22:43:38,091 During exec_dag_function time: 22.542238 ms.
+2022-07-20 22:43:38,193 Received a schedule for DAG retwis_dag (e06b59a9-ea19-4085-91f3-2fa7985d4723), function retwis_function.
+2022-07-20 22:43:38,193 Scheduler latency: 0.835419 ms.
+2022-07-20 22:43:38,193 Received a trigger for schedule e06b59a9-ea19-4085-91f3-2fa7985d4723, function retwis_function.
+2022-07-20 22:43:38,193 Before exec_dag_function time: 0.445604 ms.
+2022-07-20 22:43:38,214 DAG retwis_dag (ID e06b59a9-ea19-4085-91f3-2fa7985d4723) result returned to requester.
+2022-07-20 22:43:38,215 During exec_dag_function time: 21.099091 ms.
+2022-07-20 22:43:38,316 Received a schedule for DAG retwis_dag (c6f21f54-8a00-44e7-a5bd-41c227db233d), function retwis_function.
+2022-07-20 22:43:38,316 Scheduler latency: 0.825405 ms.
+2022-07-20 22:43:38,317 Received a trigger for schedule c6f21f54-8a00-44e7-a5bd-41c227db233d, function retwis_function.
+2022-07-20 22:43:38,317 Before exec_dag_function time: 0.385046 ms.
+2022-07-20 22:43:38,340 DAG retwis_dag (ID c6f21f54-8a00-44e7-a5bd-41c227db233d) result returned to requester.
+2022-07-20 22:43:38,340 During exec_dag_function time: 23.026466 ms.
+2022-07-20 22:43:38,442 Received a schedule for DAG retwis_dag (c028d583-38af-4457-9546-fb8a587463bf), function retwis_function.
+2022-07-20 22:43:38,442 Scheduler latency: 0.805140 ms.
+2022-07-20 22:43:38,442 Received a trigger for schedule c028d583-38af-4457-9546-fb8a587463bf, function retwis_function.
+2022-07-20 22:43:38,442 Before exec_dag_function time: 0.379562 ms.
+2022-07-20 22:43:38,464 DAG retwis_dag (ID c028d583-38af-4457-9546-fb8a587463bf) result returned to requester.
+2022-07-20 22:43:38,465 During exec_dag_function time: 22.592068 ms.
+2022-07-20 22:43:38,566 Received a schedule for DAG retwis_dag (37fcfefe-6904-476a-80a1-ff23fc2bb5dd), function retwis_function.
+2022-07-20 22:43:38,567 Scheduler latency: 0.794172 ms.
+2022-07-20 22:43:38,567 Received a trigger for schedule 37fcfefe-6904-476a-80a1-ff23fc2bb5dd, function retwis_function.
+2022-07-20 22:43:38,567 Before exec_dag_function time: 0.385523 ms.
+2022-07-20 22:43:38,589 DAG retwis_dag (ID 37fcfefe-6904-476a-80a1-ff23fc2bb5dd) result returned to requester.
+2022-07-20 22:43:38,589 During exec_dag_function time: 22.170067 ms.
+2022-07-20 22:43:38,691 Received a schedule for DAG retwis_dag (5cee97af-d214-4eb5-b30d-43d8a9afae74), function retwis_function.
+2022-07-20 22:43:38,691 Scheduler latency: 0.851631 ms.
+2022-07-20 22:43:38,691 Received a trigger for schedule 5cee97af-d214-4eb5-b30d-43d8a9afae74, function retwis_function.
+2022-07-20 22:43:38,692 Before exec_dag_function time: 0.391960 ms.
+2022-07-20 22:43:38,694 DAG retwis_dag (ID 5cee97af-d214-4eb5-b30d-43d8a9afae74) result returned to requester.
+2022-07-20 22:43:38,694 During exec_dag_function time: 2.529383 ms.
+2022-07-20 22:43:38,796 Received a schedule for DAG retwis_dag (a56061d3-7410-42ab-8c07-204385c75816), function retwis_function.
+2022-07-20 22:43:38,796 Scheduler latency: 0.824451 ms.
+2022-07-20 22:43:38,796 Received a trigger for schedule a56061d3-7410-42ab-8c07-204385c75816, function retwis_function.
+2022-07-20 22:43:38,796 Before exec_dag_function time: 0.370264 ms.
+2022-07-20 22:43:38,819 DAG retwis_dag (ID a56061d3-7410-42ab-8c07-204385c75816) result returned to requester.
+2022-07-20 22:43:38,819 During exec_dag_function time: 22.759438 ms.
+2022-07-20 22:43:38,921 Received a schedule for DAG retwis_dag (feb695fa-9d2f-449a-8733-e692d5d8cfae), function retwis_function.
+2022-07-20 22:43:38,921 Scheduler latency: 0.816584 ms.
+2022-07-20 22:43:38,921 Received a trigger for schedule feb695fa-9d2f-449a-8733-e692d5d8cfae, function retwis_function.
+2022-07-20 22:43:38,921 Before exec_dag_function time: 0.446558 ms.
+2022-07-20 22:43:38,942 DAG retwis_dag (ID feb695fa-9d2f-449a-8733-e692d5d8cfae) result returned to requester.
+2022-07-20 22:43:38,942 During exec_dag_function time: 20.859480 ms.
+2022-07-20 22:43:39,044 Received a schedule for DAG retwis_dag (1c021df3-b7e1-41ce-82cc-cc19b9dd16a8), function retwis_function.
+2022-07-20 22:43:39,044 Scheduler latency: 0.825405 ms.
+2022-07-20 22:43:39,044 Received a trigger for schedule 1c021df3-b7e1-41ce-82cc-cc19b9dd16a8, function retwis_function.
+2022-07-20 22:43:39,045 Before exec_dag_function time: 0.391483 ms.
+2022-07-20 22:43:39,067 DAG retwis_dag (ID 1c021df3-b7e1-41ce-82cc-cc19b9dd16a8) result returned to requester.
+2022-07-20 22:43:39,068 During exec_dag_function time: 23.056746 ms.
+2022-07-20 22:43:39,169 Received a schedule for DAG retwis_dag (e35e1187-032b-4732-a177-dab56870416f), function retwis_function.
+2022-07-20 22:43:39,169 Scheduler latency: 0.853300 ms.
+2022-07-20 22:43:39,170 Received a trigger for schedule e35e1187-032b-4732-a177-dab56870416f, function retwis_function.
+2022-07-20 22:43:39,170 Before exec_dag_function time: 0.437021 ms.
+2022-07-20 22:43:39,190 DAG retwis_dag (ID e35e1187-032b-4732-a177-dab56870416f) result returned to requester.
+2022-07-20 22:43:39,190 During exec_dag_function time: 20.455599 ms.
+2022-07-20 22:43:41,193 Total thread occupancy: 0.114171
+2022-07-20 22:43:41,193 	Event pin occupancy: 0.000000
+2022-07-20 22:43:41,193 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:41,193 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:41,193 	Event dag_queue occupancy: 0.003062
+2022-07-20 22:43:41,193 	Event dag_exec occupancy: 0.111109
+2022-07-20 22:43:41,194 functions {
+  name: "retwis_function"
+  call_count: 30
+  runtime: 0.022797822952270508
+  runtime: 0.02190852165222168
+  runtime: 0.02373671531677246
+  runtime: 0.02151203155517578
+  runtime: 0.023195743560791016
+  runtime: 0.021381616592407227
+  runtime: 0.023792505264282227
+  runtime: 0.02205824851989746
+  runtime: 0.0033674240112304688
+  runtime: 0.021091222763061523
+  runtime: 0.023372173309326172
+  runtime: 0.02154827117919922
+  runtime: 0.02357769012451172
+  runtime: 0.021744728088378906
+  runtime: 0.022963762283325195
+  runtime: 0.021834611892700195
+  runtime: 0.024042129516601562
+  runtime: 0.022242069244384766
+  runtime: 0.02301621437072754
+  runtime: 0.02177286148071289
+  runtime: 0.023273944854736328
+  runtime: 0.021862506866455078
+  runtime: 0.023709535598754883
+  runtime: 0.02325439453125
+  runtime: 0.022865772247314453
+  runtime: 0.0031690597534179688
+  runtime: 0.023457050323486328
+  runtime: 0.02160501480102539
+  runtime: 0.023779630661010742
+  runtime: 0.021192312240600586
+}
+dags {
+  name: "retwis_dag"
+  runtimes: 0.02340531349182129
+  runtimes: 0.022515535354614258
+  runtimes: 0.024266719818115234
+  runtimes: 0.022135496139526367
+  runtimes: 0.023772239685058594
+  runtimes: 0.02200913429260254
+  runtimes: 0.024372100830078125
+  runtimes: 0.022646665573120117
+  runtimes: 0.004013776779174805
+  runtimes: 0.021742820739746094
+  runtimes: 0.023943424224853516
+  runtimes: 0.022166967391967773
+  runtimes: 0.02417469024658203
+  runtimes: 0.022371768951416016
+  runtimes: 0.023527145385742188
+  runtimes: 0.02243947982788086
+  runtimes: 0.024609088897705078
+  runtimes: 0.02282547950744629
+  runtimes: 0.023585796356201172
+  runtimes: 0.022348642349243164
+  runtimes: 0.023865938186645508
+  runtimes: 0.02244400978088379
+  runtimes: 0.024297714233398438
+  runtimes: 0.02386760711669922
+  runtimes: 0.023413419723510742
+  runtimes: 0.00383758544921875
+  runtimes: 0.024014949798583984
+  runtimes: 0.022186756134033203
+  runtimes: 0.0243375301361084
+  runtimes: 0.02181077003479004
+}
+
+2022-07-20 22:43:46,199 Total thread occupancy: 0.000000
+2022-07-20 22:43:46,200 	Event pin occupancy: 0.000000
+2022-07-20 22:43:46,200 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:46,200 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:46,200 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:43:46,200 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:43:46,200 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:43:51,205 Total thread occupancy: 0.000000
+2022-07-20 22:43:51,205 	Event pin occupancy: 0.000000
+2022-07-20 22:43:51,205 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:51,205 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:51,205 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:43:51,205 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:43:51,205 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:43:56,211 Total thread occupancy: 0.000000
+2022-07-20 22:43:56,211 	Event pin occupancy: 0.000000
+2022-07-20 22:43:56,211 	Event unpin occupancy: 0.000000
+2022-07-20 22:43:56,211 	Event func_exec occupancy: 0.000000
+2022-07-20 22:43:56,211 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:43:56,211 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:43:56,211 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:01,217 Total thread occupancy: 0.000000
+2022-07-20 22:44:01,218 	Event pin occupancy: 0.000000
+2022-07-20 22:44:01,218 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:01,218 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:01,218 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:01,218 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:01,219 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:06,224 Total thread occupancy: 0.000000
+2022-07-20 22:44:06,224 	Event pin occupancy: 0.000000
+2022-07-20 22:44:06,224 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:06,224 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:06,224 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:06,224 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:06,224 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:11,229 Total thread occupancy: 0.000000
+2022-07-20 22:44:11,230 	Event pin occupancy: 0.000000
+2022-07-20 22:44:11,230 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:11,230 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:11,230 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:11,230 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:11,230 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:16,236 Total thread occupancy: 0.000000
+2022-07-20 22:44:16,236 	Event pin occupancy: 0.000000
+2022-07-20 22:44:16,236 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:16,236 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:16,236 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:16,236 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:16,236 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:21,242 Total thread occupancy: 0.000000
+2022-07-20 22:44:21,242 	Event pin occupancy: 0.000000
+2022-07-20 22:44:21,242 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:21,242 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:21,242 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:21,242 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:21,242 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:26,248 Total thread occupancy: 0.000000
+2022-07-20 22:44:26,248 	Event pin occupancy: 0.000000
+2022-07-20 22:44:26,248 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:26,248 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:26,248 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:26,248 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:26,248 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:31,254 Total thread occupancy: 0.000000
+2022-07-20 22:44:31,255 	Event pin occupancy: 0.000000
+2022-07-20 22:44:31,255 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:31,255 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:31,255 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:31,255 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:31,255 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:36,261 Total thread occupancy: 0.000000
+2022-07-20 22:44:36,261 	Event pin occupancy: 0.000000
+2022-07-20 22:44:36,261 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:36,261 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:36,261 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:36,261 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:36,261 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:41,267 Total thread occupancy: 0.000000
+2022-07-20 22:44:41,267 	Event pin occupancy: 0.000000
+2022-07-20 22:44:41,267 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:41,267 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:41,267 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:41,267 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:41,267 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:46,273 Total thread occupancy: 0.000000
+2022-07-20 22:44:46,273 	Event pin occupancy: 0.000000
+2022-07-20 22:44:46,273 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:46,273 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:46,273 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:46,273 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:46,273 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:51,279 Total thread occupancy: 0.000000
+2022-07-20 22:44:51,279 	Event pin occupancy: 0.000000
+2022-07-20 22:44:51,279 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:51,279 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:51,279 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:51,279 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:51,279 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:44:56,285 Total thread occupancy: 0.000000
+2022-07-20 22:44:56,285 	Event pin occupancy: 0.000000
+2022-07-20 22:44:56,285 	Event unpin occupancy: 0.000000
+2022-07-20 22:44:56,285 	Event func_exec occupancy: 0.000000
+2022-07-20 22:44:56,285 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:44:56,285 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:44:56,285 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:01,291 Total thread occupancy: 0.000000
+2022-07-20 22:45:01,292 	Event pin occupancy: 0.000000
+2022-07-20 22:45:01,293 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:01,293 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:01,293 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:01,293 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:01,293 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:06,298 Total thread occupancy: 0.000000
+2022-07-20 22:45:06,298 	Event pin occupancy: 0.000000
+2022-07-20 22:45:06,298 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:06,298 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:06,299 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:06,299 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:06,299 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:11,304 Total thread occupancy: 0.000000
+2022-07-20 22:45:11,304 	Event pin occupancy: 0.000000
+2022-07-20 22:45:11,304 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:11,304 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:11,304 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:11,304 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:11,304 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:16,310 Total thread occupancy: 0.000000
+2022-07-20 22:45:16,310 	Event pin occupancy: 0.000000
+2022-07-20 22:45:16,310 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:16,310 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:16,310 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:16,310 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:16,310 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:21,316 Total thread occupancy: 0.000000
+2022-07-20 22:45:21,316 	Event pin occupancy: 0.000000
+2022-07-20 22:45:21,316 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:21,316 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:21,316 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:21,316 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:21,316 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:26,322 Total thread occupancy: 0.000000
+2022-07-20 22:45:26,322 	Event pin occupancy: 0.000000
+2022-07-20 22:45:26,322 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:26,322 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:26,322 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:26,322 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:26,322 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:31,328 Total thread occupancy: 0.000000
+2022-07-20 22:45:31,328 	Event pin occupancy: 0.000000
+2022-07-20 22:45:31,329 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:31,329 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:31,330 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:31,330 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:31,330 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:36,335 Total thread occupancy: 0.000000
+2022-07-20 22:45:36,336 	Event pin occupancy: 0.000000
+2022-07-20 22:45:36,336 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:36,336 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:36,336 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:36,336 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:36,336 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:41,341 Total thread occupancy: 0.000000
+2022-07-20 22:45:41,341 	Event pin occupancy: 0.000000
+2022-07-20 22:45:41,341 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:41,341 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:41,341 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:41,341 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:41,341 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:46,347 Total thread occupancy: 0.000000
+2022-07-20 22:45:46,347 	Event pin occupancy: 0.000000
+2022-07-20 22:45:46,347 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:46,347 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:46,347 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:46,347 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:46,347 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:51,353 Total thread occupancy: 0.000000
+2022-07-20 22:45:51,353 	Event pin occupancy: 0.000000
+2022-07-20 22:45:51,353 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:51,353 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:51,353 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:51,353 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:51,353 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:45:56,359 Total thread occupancy: 0.000000
+2022-07-20 22:45:56,359 	Event pin occupancy: 0.000000
+2022-07-20 22:45:56,359 	Event unpin occupancy: 0.000000
+2022-07-20 22:45:56,359 	Event func_exec occupancy: 0.000000
+2022-07-20 22:45:56,359 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:45:56,359 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:45:56,359 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:01,365 Total thread occupancy: 0.000000
+2022-07-20 22:46:01,365 	Event pin occupancy: 0.000000
+2022-07-20 22:46:01,367 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:01,367 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:01,367 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:01,367 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:01,367 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:06,373 Total thread occupancy: 0.000000
+2022-07-20 22:46:06,373 	Event pin occupancy: 0.000000
+2022-07-20 22:46:06,373 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:06,373 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:06,373 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:06,373 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:06,373 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:11,378 Total thread occupancy: 0.000000
+2022-07-20 22:46:11,378 	Event pin occupancy: 0.000000
+2022-07-20 22:46:11,378 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:11,378 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:11,378 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:11,378 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:11,378 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:16,384 Total thread occupancy: 0.000000
+2022-07-20 22:46:16,384 	Event pin occupancy: 0.000000
+2022-07-20 22:46:16,384 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:16,384 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:16,385 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:16,385 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:16,385 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:21,390 Total thread occupancy: 0.000000
+2022-07-20 22:46:21,390 	Event pin occupancy: 0.000000
+2022-07-20 22:46:21,390 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:21,390 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:21,390 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:21,390 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:21,390 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:26,396 Total thread occupancy: 0.000000
+2022-07-20 22:46:26,396 	Event pin occupancy: 0.000000
+2022-07-20 22:46:26,396 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:26,396 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:26,396 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:26,396 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:26,396 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:31,402 Total thread occupancy: 0.000000
+2022-07-20 22:46:31,402 	Event pin occupancy: 0.000000
+2022-07-20 22:46:31,403 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:31,403 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:31,403 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:31,403 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:31,403 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:36,408 Total thread occupancy: 0.000000
+2022-07-20 22:46:36,408 	Event pin occupancy: 0.000000
+2022-07-20 22:46:36,408 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:36,408 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:36,408 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:36,408 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:36,408 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:41,414 Total thread occupancy: 0.000000
+2022-07-20 22:46:41,414 	Event pin occupancy: 0.000000
+2022-07-20 22:46:41,414 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:41,414 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:41,414 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:41,414 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:41,414 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:46,420 Total thread occupancy: 0.000000
+2022-07-20 22:46:46,420 	Event pin occupancy: 0.000000
+2022-07-20 22:46:46,420 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:46,420 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:46,420 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:46,420 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:46,420 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:51,426 Total thread occupancy: 0.000000
+2022-07-20 22:46:51,426 	Event pin occupancy: 0.000000
+2022-07-20 22:46:51,426 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:51,426 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:51,426 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:51,426 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:51,426 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:46:56,432 Total thread occupancy: 0.000000
+2022-07-20 22:46:56,432 	Event pin occupancy: 0.000000
+2022-07-20 22:46:56,432 	Event unpin occupancy: 0.000000
+2022-07-20 22:46:56,432 	Event func_exec occupancy: 0.000000
+2022-07-20 22:46:56,432 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:46:56,432 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:46:56,432 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:01,438 Total thread occupancy: 0.000000
+2022-07-20 22:47:01,438 	Event pin occupancy: 0.000000
+2022-07-20 22:47:01,438 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:01,438 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:01,438 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:01,438 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:01,438 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:06,444 Total thread occupancy: 0.000000
+2022-07-20 22:47:06,444 	Event pin occupancy: 0.000000
+2022-07-20 22:47:06,444 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:06,444 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:06,444 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:06,444 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:06,444 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:11,450 Total thread occupancy: 0.000000
+2022-07-20 22:47:11,450 	Event pin occupancy: 0.000000
+2022-07-20 22:47:11,450 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:11,450 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:11,450 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:11,450 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:11,450 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:16,456 Total thread occupancy: 0.000000
+2022-07-20 22:47:16,456 	Event pin occupancy: 0.000000
+2022-07-20 22:47:16,456 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:16,456 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:16,456 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:16,456 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:16,456 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:21,462 Total thread occupancy: 0.000000
+2022-07-20 22:47:21,462 	Event pin occupancy: 0.000000
+2022-07-20 22:47:21,462 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:21,462 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:21,462 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:21,462 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:21,462 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:26,468 Total thread occupancy: 0.000000
+2022-07-20 22:47:26,468 	Event pin occupancy: 0.000000
+2022-07-20 22:47:26,468 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:26,468 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:26,468 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:26,468 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:26,468 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:31,474 Total thread occupancy: 0.000000
+2022-07-20 22:47:31,474 	Event pin occupancy: 0.000000
+2022-07-20 22:47:31,474 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:31,474 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:31,474 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:31,474 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:31,474 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:36,480 Total thread occupancy: 0.000000
+2022-07-20 22:47:36,480 	Event pin occupancy: 0.000000
+2022-07-20 22:47:36,480 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:36,480 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:36,480 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:36,480 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:36,480 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:41,486 Total thread occupancy: 0.000000
+2022-07-20 22:47:41,486 	Event pin occupancy: 0.000000
+2022-07-20 22:47:41,486 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:41,486 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:41,486 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:41,486 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:41,487 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:46,492 Total thread occupancy: 0.000000
+2022-07-20 22:47:46,492 	Event pin occupancy: 0.000000
+2022-07-20 22:47:46,492 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:46,492 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:46,492 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:46,492 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:46,492 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:51,498 Total thread occupancy: 0.000000
+2022-07-20 22:47:51,498 	Event pin occupancy: 0.000000
+2022-07-20 22:47:51,498 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:51,498 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:51,498 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:51,498 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:51,498 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:47:56,504 Total thread occupancy: 0.000000
+2022-07-20 22:47:56,504 	Event pin occupancy: 0.000000
+2022-07-20 22:47:56,505 	Event unpin occupancy: 0.000000
+2022-07-20 22:47:56,505 	Event func_exec occupancy: 0.000000
+2022-07-20 22:47:56,505 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:47:56,505 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:47:56,505 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:01,511 Total thread occupancy: 0.000000
+2022-07-20 22:48:01,511 	Event pin occupancy: 0.000000
+2022-07-20 22:48:01,512 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:01,512 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:01,512 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:01,512 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:01,512 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:06,517 Total thread occupancy: 0.000000
+2022-07-20 22:48:06,517 	Event pin occupancy: 0.000000
+2022-07-20 22:48:06,517 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:06,517 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:06,517 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:06,517 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:06,517 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:11,523 Total thread occupancy: 0.000000
+2022-07-20 22:48:11,523 	Event pin occupancy: 0.000000
+2022-07-20 22:48:11,523 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:11,523 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:11,523 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:11,524 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:11,524 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:16,529 Total thread occupancy: 0.000000
+2022-07-20 22:48:16,530 	Event pin occupancy: 0.000000
+2022-07-20 22:48:16,530 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:16,530 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:16,530 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:16,530 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:16,530 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:21,536 Total thread occupancy: 0.000000
+2022-07-20 22:48:21,536 	Event pin occupancy: 0.000000
+2022-07-20 22:48:21,536 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:21,536 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:21,536 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:21,536 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:21,536 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:26,541 Total thread occupancy: 0.000000
+2022-07-20 22:48:26,542 	Event pin occupancy: 0.000000
+2022-07-20 22:48:26,542 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:26,542 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:26,542 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:26,542 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:26,542 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:31,548 Total thread occupancy: 0.000000
+2022-07-20 22:48:31,548 	Event pin occupancy: 0.000000
+2022-07-20 22:48:31,549 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:31,549 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:31,549 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:31,549 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:31,549 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:36,554 Total thread occupancy: 0.000000
+2022-07-20 22:48:36,554 	Event pin occupancy: 0.000000
+2022-07-20 22:48:36,554 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:36,554 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:36,554 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:36,554 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:36,554 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:41,560 Total thread occupancy: 0.000000
+2022-07-20 22:48:41,560 	Event pin occupancy: 0.000000
+2022-07-20 22:48:41,560 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:41,560 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:41,560 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:41,560 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:41,560 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:46,566 Total thread occupancy: 0.000000
+2022-07-20 22:48:46,566 	Event pin occupancy: 0.000000
+2022-07-20 22:48:46,566 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:46,566 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:46,566 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:46,566 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:46,566 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:51,572 Total thread occupancy: 0.000000
+2022-07-20 22:48:51,572 	Event pin occupancy: 0.000000
+2022-07-20 22:48:51,573 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:51,573 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:51,573 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:51,573 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:51,573 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:48:56,578 Total thread occupancy: 0.000000
+2022-07-20 22:48:56,578 	Event pin occupancy: 0.000000
+2022-07-20 22:48:56,578 	Event unpin occupancy: 0.000000
+2022-07-20 22:48:56,578 	Event func_exec occupancy: 0.000000
+2022-07-20 22:48:56,578 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:48:56,578 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:48:56,578 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:49:01,584 Total thread occupancy: 0.000000
+2022-07-20 22:49:01,584 	Event pin occupancy: 0.000000
+2022-07-20 22:49:01,585 	Event unpin occupancy: 0.000000
+2022-07-20 22:49:01,585 	Event func_exec occupancy: 0.000000
+2022-07-20 22:49:01,585 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:49:01,585 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:49:01,585 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:49:06,590 Total thread occupancy: 0.000000
+2022-07-20 22:49:06,590 	Event pin occupancy: 0.000000
+2022-07-20 22:49:06,590 	Event unpin occupancy: 0.000000
+2022-07-20 22:49:06,590 	Event func_exec occupancy: 0.000000
+2022-07-20 22:49:06,590 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:49:06,590 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:49:06,590 dags {
+  name: "retwis_dag"
+}
+
+2022-07-20 22:49:11,596 Total thread occupancy: 0.000000
+2022-07-20 22:49:11,596 	Event pin occupancy: 0.000000
+2022-07-20 22:49:11,596 	Event unpin occupancy: 0.000000
+2022-07-20 22:49:11,597 	Event func_exec occupancy: 0.000000
+2022-07-20 22:49:11,597 	Event dag_queue occupancy: 0.000000
+2022-07-20 22:49:11,597 	Event dag_exec occupancy: 0.000000
+2022-07-20 22:49:11,597 dags {
+  name: "retwis_dag"
+}
+
