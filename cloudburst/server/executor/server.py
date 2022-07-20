@@ -217,6 +217,8 @@ def executor(ip, mgmt_ip, schedulers, thread_id):
 
                 logging.info('Received a schedule for DAG %s (%s), function %s.' %
                              (schedule.dag.name, schedule.id, fname))
+                fschedtime = time.time()
+                logging.info('Scheduler latency: %.6f ms.' % ((fschedtime - schedule.start_time) * 1000.0))
 
                 if fname not in queue:
                     queue[fname] = {}
@@ -250,12 +252,17 @@ def executor(ip, mgmt_ip, schedulers, thread_id):
                     # We don't support actual batching for when we receive a
                     # schedule before a trigger, so everything is just a batch of
                     # size 1 if anything.
+                    fbefore = time.time()
+                    f1 = receive_times[(schedule.id, fname)]
+                    logging.info("Before exec_dag_function time: " + str((fbefore - f1) * 1000.0) + " ms")
                     success = exec_dag_function(pusher_cache, client,
                                                 [triggers], function_cache[fname],
                                                 [schedule], user_library,
                                                 dag_runtimes, cache, schedulers,
                                                 batching)[0]
                     user_library.close()
+                    fafter = time.time()
+                    logging.info("Before exec_dag_function time: " + str((fafter - fbefore) * 1000.0) + " ms")
 
                     del received_triggers[trkey]
                     if success:
@@ -359,13 +366,19 @@ def executor(ip, mgmt_ip, schedulers, thread_id):
             # Pass all of the trigger_sets into exec_dag_function at once.
             # We also include the batching variaible to make sure we know
             # whether to pass lists into the fn or not.
+            fp0 = receive_times[(trigger.id, fname)]
+            fp1 = time.time()
+            logging.info('Before exec_dag_function time: %.6f ms.' % ((fp1 - fp0) * 1000.0))
             successes = exec_dag_function(pusher_cache, client,
                                           trigger_sets,
                                           function_cache[fname],
                                           schedules, user_library,
                                           dag_runtimes, cache,
                                           schedulers, batching)
+            fp2 = time.time()
+            logging.info('During exec_dag_function time: %.6f ms.' % ((fp2 - fp1) * 1000.0))
             user_library.close()
+
             del received_triggers[key]
 
             for key, success in zip(trigger_keys, successes):

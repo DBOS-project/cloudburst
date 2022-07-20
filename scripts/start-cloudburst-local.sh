@@ -30,9 +30,9 @@ fi
 # attempting to execute the tests.
 export PYTHONPATH=$PYTHONPATH:$(pwd)
 
-python3 cloudburst/server/scheduler/server.py conf/cloudburst-local.yml &
+python3 cloudburst/server/scheduler/server.py conf/cloudburst-local.yml 2>&1 > runtime_scheduler.log &
 SPID=$!
-python3 cloudburst/server/executor/server.py conf/cloudburst-local.yml &
+python3 cloudburst/server/executor/server.py conf/cloudburst-local.yml 2>&1 > runtime_executor.log &
 EPID=$!
 
 echo $SPID > pids
